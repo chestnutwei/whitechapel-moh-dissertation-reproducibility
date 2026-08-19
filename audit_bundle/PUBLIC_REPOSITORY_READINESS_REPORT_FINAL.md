@@ -1,12 +1,12 @@
-# Public Repository Readiness Report — Five-Meeting Final Candidate
+# Public Repository Readiness Report — Polished Final Candidate
 
 Audit date: 19 August 2026
 
 ## Final verdict
 
 Repository published at https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility;
-Release v1.0.0 issued 19 August 2026. Dissertation Word/PDF administrative QA
-and the five-meeting supervision-log check are complete.
+Release v1.0.0 issued 19 August 2026. Dissertation Word/PDF source-check,
+final-polish and five-meeting supervision-log QA are complete.
 
 Frozen release:
 https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility/releases/tag/v1.0.0
@@ -21,22 +21,31 @@ The repository and frozen v1.0.0 release are public. No dissertation Word or PDF
 
 ## Dissertation administrative QA
 
-- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_FIVE_MEETINGS.docx`
-- Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL_FIVE_MEETINGS.pdf`
-- Microsoft Word body word count: **11,434 — PASS**
-- Abstract word count: **219 — PASS**
-- PDF pages / page size: **57 / A4 — PASS**
-- Word/PDF visual render: **57 / 57 pages PASS**
+- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_POLISHED.docx`
+- Final private DOCX SHA-256: `bb420df31bd6c027876be90688d0807b823fe793e1f2ebecb07874f88da724ba`
+- Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL_POLISHED.pdf`
+- Final private PDF SHA-256: `0118734904e887cecc18ec3fbd6bab5f1e6efd48c4c7884e68c82874000af12e`
+- Microsoft Word body word count: **11,423 — PASS**
+- Abstract word count: **221 — PASS**
+- PDF pages / page size: **58 / A4 — PASS**
+- Word/PDF visual render: **58 / 58 pages PASS**
+- Native Word PDF fonts: **Times New Roman / Calibri embedded — PASS**
 - Contents, chapter, figure, table and appendix pagination: **PASS**
+- Figure 7 image and complete caption kept together on page 34: **PASS**
+- Appendix B.2 heading and complete audit-trail table kept together on page 58: **PASS**
+- Close-reading selection: **23 passages; 15 core; 8 supporting — PASS**
 - Private dissertation, signature, audio or supervision files in public package: **0**
 
-The final administrative revision added the 17 August 2026 supervision meeting
-to Appendix B.1 and changed its introduction from four documented meetings to
-five. The supervision dates are 3 June, 8 July, 24 July, 7 August and 17 August
-2026. The dissertation body, frozen analytical data and results, citations,
-quotations, page references, source identifiers, bibliography, legislation,
-controlled dictionary, NMF specification, figures, tables, captions and
-numbering were otherwise preserved.
+The final private dissertation incorporates the source-checked model-dwellings
+interpretation in Section 1.1, saved NMF/LDA sensitivity disclosures in Section
+4.3, the Figure 7 passage-count clarification, the 12–14 August coordinate-review
+milestone, and the linked 1897/1899 Bell Lane reading in Section 6.2. Appendix
+B.1 still records the five supervision dates: 3 June, 8 July, 24 July, 7 August
+and 17 August 2026. Final local polish strengthened the Section 2.7 research
+gap, documented the 15-core/eight-supporting close-reading set in Section 6.1,
+connected Section 7.5 to the NMF/LDA limitation and repaired the final contents,
+figure-list and appendix pagination. Frozen analytical data and results, scripts,
+CSV, JSON, PNG, model outputs and release assets were not changed.
 
 ## Citation compliance correction
 
@@ -46,7 +55,7 @@ numbering were otherwise preserved.
 - LEGISLATION: **2 / 2 PASS**
 - TOTAL BIDIRECTIONAL COVERAGE: **28 / 28 PASS**
 - Previous series-coverage status remaining: **0**
-- MICROSOFT WORD COUNT: **11,434 — PASS**
+- MICROSOFT WORD COUNT: **11,423 — PASS**
 - GITHUB UPLOAD: **PUBLISHED — REPOSITORY AND v1.0.0 RELEASE AVAILABLE**
 
 The synthetic range citation in §3.3 was replaced by the explicit annual list
@@ -103,6 +112,17 @@ release does not contain the environment, bytecode or test caches.
 - Place-disease: **12 pairs; 9 false structural/list adjacency; 2 direct; 1 management context**
 - Legacy replacement characters under the frozen decoding workflow: **5,993**
 - Random-start NMF: **INFO-only and non-blocking**
+
+## Legacy verification clarification
+
+The root README now identifies
+`reproducibility/analysis/chapter5/verification/` as a provenance-preserving
+intermediate verification area. Its legacy `chapter5` name predates the final
+dissertation chapter numbering and largely corresponds to final Chapter 6.
+The superseded `chapter5_category_count_check.csv` is not a final category-count
+source. The authoritative frozen totals are in
+`reproducibility/outputs/tables/chapter3/fig2_theme_distribution_data.csv`:
+264 governance, 249 sanitary, 158 housing, 86 disease and 47 inequality.
 
 ## Source and traceability audits
 

@@ -82,6 +82,19 @@ analytical input. This character noise is a source limitation. Quotations
 used in the dissertation were separately checked against the source text or
 the original report page image, as recorded in the quotation audit.
 
+## Legacy verification outputs
+
+`reproducibility/analysis/chapter5/verification/` contains intermediate
+verification artifacts retained for provenance, and some category-count files
+there reflect superseded analytical states. The legacy `chapter5` folder name
+predates the final dissertation chapter numbering and largely corresponds to
+material reported in final Chapter 6. Final dissertation figures and category
+counts must be taken from the frozen final outputs used by Chapters 3–4 and
+Appendix A, specifically
+`reproducibility/outputs/tables/chapter3/fig2_theme_distribution_data.csv`
+for the final category-record totals. Do not treat
+`chapter5_category_count_check.csv` as the final category-count source.
+
 ## NMF reproducibility boundary
 
 The canonical primary NMF result is the deterministic `k=7`, `nndsvda`,
