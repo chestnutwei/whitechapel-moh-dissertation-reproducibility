@@ -4,13 +4,21 @@ Audit date: 19 August 2026
 
 ## Final verdict
 
-PUBLIC GITHUB RELEASE: **WAITING FOR FINAL WORD/PDF ADMIN QA**
+PUBLIC GITHUB RELEASE: **PUBLISHED**
 
-No file was pushed or uploaded to GitHub. A separate private dissertation DOCX
-was created with one §3.3 citation replacement; no dissertation PDF was issued
-and no dissertation file is included in either public package. All frozen
-analytical results remain unchanged.
+Repository:
+https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility
 
+Frozen release:
+https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility/releases/tag/v1.0.0
+
+Release asset:
+`Whitechapel_Dissertation_Reproducibility_PUBLIC_FINAL_CITATIONFIX_CLEAN.zip`
+
+SHA-256:
+`83145cf726f34cd3baa5842cd9dd945a28b169b2b9289e3a866f5ccc0c41c4bd`
+
+The repository and frozen v1.0.0 release are public. No dissertation Word or PDF file is included in the public repository or release asset. All frozen analytical results remain unchanged.
 ## Citation compliance correction
 
 - §3.3 RANGE CITATION REMOVED: **PASS**
@@ -20,7 +28,7 @@ analytical results remain unchanged.
 - TOTAL BIDIRECTIONAL COVERAGE: **28 / 28 PASS**
 - Previous series-coverage status remaining: **0**
 - MICROSOFT WORD COUNT: **WORD COUNT REQUIRES MICROSOFT WORD RECALCULATION**
-- GITHUB UPLOAD: **NOT YET — WAIT FOR FINAL WORD/PDF ADMIN QA**
+- GITHUB UPLOAD: **PUBLISHED — REPOSITORY AND v1.0.0 RELEASE AVAILABLE**
 
 The synthetic range citation in §3.3 was replaced by the explicit annual list
 for 1891 through 1900. B18, Whitechapel Board of Works (1892), b19883663, now
