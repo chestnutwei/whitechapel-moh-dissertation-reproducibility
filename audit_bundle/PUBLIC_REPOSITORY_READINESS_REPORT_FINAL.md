@@ -1,6 +1,6 @@
 # Public Repository Readiness Report — Polished Final Candidate
 
-Audit date: 19 August 2026
+Audit date: 20 August 2026
 
 ## Final verdict
 
@@ -21,8 +21,8 @@ The repository and frozen v1.0.0 release are public. No dissertation Word or PDF
 
 ## Dissertation administrative QA
 
-- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_POLISHED.docx`
-- Final private DOCX SHA-256: `bb420df31bd6c027876be90688d0807b823fe793e1f2ebecb07874f88da724ba`
+- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_SUBMISSION_v2.docx`
+- Final private DOCX SHA-256: `c6037301b26c32915a8aba5ac0c4d5bca44d5ca645837fe8218c8eac7f17f270`
 - Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL_POLISHED.pdf`
 - Final private PDF SHA-256: `0118734904e887cecc18ec3fbd6bab5f1e6efd48c4c7884e68c82874000af12e`
 - Microsoft Word body word count: **11,423 — PASS**
@@ -155,7 +155,7 @@ Montague Street, 9 Shepherd Street, 5 Cox Square and 12 Duncan Street.
 - Transfer archive: `Whitechapel_GitHub_Upload_FINAL_FIVE_MEETINGS_CLEAN.zip`
 - Transfer archive CRC / integrity: **PASS**
 - Final public regression check: **PASS**
-- Final audit update pushed to `main`: **19 AUGUST 2026**
+- Final audit update pushed to `main`: **20 AUGUST 2026**
 
 The repository README identifies all nine companion forensic files under
 `audit_bundle/`. These files are outside the clean analytical ZIP, so the
