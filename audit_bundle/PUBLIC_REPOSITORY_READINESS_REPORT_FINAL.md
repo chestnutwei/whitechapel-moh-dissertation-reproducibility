@@ -4,10 +4,7 @@ Audit date: 19 August 2026
 
 ## Final verdict
 
-PUBLIC GITHUB RELEASE: **PUBLISHED**
-
-Repository:
-https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility
+Repository published at https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility; Release v1.0.0 issued 19 August 2026. Dissertation Word/PDF administrative QA pending.
 
 Frozen release:
 https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility/releases/tag/v1.0.0
