@@ -106,9 +106,8 @@ epidemiological distribution.
 Suggested repository citation:
 
 > Jiang, Jie (2026). *Sanitary Governance and Urban Inequality in
-> Whitechapel, 1890–1899: Reproducibility Repository*.
-
-Add the final public repository URL and release identifier after publication.
+> Whitechapel, 1890–1899: Reproducibility Repository*. v1.0.0.  
+> https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility
 
 ## Licence and source rights
 
@@ -117,6 +116,4 @@ annotations are offered under CC BY 4.0 where the author owns the rights.
 Historical transcription data, map imagery and external sources have separate
 conditions. Read `RIGHTS_AND_LICENSING.md` before reuse.
 
-For reproducibility questions, use the issue tracker of the final public
-repository after it is published. No files have been uploaded or pushed by
-this audit.
+For reproducibility questions, please use this repository’s issue tracker.
