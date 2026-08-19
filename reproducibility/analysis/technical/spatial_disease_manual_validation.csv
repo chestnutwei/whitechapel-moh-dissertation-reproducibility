@@ -1,0 +1,13 @@
+passage_id,place,validation_status,validation_reason
+1890_0032,Mile End New Town,false_structural_adjacency,Notification Act discussion precedes an appendix list of licensed slaughter-houses; the place occurs in the address list rather than as a disease location.
+1890_0032,Whitechapel Road,false_structural_adjacency,Notification Act discussion precedes an appendix list of licensed slaughter-houses; the place occurs in the address list rather than as a disease location.
+1890_0032,Hanbury Street,false_structural_adjacency,Notification Act discussion precedes an appendix list of licensed slaughter-houses; the place occurs in the address list rather than as a disease location.
+1893_0011,Mile End Old Town,false_structural_adjacency,Cholera is discussed in relation to international disease control before a separate census discussion lists Mile End Old Town among East End districts.
+1894_0011,Mile End New Town,false_structural_adjacency,Cholera precautions are discussed before a separate mortality-distribution list names the sub-district; the passage does not locate cholera there.
+1894_0011,Spitalfields,false_structural_adjacency,Cholera precautions are discussed before a separate mortality-distribution list names the sub-district; the passage does not locate cholera there.
+1894_0059,Wentworth Street,false_structural_adjacency,Scarlet fever belongs to the separate enforcement entry for 1 New Buildings Tenter Street; the Wentworth Street entry concerns unfit chestnuts and watermelons.
+1894_0059,Hanbury Street,false_structural_adjacency,Scarlet fever belongs to the separate enforcement entry for 1 New Buildings Tenter Street; the Hanbury Street entry concerns housing unfitness.
+1895_0014,Whitechapel Road,direct_place_institution_disease,The passage directly links small-pox control and re-vaccination to the Salvation Army Shelter in Whitechapel Road.
+1895_0014,Commercial Street,direct_place_institution_disease,The passage directly states that eight small-pox cases occurred among men associated with the Victoria Home at No. 1 Commercial Street.
+1895_0074,Wentworth Street,false_structural_adjacency,Scarlet-fever enforcement entries concern Finch Street; the Wentworth Street entry concerns eggs unfit for human food.
+1897_0015,Mile End Old Town,management_context_only,Small-pox and vaccination are discussed in the same passage as anti-vaccination posters circulated in Mile End Old Town; this is a disease-management discourse association rather than a case location.

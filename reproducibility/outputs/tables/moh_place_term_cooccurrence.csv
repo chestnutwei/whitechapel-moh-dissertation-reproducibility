@@ -1,0 +1,558 @@
+report_id,report_year,place_id,standard_name,matched_variants,category,term,window_words,cooccurrence_count
+b19883651,1890,P001,Whitechapel Road,whitechapel road,sanitary,sanitary,50,1
+b19883651,1890,P001,Whitechapel Road,whitechapel road,housing,houses,50,4
+b19883651,1890,P003,Brick Lane,brick lane,housing,houses,50,2
+b19883651,1890,P006,Wentworth Street,wentworth street,housing,houses,50,2
+b19883651,1890,P007,Flower and Dean Street,flower and dean street,housing,houses,50,2
+b19883651,1890,P008,Dorset Street,dorset street,housing,houses,50,2
+b19883651,1890,P009,Hanbury Street,hanbury street,housing,houses,50,2
+b19883651,1890,P010,Leman Street,leman street,sanitary,sanitary,50,1
+b19883651,1890,P010,Leman Street,leman street,governance,medical officer,50,1
+b19883651,1890,P010,Leman Street,leman street,governance,board,50,1
+b19883651,1890,P011,Aldgate,aldgate,housing,dwellings,50,2
+b19883651,1890,P011,Aldgate,aldgate,governance,board,50,2
+b19883651,1890,P012,Spitalfields,spitalfields,sanitary,water supply,50,1
+b19883651,1890,P012,Spitalfields,spitalfields,housing,dwellings,50,1
+b19883651,1890,P012,Spitalfields,spitalfields,housing,rooms,50,1
+b19883651,1890,P012,Spitalfields,spitalfields,governance,board,50,1
+b19883651,1890,P014,Mile End New Town,mile end new town,sanitary,sanitary,50,1
+b19883651,1890,P014,Mile End New Town,mile end new town,housing,dwellings,50,2
+b19883651,1890,P014,Mile End New Town,mile end new town,housing,houses,50,2
+b19883651,1890,P014,Mile End New Town,mile end new town,governance,board,50,1
+b19883651,1890,P016,London Hospital,london hospital,disease,fever,50,7
+b19883651,1890,P016,London Hospital,london hospital,disease,scarlet fever,50,2
+b19883651,1890,P016,London Hospital,london hospital,disease,typhus,50,2
+b19883651,1890,P016,London Hospital,london hospital,disease,measles,50,3
+b19883651,1890,P016,London Hospital,london hospital,disease,diphtheria,50,3
+b19883651,1890,P016,London Hospital,london hospital,housing,dwellings,50,1
+b19883651,1890,P016,London Hospital,london hospital,housing,houses,50,2
+b19883651,1890,P016,London Hospital,london hospital,governance,board,50,3
+b19883651,1890,P018,Commercial Street,commercial street,disease,fever,50,9
+b19883651,1890,P018,Commercial Street,commercial street,disease,scarlet fever,50,3
+b19883651,1890,P018,Commercial Street,commercial street,disease,typhus,50,3
+b19883651,1890,P018,Commercial Street,commercial street,disease,measles,50,3
+b19883651,1890,P018,Commercial Street,commercial street,disease,diphtheria,50,3
+b19883651,1890,P018,Commercial Street,commercial street,sanitary,drains,50,1
+b19883651,1890,P018,Commercial Street,commercial street,housing,houses,50,2
+b19883651,1890,P019,George Yard,george yard,disease,fever,50,3
+b19883651,1890,P019,George Yard,george yard,disease,scarlet fever,50,1
+b19883651,1890,P019,George Yard,george yard,disease,typhus,50,1
+b19883651,1890,P019,George Yard,george yard,disease,measles,50,1
+b19883651,1890,P019,George Yard,george yard,disease,diphtheria,50,1
+b19883651,1890,P019,George Yard,george yard,housing,houses,50,1
+b19883651,1890,P019,George Yard,george yard,housing,rooms,50,2
+b19883651,1890,P020,Thrawl Street,thrawl street,disease,fever,50,9
+b19883651,1890,P020,Thrawl Street,thrawl street,disease,scarlet fever,50,3
+b19883651,1890,P020,Thrawl Street,thrawl street,disease,typhus,50,3
+b19883651,1890,P020,Thrawl Street,thrawl street,disease,measles,50,3
+b19883651,1890,P020,Thrawl Street,thrawl street,disease,diphtheria,50,3
+b19883651,1890,P022,Mile End Old Town,mile end old town,disease,fever,50,1
+b19883663,1891,P001,Whitechapel Road,whitechapel road,housing,houses,50,3
+b19883663,1891,P002,Whitechapel High Street,whitechapel high street,sanitary,refuse,50,1
+b19883663,1891,P003,Brick Lane,brick lane,housing,houses,50,2
+b19883663,1891,P004,Commercial Road,commercial road,disease,fever,50,6
+b19883663,1891,P004,Commercial Road,commercial road,disease,scarlet fever,50,2
+b19883663,1891,P004,Commercial Road,commercial road,disease,typhus,50,2
+b19883663,1891,P004,Commercial Road,commercial road,disease,measles,50,1
+b19883663,1891,P004,Commercial Road,commercial road,disease,diphtheria,50,1
+b19883663,1891,P006,Wentworth Street,wentworth street,housing,houses,50,2
+b19883663,1891,P007,Flower and Dean Street,flower and dean street,housing,houses,50,2
+b19883663,1891,P008,Dorset Street,dorset street,disease,fever,50,1
+b19883663,1891,P008,Dorset Street,dorset street,disease,measles,50,1
+b19883663,1891,P008,Dorset Street,dorset street,disease,diphtheria,50,1
+b19883663,1891,P008,Dorset Street,dorset street,housing,houses,50,2
+b19883663,1891,P009,Hanbury Street,hanbury street,housing,houses,50,2
+b19883663,1891,P010,Leman Street,leman street,sanitary,sanitary,50,1
+b19883663,1891,P010,Leman Street,leman street,housing,houses,50,3
+b19883663,1891,P010,Leman Street,leman street,housing,rooms,50,1
+b19883663,1891,P010,Leman Street,leman street,governance,medical officer,50,1
+b19883663,1891,P010,Leman Street,leman street,governance,board,50,1
+b19883663,1891,P011,Aldgate,aldgate,disease,influenza,50,2
+b19883663,1891,P011,Aldgate,aldgate,housing,houses,50,1
+b19883663,1891,P011,Aldgate,aldgate,governance,board,50,1
+b19883663,1891,P012,Spitalfields,spitalfields,disease,fever,50,1
+b19883663,1891,P012,Spitalfields,spitalfields,disease,scarlet fever,50,1
+b19883663,1891,P012,Spitalfields,spitalfields,disease,measles,50,1
+b19883663,1891,P012,Spitalfields,spitalfields,disease,influenza,50,5
+b19883663,1891,P012,Spitalfields,spitalfields,housing,houses,50,4
+b19883663,1891,P012,Spitalfields,spitalfields,housing,rooms,50,1
+b19883663,1891,P012,Spitalfields,spitalfields,governance,board,50,1
+b19883663,1891,P013,Mile End,mile end,housing,houses,50,2
+b19883663,1891,P013,Mile End,mile end,housing,rooms,50,1
+b19883663,1891,P014,Mile End New Town,mile end new town,disease,fever,50,2
+b19883663,1891,P014,Mile End New Town,mile end new town,disease,scarlet fever,50,1
+b19883663,1891,P014,Mile End New Town,mile end new town,disease,measles,50,1
+b19883663,1891,P014,Mile End New Town,mile end new town,disease,influenza,50,3
+b19883663,1891,P014,Mile End New Town,mile end new town,disease,diphtheria,50,1
+b19883663,1891,P014,Mile End New Town,mile end new town,housing,houses,50,3
+b19883663,1891,P014,Mile End New Town,mile end new town,governance,board,50,1
+b19883663,1891,P016,London Hospital,london hospital,disease,measles,50,1
+b19883663,1891,P016,London Hospital,london hospital,disease,influenza,50,1
+b19883663,1891,P016,London Hospital,london hospital,housing,houses,50,1
+b19883663,1891,P016,London Hospital,london hospital,governance,board,50,1
+b19883663,1891,P018,Commercial Street,commercial street,housing,houses,50,2
+b19883663,1891,P019,George Yard,george yard,sanitary,sanitary,50,1
+b19883663,1891,P019,George Yard,george yard,housing,houses,50,1
+b19883663,1891,P020,Thrawl Street,thrawl street,disease,fever,50,3
+b19883663,1891,P020,Thrawl Street,thrawl street,disease,scarlet fever,50,1
+b19883663,1891,P020,Thrawl Street,thrawl street,disease,typhus,50,1
+b19883663,1891,P020,Thrawl Street,thrawl street,disease,diphtheria,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,disease,fever,50,3
+b19883663,1891,P022,Mile End Old Town,mile end old town,disease,scarlet fever,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,disease,typhus,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,disease,measles,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,disease,diphtheria,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,sanitary,sanitary,50,1
+b19883663,1891,P022,Mile End Old Town,mile end old town,governance,board,50,1
+b19883675,1892,P001,Whitechapel Road,whitechapel road,housing,houses,50,3
+b19883675,1892,P003,Brick Lane,brick lane,sanitary,water supply,50,2
+b19883675,1892,P003,Brick Lane,brick lane,housing,houses,50,2
+b19883675,1892,P006,Wentworth Street,wentworth street,housing,houses,50,3
+b19883675,1892,P007,Flower and Dean Street,flower and dean street,housing,houses,50,2
+b19883675,1892,P008,Dorset Street,dorset street,housing,houses,50,2
+b19883675,1892,P009,Hanbury Street,hanbury street,housing,houses,50,3
+b19883675,1892,P010,Leman Street,leman street,sanitary,sanitary,50,2
+b19883675,1892,P010,Leman Street,leman street,governance,medical officer,50,2
+b19883675,1892,P010,Leman Street,leman street,governance,board,50,3
+b19883675,1892,P012,Spitalfields,spitalfields,disease,fever,50,14
+b19883675,1892,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b19883675,1892,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b19883675,1892,P012,Spitalfields,spitalfields,disease,typhus,50,4
+b19883675,1892,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b19883675,1892,P012,Spitalfields,spitalfields,disease,influenza,50,2
+b19883675,1892,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b19883675,1892,P012,Spitalfields,spitalfields,governance,board,50,3
+b19883675,1892,P014,Mile End New Town,mile end new town,disease,fever,50,6
+b19883675,1892,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b19883675,1892,P014,Mile End New Town,mile end new town,disease,typhus,50,3
+b19883675,1892,P014,Mile End New Town,mile end new town,disease,typhoid,50,1
+b19883675,1892,P014,Mile End New Town,mile end new town,disease,influenza,50,1
+b19883675,1892,P014,Mile End New Town,mile end new town,housing,houses,50,2
+b19883675,1892,P014,Mile End New Town,mile end new town,governance,board,50,2
+b19883675,1892,P016,London Hospital,london hospital,disease,fever,50,5
+b19883675,1892,P016,London Hospital,london hospital,disease,scarlet fever,50,2
+b19883675,1892,P016,London Hospital,london hospital,disease,typhus,50,1
+b19883675,1892,P016,London Hospital,london hospital,disease,measles,50,1
+b19883675,1892,P016,London Hospital,london hospital,disease,diphtheria,50,1
+b19883675,1892,P016,London Hospital,london hospital,sanitary,sanitary,50,1
+b19883675,1892,P016,London Hospital,london hospital,housing,dwellings,50,3
+b19883675,1892,P016,London Hospital,london hospital,housing,houses,50,5
+b19883675,1892,P016,London Hospital,london hospital,governance,inspections,50,1
+b19883675,1892,P016,London Hospital,london hospital,governance,board,50,1
+b19883675,1892,P018,Commercial Street,commercial street,housing,houses,50,3
+b19883675,1892,P019,George Yard,george yard,housing,houses,50,1
+b19883675,1892,P020,Thrawl Street,thrawl street,housing,houses,50,1
+b19883675,1892,P021,Fashion Street,fashion street,disease,fever,50,6
+b19883675,1892,P021,Fashion Street,fashion street,disease,scarlet fever,50,2
+b19883675,1892,P021,Fashion Street,fashion street,disease,typhus,50,2
+b19883675,1892,P021,Fashion Street,fashion street,disease,measles,50,2
+b19883675,1892,P021,Fashion Street,fashion street,disease,diphtheria,50,2
+b19883675,1892,P022,Mile End Old Town,mile end old town,disease,fever,50,1
+b19883675,1892,P022,Mile End Old Town,mile end old town,disease,scarlet fever,50,1
+b19883675,1892,P022,Mile End Old Town,mile end old town,disease,measles,50,1
+b19883675,1892,P022,Mile End Old Town,mile end old town,disease,diphtheria,50,1
+b19883675,1892,P022,Mile End Old Town,mile end old town,sanitary,sanitary,50,1
+b18018348,1893,P001,Whitechapel Road,whitechapel road,housing,dwellings,50,2
+b18018348,1893,P003,Brick Lane,brick lane,housing,overcrowding,50,1
+b18018348,1893,P003,Brick Lane,brick lane,housing,houses,50,3
+b18018348,1893,P006,Wentworth Street,wentworth street,governance,board,50,1
+b18018348,1893,P007,Flower and Dean Street,flower and dean street,housing,houses,50,2
+b18018348,1893,P008,Dorset Street,dorset street,disease,fever,50,2
+b18018348,1893,P008,Dorset Street,dorset street,disease,scarlet fever,50,1
+b18018348,1893,P008,Dorset Street,dorset street,disease,typhus,50,1
+b18018348,1893,P008,Dorset Street,dorset street,disease,typhoid,50,1
+b18018348,1893,P008,Dorset Street,dorset street,housing,houses,50,2
+b18018348,1893,P009,Hanbury Street,hanbury street,sanitary,sanitary,50,1
+b18018348,1893,P009,Hanbury Street,hanbury street,housing,houses,50,1
+b18018348,1893,P009,Hanbury Street,hanbury street,governance,board,50,1
+b18018348,1893,P010,Leman Street,leman street,disease,fever,50,4
+b18018348,1893,P010,Leman Street,leman street,disease,scarlet fever,50,2
+b18018348,1893,P010,Leman Street,leman street,disease,typhus,50,2
+b18018348,1893,P010,Leman Street,leman street,disease,typhoid,50,2
+b18018348,1893,P010,Leman Street,leman street,disease,measles,50,1
+b18018348,1893,P010,Leman Street,leman street,disease,diphtheria,50,2
+b18018348,1893,P010,Leman Street,leman street,sanitary,sanitary,50,1
+b18018348,1893,P010,Leman Street,leman street,housing,dwellings,50,1
+b18018348,1893,P010,Leman Street,leman street,housing,houses,50,1
+b18018348,1893,P010,Leman Street,leman street,governance,medical officer,50,1
+b18018348,1893,P010,Leman Street,leman street,governance,board,50,1
+b18018348,1893,P011,Aldgate,aldgate,housing,houses,50,8
+b18018348,1893,P011,Aldgate,aldgate,governance,board,50,3
+b18018348,1893,P012,Spitalfields,spitalfields,disease,fever,50,14
+b18018348,1893,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b18018348,1893,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b18018348,1893,P012,Spitalfields,spitalfields,disease,typhus,50,3
+b18018348,1893,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b18018348,1893,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b18018348,1893,P012,Spitalfields,spitalfields,disease,diarrhoea,50,1
+b18018348,1893,P012,Spitalfields,spitalfields,sanitary,drainage,50,1
+b18018348,1893,P012,Spitalfields,spitalfields,housing,houses,50,7
+b18018348,1893,P012,Spitalfields,spitalfields,governance,notices,50,2
+b18018348,1893,P012,Spitalfields,spitalfields,governance,board,50,3
+b18018348,1893,P013,Mile End,mile end,housing,houses,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,disease,fever,50,6
+b18018348,1893,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,disease,typhus,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,disease,influenza,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,sanitary,sanitary,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,housing,houses,50,9
+b18018348,1893,P014,Mile End New Town,mile end new town,governance,notices,50,2
+b18018348,1893,P014,Mile End New Town,mile end new town,governance,medical officer,50,1
+b18018348,1893,P014,Mile End New Town,mile end new town,governance,board,50,5
+b18018348,1893,P016,London Hospital,london hospital,disease,fever,50,5
+b18018348,1893,P016,London Hospital,london hospital,disease,consumption,50,1
+b18018348,1893,P016,London Hospital,london hospital,sanitary,sanitary,50,2
+b18018348,1893,P016,London Hospital,london hospital,housing,dwellings,50,3
+b18018348,1893,P016,London Hospital,london hospital,housing,houses,50,2
+b18018348,1893,P016,London Hospital,london hospital,housing,rooms,50,1
+b18018348,1893,P016,London Hospital,london hospital,governance,board,50,1
+b18018348,1893,P017,Whitechapel Workhouse,whitechapel workhouse,housing,rooms,50,1
+b18018348,1893,P018,Commercial Street,commercial street,housing,dwellings,50,1
+b18018348,1893,P018,Commercial Street,commercial street,housing,houses,50,2
+b18018348,1893,P019,George Yard,george yard,housing,houses,50,1
+b18018348,1893,P021,Fashion Street,fashion street,housing,houses,50,1
+b18018348,1893,P022,Mile End Old Town,mile end old town,housing,houses,50,2
+b18018348,1893,P022,Mile End Old Town,mile end old town,governance,inspection,50,1
+b18018348,1893,P022,Mile End Old Town,mile end old town,governance,board,50,1
+b1801835x,1894,P001,Whitechapel Road,whitechapel road,sanitary,sanitary,50,1
+b1801835x,1894,P001,Whitechapel Road,whitechapel road,housing,dwellings,50,1
+b1801835x,1894,P003,Brick Lane,brick lane,housing,houses,50,3
+b1801835x,1894,P004,Commercial Road,commercial road,sanitary,sanitary,50,1
+b1801835x,1894,P004,Commercial Road,commercial road,housing,houses,50,1
+b1801835x,1894,P004,Commercial Road,commercial road,governance,board,50,2
+b1801835x,1894,P006,Wentworth Street,wentworth street,disease,fever,50,1
+b1801835x,1894,P006,Wentworth Street,wentworth street,disease,scarlet fever,50,1
+b1801835x,1894,P006,Wentworth Street,wentworth street,sanitary,sanitary,50,2
+b1801835x,1894,P006,Wentworth Street,wentworth street,sanitary,drain,50,3
+b1801835x,1894,P006,Wentworth Street,wentworth street,sanitary,filth,50,3
+b1801835x,1894,P006,Wentworth Street,wentworth street,sanitary,dirty,50,4
+b1801835x,1894,P006,Wentworth Street,wentworth street,sanitary,water supply,50,1
+b1801835x,1894,P006,Wentworth Street,wentworth street,housing,overcrowded,50,1
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,disease,fever,50,6
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,disease,scarlet fever,50,1
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,disease,typhoid,50,2
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,disease,measles,50,2
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,disease,diphtheria,50,2
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,housing,dwellings,50,2
+b1801835x,1894,P007,Flower and Dean Street,flower and dean street,housing,houses,50,3
+b1801835x,1894,P008,Dorset Street,dorset street,housing,houses,50,3
+b1801835x,1894,P009,Hanbury Street,hanbury street,disease,fever,50,3
+b1801835x,1894,P009,Hanbury Street,hanbury street,disease,scarlet fever,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,disease,typhoid,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,disease,measles,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,disease,diphtheria,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,sanitary,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,drain,50,2
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,nuisance,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,filth,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,dirty,50,3
+b1801835x,1894,P009,Hanbury Street,hanbury street,sanitary,water supply,50,2
+b1801835x,1894,P009,Hanbury Street,hanbury street,housing,overcrowded,50,2
+b1801835x,1894,P009,Hanbury Street,hanbury street,housing,dwellings,50,2
+b1801835x,1894,P009,Hanbury Street,hanbury street,housing,houses,50,2
+b1801835x,1894,P009,Hanbury Street,hanbury street,governance,summonses,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,governance,medical officer,50,1
+b1801835x,1894,P009,Hanbury Street,hanbury street,governance,board,50,2
+b1801835x,1894,P010,Leman Street,leman street,sanitary,sanitary,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,fever,50,13
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,typhus,50,3
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b1801835x,1894,P012,Spitalfields,spitalfields,disease,diarrhoea,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,sanitary,sanitary,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,sanitary,refuse,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,housing,dwellings,50,2
+b1801835x,1894,P012,Spitalfields,spitalfields,housing,houses,50,3
+b1801835x,1894,P012,Spitalfields,spitalfields,governance,inspector,50,1
+b1801835x,1894,P012,Spitalfields,spitalfields,governance,board,50,1
+b1801835x,1894,P014,Mile End New Town,mile end new town,disease,fever,50,6
+b1801835x,1894,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b1801835x,1894,P014,Mile End New Town,mile end new town,disease,typhus,50,1
+b1801835x,1894,P014,Mile End New Town,mile end new town,disease,diphtheria,50,1
+b1801835x,1894,P014,Mile End New Town,mile end new town,sanitary,refuse,50,1
+b1801835x,1894,P016,London Hospital,london hospital,disease,fever,50,1
+b1801835x,1894,P016,London Hospital,london hospital,sanitary,sanitary,50,2
+b1801835x,1894,P016,London Hospital,london hospital,housing,dwellings,50,1
+b1801835x,1894,P016,London Hospital,london hospital,housing,houses,50,3
+b1801835x,1894,P016,London Hospital,london hospital,governance,medical officer,50,1
+b1801835x,1894,P016,London Hospital,london hospital,governance,board,50,2
+b1801835x,1894,P018,Commercial Street,commercial street,sanitary,sanitary,50,1
+b1801835x,1894,P018,Commercial Street,commercial street,housing,houses,50,3
+b1801835x,1894,P019,George Yard,george yard,disease,fever,50,1
+b1801835x,1894,P019,George Yard,george yard,disease,measles,50,1
+b1801835x,1894,P019,George Yard,george yard,housing,houses,50,3
+b1801835x,1894,P021,Fashion Street,fashion street,sanitary,drain,50,1
+b1801835x,1894,P021,Fashion Street,fashion street,sanitary,nuisance,50,1
+b1801835x,1894,P021,Fashion Street,fashion street,sanitary,dirty,50,1
+b1801835x,1894,P022,Mile End Old Town,mile end old town,sanitary,sanitary,50,3
+b1801835x,1894,P022,Mile End Old Town,mile end old town,governance,board,50,2
+b19883687,1895,P001,Whitechapel Road,whitechapel road,housing,houses,50,2
+b19883687,1895,P001,Whitechapel Road,whitechapel road,governance,inspector,50,1
+b19883687,1895,P003,Brick Lane,brick lane,housing,houses,50,3
+b19883687,1895,P003,Brick Lane,brick lane,governance,inspector,50,1
+b19883687,1895,P004,Commercial Road,commercial road,sanitary,sanitary,50,1
+b19883687,1895,P004,Commercial Road,commercial road,governance,board,50,1
+b19883687,1895,P006,Wentworth Street,wentworth street,disease,fever,50,2
+b19883687,1895,P006,Wentworth Street,wentworth street,disease,scarlet fever,50,2
+b19883687,1895,P006,Wentworth Street,wentworth street,sanitary,sanitary,50,1
+b19883687,1895,P006,Wentworth Street,wentworth street,sanitary,nuisance,50,1
+b19883687,1895,P006,Wentworth Street,wentworth street,housing,lodging house,50,1
+b19883687,1895,P007,Flower and Dean Street,flower and dean street,housing,lodging house,50,4
+b19883687,1895,P007,Flower and Dean Street,flower and dean street,housing,common lodging house,50,4
+b19883687,1895,P007,Flower and Dean Street,flower and dean street,housing,houses,50,3
+b19883687,1895,P008,Dorset Street,dorset street,housing,houses,50,3
+b19883687,1895,P009,Hanbury Street,hanbury street,disease,diphtheria,50,1
+b19883687,1895,P009,Hanbury Street,hanbury street,sanitary,sanitary,50,5
+b19883687,1895,P009,Hanbury Street,hanbury street,sanitary,drainage,50,1
+b19883687,1895,P009,Hanbury Street,hanbury street,sanitary,nuisance,50,4
+b19883687,1895,P009,Hanbury Street,hanbury street,sanitary,dirty,50,1
+b19883687,1895,P009,Hanbury Street,hanbury street,sanitary,water supply,50,1
+b19883687,1895,P009,Hanbury Street,hanbury street,housing,overcrowded,50,2
+b19883687,1895,P009,Hanbury Street,hanbury street,housing,houses,50,2
+b19883687,1895,P009,Hanbury Street,hanbury street,housing,rooms,50,1
+b19883687,1895,P012,Spitalfields,spitalfields,disease,fever,50,1
+b19883687,1895,P012,Spitalfields,spitalfields,disease,typhus,50,1
+b19883687,1895,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b19883687,1895,P012,Spitalfields,spitalfields,disease,diarrhoea,50,1
+b19883687,1895,P014,Mile End New Town,mile end new town,disease,fever,50,12
+b19883687,1895,P014,Mile End New Town,mile end new town,disease,scarlet fever,50,2
+b19883687,1895,P014,Mile End New Town,mile end new town,disease,cholera,50,2
+b19883687,1895,P014,Mile End New Town,mile end new town,disease,typhus,50,2
+b19883687,1895,P014,Mile End New Town,mile end new town,disease,diphtheria,50,2
+b19883687,1895,P016,London Hospital,london hospital,disease,fever,50,10
+b19883687,1895,P016,London Hospital,london hospital,disease,scarlet fever,50,2
+b19883687,1895,P016,London Hospital,london hospital,disease,typhus,50,2
+b19883687,1895,P016,London Hospital,london hospital,disease,typhoid,50,2
+b19883687,1895,P016,London Hospital,london hospital,disease,measles,50,2
+b19883687,1895,P016,London Hospital,london hospital,disease,diphtheria,50,2
+b19883687,1895,P016,London Hospital,london hospital,sanitary,sanitary,50,1
+b19883687,1895,P016,London Hospital,london hospital,sanitary,nuisance,50,1
+b19883687,1895,P016,London Hospital,london hospital,sanitary,dirty,50,1
+b19883687,1895,P016,London Hospital,london hospital,housing,houses,50,3
+b19883687,1895,P016,London Hospital,london hospital,governance,inspector,50,1
+b19883687,1895,P016,London Hospital,london hospital,governance,board,50,2
+b19883687,1895,P018,Commercial Street,commercial street,housing,houses,50,5
+b19883687,1895,P019,George Yard,george yard,housing,houses,50,2
+b19883687,1895,P020,Thrawl Street,thrawl street,sanitary,nuisance,50,2
+b19883687,1895,P020,Thrawl Street,thrawl street,sanitary,water supply,50,1
+b19883687,1895,P020,Thrawl Street,thrawl street,housing,lodging house,50,1
+b19883687,1895,P020,Thrawl Street,thrawl street,housing,common lodging house,50,1
+b19883687,1895,P021,Fashion Street,fashion street,housing,houses,50,1
+b18038244,1896,P001,Whitechapel Road,whitechapel road,housing,houses,50,4
+b18038244,1896,P003,Brick Lane,brick lane,housing,houses,50,2
+b18038244,1896,P004,Commercial Road,commercial road,sanitary,sanitary,50,1
+b18038244,1896,P004,Commercial Road,commercial road,governance,board,50,1
+b18038244,1896,P006,Wentworth Street,wentworth street,disease,fever,50,1
+b18038244,1896,P006,Wentworth Street,wentworth street,disease,scarlet fever,50,1
+b18038244,1896,P006,Wentworth Street,wentworth street,sanitary,sanitary,50,4
+b18038244,1896,P006,Wentworth Street,wentworth street,sanitary,drain,50,1
+b18038244,1896,P006,Wentworth Street,wentworth street,sanitary,dirty,50,2
+b18038244,1896,P006,Wentworth Street,wentworth street,housing,houses,50,4
+b18038244,1896,P007,Flower and Dean Street,flower and dean street,disease,measles,50,1
+b18038244,1896,P007,Flower and Dean Street,flower and dean street,housing,houses,50,2
+b18038244,1896,P008,Dorset Street,dorset street,housing,houses,50,2
+b18038244,1896,P009,Hanbury Street,hanbury street,sanitary,sanitary,50,1
+b18038244,1896,P009,Hanbury Street,hanbury street,sanitary,dirty,50,2
+b18038244,1896,P009,Hanbury Street,hanbury street,housing,houses,50,4
+b18038244,1896,P010,Leman Street,leman street,housing,houses,50,4
+b18038244,1896,P012,Spitalfields,spitalfields,disease,fever,50,15
+b18038244,1896,P012,Spitalfields,spitalfields,disease,scarlet fever,50,4
+b18038244,1896,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b18038244,1896,P012,Spitalfields,spitalfields,disease,smallpox,50,1
+b18038244,1896,P012,Spitalfields,spitalfields,disease,typhus,50,3
+b18038244,1896,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b18038244,1896,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b18038244,1896,P012,Spitalfields,spitalfields,disease,diarrhoea,50,1
+b18038244,1896,P012,Spitalfields,spitalfields,sanitary,sanitary,50,2
+b18038244,1896,P012,Spitalfields,spitalfields,sanitary,drain,50,2
+b18038244,1896,P012,Spitalfields,spitalfields,governance,summonses,50,1
+b18038244,1896,P013,Mile End,mile end,disease,fever,50,3
+b18038244,1896,P013,Mile End,mile end,housing,dwellings,50,1
+b18038244,1896,P014,Mile End New Town,mile end new town,disease,fever,50,8
+b18038244,1896,P014,Mile End New Town,mile end new town,disease,scarlet fever,50,1
+b18038244,1896,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b18038244,1896,P014,Mile End New Town,mile end new town,disease,typhus,50,1
+b18038244,1896,P014,Mile End New Town,mile end new town,disease,diphtheria,50,1
+b18038244,1896,P016,London Hospital,london hospital,disease,fever,50,3
+b18038244,1896,P016,London Hospital,london hospital,disease,scarlet fever,50,1
+b18038244,1896,P016,London Hospital,london hospital,disease,diphtheria,50,1
+b18038244,1896,P016,London Hospital,london hospital,sanitary,sanitary,50,1
+b18038244,1896,P016,London Hospital,london hospital,housing,lodging house,50,1
+b18038244,1896,P016,London Hospital,london hospital,housing,common lodging house,50,1
+b18038244,1896,P016,London Hospital,london hospital,housing,dwellings,50,1
+b18038244,1896,P016,London Hospital,london hospital,housing,houses,50,1
+b18038244,1896,P016,London Hospital,london hospital,governance,board,50,1
+b18038244,1896,P018,Commercial Street,commercial street,sanitary,water supply,50,1
+b18038244,1896,P018,Commercial Street,commercial street,housing,houses,50,2
+b18038244,1896,P019,George Yard,george yard,housing,houses,50,2
+b19883699,1897,P001,Whitechapel Road,whitechapel road,housing,houses,50,5
+b19883699,1897,P003,Brick Lane,brick lane,sanitary,drain,50,1
+b19883699,1897,P003,Brick Lane,brick lane,sanitary,water supply,50,1
+b19883699,1897,P003,Brick Lane,brick lane,housing,houses,50,3
+b19883699,1897,P003,Brick Lane,brick lane,governance,medical officer,50,1
+b19883699,1897,P004,Commercial Road,commercial road,sanitary,sanitary,50,3
+b19883699,1897,P004,Commercial Road,commercial road,governance,board,50,2
+b19883699,1897,P006,Wentworth Street,wentworth street,sanitary,drain,50,1
+b19883699,1897,P006,Wentworth Street,wentworth street,sanitary,dirty,50,1
+b19883699,1897,P006,Wentworth Street,wentworth street,sanitary,water supply,50,2
+b19883699,1897,P006,Wentworth Street,wentworth street,housing,dwellings,50,1
+b19883699,1897,P006,Wentworth Street,wentworth street,housing,houses,50,2
+b19883699,1897,P006,Wentworth Street,wentworth street,housing,rooms,50,1
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,fever,50,6
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,scarlet fever,50,1
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,typhus,50,1
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,typhoid,50,1
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,measles,50,1
+b19883699,1897,P007,Flower and Dean Street,flower and dean street,disease,diphtheria,50,1
+b19883699,1897,P008,Dorset Street,dorset street,housing,houses,50,2
+b19883699,1897,P009,Hanbury Street,hanbury street,housing,houses,50,4
+b19883699,1897,P010,Leman Street,leman street,sanitary,nuisance,50,1
+b19883699,1897,P010,Leman Street,leman street,sanitary,dirty,50,1
+b19883699,1897,P010,Leman Street,leman street,housing,houses,50,1
+b19883699,1897,P010,Leman Street,leman street,governance,medical officer,50,2
+b19883699,1897,P012,Spitalfields,spitalfields,disease,fever,50,13
+b19883699,1897,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b19883699,1897,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b19883699,1897,P012,Spitalfields,spitalfields,disease,typhus,50,3
+b19883699,1897,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b19883699,1897,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b19883699,1897,P012,Spitalfields,spitalfields,disease,diarrhoea,50,1
+b19883699,1897,P012,Spitalfields,spitalfields,sanitary,sanitary,50,1
+b19883699,1897,P012,Spitalfields,spitalfields,housing,houses,50,1
+b19883699,1897,P013,Mile End,mile end,disease,fever,50,6
+b19883699,1897,P013,Mile End,mile end,disease,scarlet fever,50,1
+b19883699,1897,P013,Mile End,mile end,disease,cholera,50,2
+b19883699,1897,P013,Mile End,mile end,disease,typhus,50,1
+b19883699,1897,P013,Mile End,mile end,disease,diphtheria,50,1
+b19883699,1897,P016,London Hospital,london hospital,disease,fever,50,4
+b19883699,1897,P016,London Hospital,london hospital,disease,scarlet fever,50,1
+b19883699,1897,P016,London Hospital,london hospital,disease,measles,50,1
+b19883699,1897,P016,London Hospital,london hospital,disease,diphtheria,50,1
+b19883699,1897,P016,London Hospital,london hospital,sanitary,sanitary,50,2
+b19883699,1897,P016,London Hospital,london hospital,housing,lodging house,50,1
+b19883699,1897,P016,London Hospital,london hospital,housing,common lodging house,50,1
+b19883699,1897,P016,London Hospital,london hospital,housing,houses,50,1
+b19883699,1897,P016,London Hospital,london hospital,governance,board,50,2
+b19883699,1897,P018,Commercial Street,commercial street,sanitary,nuisance,50,1
+b19883699,1897,P018,Commercial Street,commercial street,sanitary,dirty,50,1
+b19883699,1897,P018,Commercial Street,commercial street,housing,houses,50,2
+b19883699,1897,P018,Commercial Street,commercial street,governance,medical officer,50,1
+b19883699,1897,P020,Thrawl Street,thrawl street,sanitary,drain,50,1
+b19883699,1897,P020,Thrawl Street,thrawl street,sanitary,nuisance,50,1
+b19883699,1897,P020,Thrawl Street,thrawl street,sanitary,dirty,50,2
+b19883699,1897,P020,Thrawl Street,thrawl street,sanitary,water supply,50,1
+b19883699,1897,P021,Fashion Street,fashion street,disease,fever,50,1
+b19883699,1897,P021,Fashion Street,fashion street,disease,scarlet fever,50,1
+b19883699,1897,P021,Fashion Street,fashion street,disease,diphtheria,50,1
+b19883699,1897,P022,Mile End Old Town,mile end old town,disease,fever,50,2
+b19883699,1897,P022,Mile End Old Town,mile end old town,governance,notices,50,1
+b19883705,1898,P001,Whitechapel Road,whitechapel road,sanitary,sanitary,50,1
+b19883705,1898,P001,Whitechapel Road,whitechapel road,housing,houses,50,1
+b19883705,1898,P001,Whitechapel Road,whitechapel road,governance,board,50,3
+b19883705,1898,P003,Brick Lane,brick lane,housing,houses,50,2
+b19883705,1898,P006,Wentworth Street,wentworth street,sanitary,drain,50,1
+b19883705,1898,P006,Wentworth Street,wentworth street,sanitary,dirty,50,1
+b19883705,1898,P006,Wentworth Street,wentworth street,housing,overcrowded,50,2
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,fever,50,5
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,scarlet fever,50,2
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,typhus,50,1
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,typhoid,50,1
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,measles,50,1
+b19883705,1898,P007,Flower and Dean Street,flower and dean street,disease,diphtheria,50,2
+b19883705,1898,P008,Dorset Street,dorset street,housing,houses,50,3
+b19883705,1898,P009,Hanbury Street,hanbury street,sanitary,drain,50,1
+b19883705,1898,P009,Hanbury Street,hanbury street,sanitary,drains,50,1
+b19883705,1898,P009,Hanbury Street,hanbury street,sanitary,dirty,50,1
+b19883705,1898,P009,Hanbury Street,hanbury street,housing,houses,50,2
+b19883705,1898,P011,Aldgate,aldgate,sanitary,sanitary,50,1
+b19883705,1898,P012,Spitalfields,spitalfields,disease,fever,50,17
+b19883705,1898,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b19883705,1898,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b19883705,1898,P012,Spitalfields,spitalfields,disease,typhus,50,4
+b19883705,1898,P012,Spitalfields,spitalfields,disease,typhoid,50,2
+b19883705,1898,P012,Spitalfields,spitalfields,disease,measles,50,1
+b19883705,1898,P012,Spitalfields,spitalfields,disease,diphtheria,50,3
+b19883705,1898,P012,Spitalfields,spitalfields,disease,diarrhoea,50,2
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,fever,50,7
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,scarlet fever,50,1
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,typhus,50,1
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,diphtheria,50,2
+b19883705,1898,P014,Mile End New Town,mile end new town,disease,diarrhoea,50,1
+b19883705,1898,P016,London Hospital,london hospital,disease,fever,50,3
+b19883705,1898,P016,London Hospital,london hospital,disease,measles,50,1
+b19883705,1898,P016,London Hospital,london hospital,sanitary,sanitary,50,2
+b19883705,1898,P016,London Hospital,london hospital,housing,lodging house,50,1
+b19883705,1898,P016,London Hospital,london hospital,housing,common lodging house,50,1
+b19883705,1898,P016,London Hospital,london hospital,housing,houses,50,1
+b19883705,1898,P016,London Hospital,london hospital,governance,board,50,1
+b19883705,1898,P018,Commercial Street,commercial street,housing,houses,50,2
+b19883705,1898,P019,George Yard,george yard,disease,fever,50,8
+b19883705,1898,P019,George Yard,george yard,disease,scarlet fever,50,2
+b19883705,1898,P019,George Yard,george yard,disease,typhus,50,2
+b19883705,1898,P019,George Yard,george yard,disease,typhoid,50,2
+b19883705,1898,P019,George Yard,george yard,disease,measles,50,2
+b19883705,1898,P019,George Yard,george yard,disease,diphtheria,50,2
+b19883717,1899,P002,Whitechapel High Street,whitechapel high street,housing,houses,50,2
+b19883717,1899,P002,Whitechapel High Street,whitechapel high street,governance,board,50,2
+b19883717,1899,P003,Brick Lane,brick lane,housing,houses,50,15
+b19883717,1899,P006,Wentworth Street,wentworth street,housing,houses,50,2
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,disease,fever,50,3
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,disease,scarlet fever,50,1
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,disease,typhus,50,1
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,disease,typhoid,50,1
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,disease,diphtheria,50,1
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,housing,dwellings,50,3
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,housing,houses,50,4
+b19883717,1899,P007,Flower and Dean Street,flower and dean street,governance,board,50,1
+b19883717,1899,P008,Dorset Street,dorset street,housing,houses,50,2
+b19883717,1899,P009,Hanbury Street,hanbury street,sanitary,drain,50,3
+b19883717,1899,P009,Hanbury Street,hanbury street,sanitary,nuisance,50,1
+b19883717,1899,P009,Hanbury Street,hanbury street,sanitary,water supply,50,2
+b19883717,1899,P009,Hanbury Street,hanbury street,housing,houses,50,1
+b19883717,1899,P010,Leman Street,leman street,housing,dwellings,50,1
+b19883717,1899,P010,Leman Street,leman street,housing,houses,50,4
+b19883717,1899,P011,Aldgate,aldgate,housing,houses,50,1
+b19883717,1899,P012,Spitalfields,spitalfields,disease,fever,50,14
+b19883717,1899,P012,Spitalfields,spitalfields,disease,scarlet fever,50,2
+b19883717,1899,P012,Spitalfields,spitalfields,disease,cholera,50,2
+b19883717,1899,P012,Spitalfields,spitalfields,disease,typhus,50,4
+b19883717,1899,P012,Spitalfields,spitalfields,disease,typhoid,50,1
+b19883717,1899,P012,Spitalfields,spitalfields,disease,diphtheria,50,2
+b19883717,1899,P014,Mile End New Town,mile end new town,disease,fever,50,7
+b19883717,1899,P014,Mile End New Town,mile end new town,disease,scarlet fever,50,1
+b19883717,1899,P014,Mile End New Town,mile end new town,disease,cholera,50,1
+b19883717,1899,P014,Mile End New Town,mile end new town,disease,typhus,50,2
+b19883717,1899,P014,Mile End New Town,mile end new town,disease,diphtheria,50,1
+b19883717,1899,P014,Mile End New Town,mile end new town,sanitary,sanitary,50,3
+b19883717,1899,P016,London Hospital,london hospital,disease,fever,50,4
+b19883717,1899,P016,London Hospital,london hospital,disease,scarlet fever,50,1
+b19883717,1899,P016,London Hospital,london hospital,disease,cholera,50,1
+b19883717,1899,P016,London Hospital,london hospital,disease,typhus,50,1
+b19883717,1899,P016,London Hospital,london hospital,disease,typhoid,50,1
+b19883717,1899,P016,London Hospital,london hospital,disease,measles,50,1
+b19883717,1899,P016,London Hospital,london hospital,disease,diphtheria,50,1
+b19883717,1899,P016,London Hospital,london hospital,sanitary,sanitary,50,2
+b19883717,1899,P016,London Hospital,london hospital,housing,lodging house,50,1
+b19883717,1899,P016,London Hospital,london hospital,housing,common lodging house,50,1
+b19883717,1899,P016,London Hospital,london hospital,housing,houses,50,3
+b19883717,1899,P016,London Hospital,london hospital,governance,board,50,1
+b19883717,1899,P018,Commercial Street,commercial street,sanitary,nuisance,50,1
+b19883717,1899,P018,Commercial Street,commercial street,housing,houses,50,2
+b19883717,1899,P019,George Yard,george yard,disease,fever,50,4
+b19883717,1899,P019,George Yard,george yard,disease,scarlet fever,50,1
+b19883717,1899,P019,George Yard,george yard,disease,typhus,50,1
+b19883717,1899,P019,George Yard,george yard,disease,typhoid,50,1
+b19883717,1899,P019,George Yard,george yard,disease,measles,50,1
+b19883717,1899,P019,George Yard,george yard,disease,diphtheria,50,1
+b19883717,1899,P020,Thrawl Street,thrawl street,housing,dwellings,50,2
+b19883717,1899,P020,Thrawl Street,thrawl street,housing,houses,50,2
+b19883717,1899,P020,Thrawl Street,thrawl street,governance,board,50,1
+b19883717,1899,P021,Fashion Street,fashion street,sanitary,drain,50,1
+b19883717,1899,P021,Fashion Street,fashion street,sanitary,nuisance,50,1
+b19883717,1899,P021,Fashion Street,fashion street,sanitary,water supply,50,1
+b19883717,1899,P021,Fashion Street,fashion street,housing,houses,50,11
+b19883717,1899,P021,Fashion Street,fashion street,governance,inspector,50,1
+b19883717,1899,P021,Fashion Street,fashion street,governance,board,50,1

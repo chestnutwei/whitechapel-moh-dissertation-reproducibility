@@ -1,0 +1,405 @@
+{
+  "spatial_method_boundary": {
+    "reproducible_code_steps": [
+      "read frozen CSV files",
+      "aggregate 24 proceedings to 23 textual addresses",
+      "filter 38 review rows to 32 retained source-valid records",
+      "aggregate those records to 16 named places",
+      "keep the separate 12 place-disease pair classifications at pair level",
+      "verify every retained place has either a verified in-sheet coordinate or an explicit outside-sheet status",
+      "plot the supplied scan-specific image-pixel coordinates"
+    ],
+    "manual_historical_steps_not_reproduced_by_code": [
+      "identify a historical street, court, alley, institution or district on the scan",
+      "choose an approximate point or centroid",
+      "interpolate or otherwise estimate an address along a historical street",
+      "review the point against Booth Sheet 63 and independent historical-map evidence"
+    ],
+    "georeferencing": "none; manual image-pixel coordinates tied to the supplied JPEG"
+  },
+  "figure_5": {
+    "source_rows": 24,
+    "unique_addresses": 23,
+    "duplicate_address": {
+      "27 Old Montague Street": 2
+    },
+    "normalised_record_types": {
+      "Workshop": 20,
+      "Bakehouse": 4
+    },
+    "points": [
+      {
+        "address": "1 New Buildings, Tenter Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "dismissed_or_unobserved",
+        "status": "unresolved",
+        "spatial_precision": "street_network_relationship_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "12 Duncan Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "126 Old Montague Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "141 Hanbury Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "148 Old Montague Street",
+        "proceedings": 1,
+        "workplace_type": "Bakehouse",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "178 Hanbury Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "2 Fisher's Alley (North)",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "historical_site_approximate",
+        "spatial_precision": "court_or_alley_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "2 Fisher's Alley (South)",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "historical_site_approximate",
+        "spatial_precision": "court_or_alley_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "20 Corbett's Court",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "court_or_alley_site",
+        "spatial_precision": "court_or_alley_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "20 White's Row",
+        "proceedings": 1,
+        "workplace_type": "Bakehouse",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "22 Heneage Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "27 Old Montague Street",
+        "proceedings": 2,
+        "workplace_type": "Bakehouse",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "29 Old Montague Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "3 Spelman Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "39 Pelham Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "43 Buxton Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "5 Cox Square",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "representative_site",
+        "spatial_precision": "representative_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "58 White Lion Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "6 Fieldgate Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "dismissed_or_unobserved",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "62 Chicksand Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "closure_or_disuse",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "7 Cox Square",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "representative_site",
+        "spatial_precision": "representative_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "7 Ely Place",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "other_enforcement",
+        "status": "visible_historical_place",
+        "spatial_precision": "historical_place_site",
+        "number_precision": "house_number_unverified"
+      },
+      {
+        "address": "9 Shepherd Street",
+        "proceedings": 1,
+        "workplace_type": "Workshop",
+        "displayed_outcome": "remedied_or_withdrawn",
+        "status": "visible_street_segment",
+        "spatial_precision": "street_level_only",
+        "number_precision": "house_number_unverified"
+      }
+    ]
+  },
+  "figure_6_retained_in_dissertation": {
+    "place_disease_pairs": 12,
+    "pair_level_counts": {
+      "false_structural_adjacency": 9,
+      "direct_place_institution_disease": 2,
+      "management_context_only": 1
+    }
+  },
+  "figure_7": {
+    "retained_source_valid_records": 32,
+    "named_places": 16,
+    "in_sheet_mapped_places": 15,
+    "out_of_sheet_places": 1,
+    "uses_pair_status_as_symbol_class": false,
+    "points": [
+      {
+        "place": "Wentworth Street",
+        "retained_source_valid_passages": 11,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Hanbury Street",
+        "retained_source_valid_passages": 7,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Spitalfields",
+        "retained_source_valid_passages": 7,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "representative_site",
+        "spatial_precision": "representative_district_context_point"
+      },
+      {
+        "place": "Mile End New Town",
+        "retained_source_valid_passages": 4,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "representative_site",
+        "spatial_precision": "representative_district_context_point"
+      },
+      {
+        "place": "Mile End Old Town",
+        "retained_source_valid_passages": 3,
+        "mapping_status": "outside_sheet_extent",
+        "status": "outside_sheet_extent",
+        "spatial_precision": "neighbouring_administrative_reference"
+      },
+      {
+        "place": "Commercial Street",
+        "retained_source_valid_passages": 2,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "London Hospital",
+        "retained_source_valid_passages": 2,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "representative_site",
+        "spatial_precision": "representative_institution_site"
+      },
+      {
+        "place": "Thrawl Street",
+        "retained_source_valid_passages": 2,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Whitechapel Road",
+        "retained_source_valid_passages": 2,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Aldgate",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "representative_site",
+        "spatial_precision": "representative_district_context_point"
+      },
+      {
+        "place": "Brick Lane",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Fashion Street",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Flower and Dean Street",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "George Yard",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "historical_site_approximate",
+        "spatial_precision": "representative_historical_site"
+      },
+      {
+        "place": "Leman Street",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      },
+      {
+        "place": "Whitechapel High Street",
+        "retained_source_valid_passages": 1,
+        "mapping_status": "in_sheet_verified_coordinate",
+        "status": "visible_street_segment",
+        "spatial_precision": "representative_visible_street_segment"
+      }
+    ]
+  },
+  "files": {
+    "outputs/tables/technical/workplace_address_extraction.csv": {
+      "sha256": "5ccbb5f9329c5e6b379cbc27808c7c5052772d2f17f566d143ab0f03cb3d2f73"
+    },
+    "analysis/chapter3/spatial_review_log.csv": {
+      "sha256": "9bea58d98ff34c18ff8988f10a39d345a5267c48fe42c585b7126811fd2b1176"
+    },
+    "outputs/tables/technical/spatial_disease_validation.csv": {
+      "sha256": "a87190e9b83fa831e608b51c8eed1db49afc86cd1a13b9a883c59f7e86e6092c"
+    },
+    "maps/coordinates/workplace_map_points_verified.csv": {
+      "sha256": "011df6eaa4533a483be4fa4934753b40e876be9abc018d790efa3634c53c8cf6"
+    },
+    "maps/coordinates/place_map_points_verified.csv": {
+      "sha256": "7518045237eacbb800cd4a1520e2fabdaab4e4779ab77f6837dee37a01f8908d"
+    },
+    "maps/coordinates/out_of_sheet_place_references.csv": {
+      "sha256": "80f29b71db9f18c24c6b9e13364cdc83c955327449be4aa2ee0568869289b6dc"
+    },
+    "maps/background_map/Booth_Sheet63_Whitechapel_1898_1899.jpg": {
+      "sha256": "b8d196ab3a2a13d66aef13b51d2f26267c7fc3daf51f3f1423554696cc265696"
+    },
+    "outputs/figures/figure_05_workplace_enforcement_map.png": {
+      "sha256": "76dea8067f73103dd610552303c1e9f15b790f9010464a84369b0f7a76454c0a"
+    },
+    "outputs/figures/figure_05_workplace_enforcement_map.pdf": {
+      "sha256": "c2223f1f172901962c2f6a86a326503d9a6bb32b04a7bd6c298d9ef6f929c867"
+    },
+    "outputs/figures/figure_07_source_validated_places_map.png": {
+      "sha256": "c7ebec86190d13eb9ff3b84d0e3eeef5ee7b1db990b8b85657226eb212228ce0"
+    },
+    "outputs/figures/figure_07_source_validated_places_map.pdf": {
+      "sha256": "a2d7be4893d29180dc942aae4277e8b4cbdd13207f089b590eb41b1a31ffe7e3"
+    }
+  },
+  "excluded_legacy_input": "The pre-review spatial-summary table is not used or distributed; no third frequency map is produced."
+}

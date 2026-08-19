@@ -1,0 +1,26 @@
+primary_topic_id,interpretive_label,random_seed,best_random_topic,cosine_similarity,top_term_overlap,status,notes
+3,Address-specific enforcement proceedings,1,1,0.9999999999977194,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+4,"Sanitary authority, statutory penalties and legal powers",1,7,0.999999999022303,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+1,Housing reform and metropolitan governance,1,3,0.9999999992286585,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+2,Sanitary construction regulations,1,4,0.9999999995525861,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+6,Penalty and by-law clauses,1,6,0.9999999999870232,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+3,Address-specific enforcement proceedings,21,5,0.9999999999906078,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+4,"Sanitary authority, statutory penalties and legal powers",21,6,0.9999999964589422,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+1,Housing reform and metropolitan governance,21,4,0.9999999964142018,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+2,Sanitary construction regulations,21,2,0.9999999984925871,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+6,Penalty and by-law clauses,21,3,0.9999999998889805,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+3,Address-specific enforcement proceedings,42,5,0.9999999999895463,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+4,"Sanitary authority, statutory penalties and legal powers",42,1,0.9999999947833683,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+1,Housing reform and metropolitan governance,42,2,0.9999999960716007,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+2,Sanitary construction regulations,42,3,0.9999999978152373,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+6,Penalty and by-law clauses,42,6,0.9999999998382667,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+3,Address-specific enforcement proceedings,84,6,0.9999999999902536,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+4,"Sanitary authority, statutory penalties and legal powers",84,7,0.9999999935150453,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+1,Housing reform and metropolitan governance,84,1,0.9999999965088513,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+2,Sanitary construction regulations,84,5,0.9999999971643639,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+6,Penalty and by-law clauses,84,2,0.9999999997968848,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+3,Address-specific enforcement proceedings,100,5,0.9997626460812239,12,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+4,"Sanitary authority, statutory penalties and legal powers",100,1,0.994170191767298,11,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+1,Housing reform and metropolitan governance,100,6,0.9029341495565475,7,weakly_recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+2,Sanitary construction regulations,100,4,0.9883767721595287,11,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.
+6,Penalty and by-law clauses,100,7,0.9992087420212376,11,recovered,Sensitivity diagnostic only; this status is not a prerequisite for Table 4.1 or Figure 4.

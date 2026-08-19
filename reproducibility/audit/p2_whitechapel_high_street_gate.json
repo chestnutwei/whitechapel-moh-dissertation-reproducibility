@@ -1,0 +1,53 @@
+{
+  "audit_date": "2026-08-14",
+  "baseline_version": "v5",
+  "candidate_version": "v6_candidate",
+  "decision": "COMMIT",
+  "method_change": false,
+  "gazetteer_change": {
+    "place_id": "P002",
+    "old_standard_name": "High Street Whitechapel",
+    "new_standard_name": "Whitechapel High Street",
+    "old_form_retained_as_variant": false
+  },
+  "dry_run_results": {
+    "Mile End": 11,
+    "Mile End New Town": 138,
+    "Mile End Old Town": 15,
+    "Whitechapel Road": 60,
+    "Whitechapel High Street": 9,
+    "High Street Whitechapel": 0,
+    "accepted_spans": 938,
+    "excluded_nested_spans": 153,
+    "spatial_candidates": 38,
+    "new_candidates": [
+      "1891_0023 — Whitechapel High Street"
+    ]
+  },
+  "source_gate": {
+    "passed": true,
+    "report_id": "b19883663",
+    "passage_id": "1891_0023",
+    "official_scan_page": 20,
+    "official_scan_url": "https://iiif.wellcomecollection.org/image/b19883663_0020.jp2/full/1800,/0/default.jpg",
+    "finding": "The official scan contains a substantive regulatory narrative reference to Whitechapel High Street up to Church Lane; it is not an index, printer address, title-page address or list artefact."
+  },
+  "location_gate": {
+    "passed": true,
+    "background": "Booth Sheet 63 supplied with the project",
+    "x_pixel": 6500,
+    "y_pixel": 3000,
+    "precision": "representative_visible_street_segment",
+    "finding": "The principal street alignment west of Church Lane can be represented under the already frozen manual scan-pixel street/site standard; no GIS, doorway or address precision is claimed."
+  },
+  "final_effect": {
+    "source_valid_records": 32,
+    "named_places": 16,
+    "in_sheet_points": 15,
+    "out_of_sheet_references": 1,
+    "figure_7_regenerated": true,
+    "other_verified_map_coordinates_changed": false,
+    "figure_6_pair_level_results_changed": false
+  },
+  "rationale": "All decision-gate conditions passed exactly: the expected dry-run deltas were observed, the sole new candidate was verified against the official source page, a defensible representative street-level point exists on the frozen scan, and no spatial-method redesign was required."
+}

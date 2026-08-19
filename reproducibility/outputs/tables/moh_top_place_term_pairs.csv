@@ -1,0 +1,220 @@
+place_id,standard_name,category,term,cooccurrence_count
+P012,Spitalfields,disease,fever,102
+P014,Mile End New Town,disease,fever,54
+P016,London Hospital,disease,fever,42
+P003,Brick Lane,housing,houses,37
+P018,Commercial Street,housing,houses,25
+P012,Spitalfields,disease,typhus,25
+P008,Dorset Street,housing,houses,23
+P009,Hanbury Street,housing,houses,23
+P016,London Hospital,housing,houses,22
+P001,Whitechapel Road,housing,houses,22
+P007,Flower and Dean Street,disease,fever,20
+P007,Flower and Dean Street,housing,houses,20
+P012,Spitalfields,disease,scarlet fever,17
+P019,George Yard,disease,fever,16
+P014,Mile End New Town,housing,houses,16
+P016,London Hospital,governance,board,15
+P012,Spitalfields,disease,diphtheria,15
+P012,Spitalfields,housing,houses,15
+P006,Wentworth Street,housing,houses,15
+P012,Spitalfields,disease,cholera,14
+P021,Fashion Street,housing,houses,13
+P010,Leman Street,housing,houses,13
+P016,London Hospital,sanitary,sanitary,13
+P020,Thrawl Street,disease,fever,12
+P019,George Yard,housing,houses,11
+P014,Mile End New Town,disease,typhus,11
+P011,Aldgate,housing,houses,10
+P016,London Hospital,disease,measles,10
+P018,Commercial Street,disease,fever,9
+P016,London Hospital,disease,diphtheria,9
+P016,London Hospital,housing,dwellings,9
+P016,London Hospital,disease,scarlet fever,9
+P013,Mile End,disease,fever,9
+P014,Mile End New Town,governance,board,9
+P012,Spitalfields,governance,board,9
+P012,Spitalfields,disease,typhoid,9
+P009,Hanbury Street,sanitary,sanitary,8
+P014,Mile End New Town,disease,cholera,8
+P014,Mile End New Town,disease,diphtheria,8
+P006,Wentworth Street,sanitary,dirty,8
+P021,Fashion Street,disease,fever,7
+P009,Hanbury Street,sanitary,dirty,7
+P010,Leman Street,governance,medical officer,7
+P022,Mile End Old Town,disease,fever,7
+P012,Spitalfields,disease,diarrhoea,7
+P012,Spitalfields,disease,influenza,7
+P006,Wentworth Street,sanitary,sanitary,7
+P011,Aldgate,governance,board,6
+P004,Commercial Road,governance,board,6
+P004,Commercial Road,disease,fever,6
+P004,Commercial Road,sanitary,sanitary,6
+P007,Flower and Dean Street,disease,diphtheria,6
+P009,Hanbury Street,sanitary,drain,6
+P009,Hanbury Street,sanitary,nuisance,6
+P010,Leman Street,governance,board,6
+P010,Leman Street,sanitary,sanitary,6
+P016,London Hospital,disease,typhus,6
+P014,Mile End New Town,disease,scarlet fever,6
+P006,Wentworth Street,sanitary,drain,6
+P007,Flower and Dean Street,housing,dwellings,5
+P007,Flower and Dean Street,disease,measles,5
+P007,Flower and Dean Street,disease,scarlet fever,5
+P007,Flower and Dean Street,disease,typhoid,5
+P019,George Yard,disease,measles,5
+P009,Hanbury Street,sanitary,water supply,5
+P014,Mile End New Town,disease,influenza,5
+P014,Mile End New Town,sanitary,sanitary,5
+P022,Mile End Old Town,sanitary,sanitary,5
+P007,Flower and Dean Street,housing,common lodging house,4
+P007,Flower and Dean Street,housing,lodging house,4
+P019,George Yard,disease,diphtheria,4
+P019,George Yard,disease,scarlet fever,4
+P019,George Yard,disease,typhus,4
+P009,Hanbury Street,housing,overcrowded,4
+P010,Leman Street,disease,fever,4
+P016,London Hospital,housing,common lodging house,4
+P016,London Hospital,housing,lodging house,4
+P022,Mile End Old Town,governance,board,4
+P012,Spitalfields,sanitary,sanitary,4
+P020,Thrawl Street,disease,diphtheria,4
+P020,Thrawl Street,disease,scarlet fever,4
+P020,Thrawl Street,disease,typhus,4
+P006,Wentworth Street,disease,fever,4
+P006,Wentworth Street,disease,scarlet fever,4
+P003,Brick Lane,sanitary,water supply,3
+P018,Commercial Street,disease,diphtheria,3
+P018,Commercial Street,disease,measles,3
+P018,Commercial Street,disease,scarlet fever,3
+P018,Commercial Street,disease,typhus,3
+P008,Dorset Street,disease,fever,3
+P021,Fashion Street,disease,diphtheria,3
+P021,Fashion Street,disease,scarlet fever,3
+P007,Flower and Dean Street,disease,typhus,3
+P019,George Yard,disease,typhoid,3
+P009,Hanbury Street,governance,board,3
+P009,Hanbury Street,disease,fever,3
+P016,London Hospital,disease,typhoid,3
+P013,Mile End,housing,houses,3
+P012,Spitalfields,housing,dwellings,3
+P020,Thrawl Street,housing,houses,3
+P020,Thrawl Street,disease,measles,3
+P020,Thrawl Street,sanitary,nuisance,3
+P006,Wentworth Street,sanitary,filth,3
+P006,Wentworth Street,housing,overcrowded,3
+P006,Wentworth Street,sanitary,water supply,3
+P001,Whitechapel Road,governance,board,3
+P001,Whitechapel Road,housing,dwellings,3
+P001,Whitechapel Road,sanitary,sanitary,3
+P011,Aldgate,housing,dwellings,2
+P011,Aldgate,disease,influenza,2
+P004,Commercial Road,disease,scarlet fever,2
+P004,Commercial Road,disease,typhus,2
+P018,Commercial Street,sanitary,nuisance,2
+P021,Fashion Street,sanitary,drain,2
+P021,Fashion Street,disease,measles,2
+P021,Fashion Street,sanitary,nuisance,2
+P021,Fashion Street,disease,typhus,2
+P019,George Yard,housing,rooms,2
+P009,Hanbury Street,disease,diphtheria,2
+P009,Hanbury Street,housing,dwellings,2
+P010,Leman Street,disease,diphtheria,2
+P010,Leman Street,housing,dwellings,2
+P010,Leman Street,disease,scarlet fever,2
+P010,Leman Street,disease,typhoid,2
+P010,Leman Street,disease,typhus,2
+P013,Mile End,disease,cholera,2
+P014,Mile End New Town,housing,dwellings,2
+P014,Mile End New Town,governance,notices,2
+P022,Mile End Old Town,disease,diphtheria,2
+P022,Mile End Old Town,housing,houses,2
+P022,Mile End Old Town,disease,measles,2
+P022,Mile End Old Town,disease,scarlet fever,2
+P012,Spitalfields,sanitary,drain,2
+P012,Spitalfields,disease,measles,2
+P012,Spitalfields,governance,notices,2
+P012,Spitalfields,housing,rooms,2
+P020,Thrawl Street,sanitary,dirty,2
+P020,Thrawl Street,housing,dwellings,2
+P020,Thrawl Street,sanitary,water supply,2
+P002,Whitechapel High Street,governance,board,2
+P002,Whitechapel High Street,housing,houses,2
+P011,Aldgate,sanitary,sanitary,1
+P003,Brick Lane,sanitary,drain,1
+P003,Brick Lane,governance,inspector,1
+P003,Brick Lane,governance,medical officer,1
+P003,Brick Lane,housing,overcrowding,1
+P004,Commercial Road,disease,diphtheria,1
+P004,Commercial Road,housing,houses,1
+P004,Commercial Road,disease,measles,1
+P018,Commercial Street,sanitary,dirty,1
+P018,Commercial Street,sanitary,drains,1
+P018,Commercial Street,housing,dwellings,1
+P018,Commercial Street,governance,medical officer,1
+P018,Commercial Street,sanitary,sanitary,1
+P018,Commercial Street,sanitary,water supply,1
+P008,Dorset Street,disease,diphtheria,1
+P008,Dorset Street,disease,measles,1
+P008,Dorset Street,disease,scarlet fever,1
+P008,Dorset Street,disease,typhoid,1
+P008,Dorset Street,disease,typhus,1
+P021,Fashion Street,governance,board,1
+P021,Fashion Street,sanitary,dirty,1
+P021,Fashion Street,governance,inspector,1
+P021,Fashion Street,sanitary,water supply,1
+P007,Flower and Dean Street,governance,board,1
+P019,George Yard,sanitary,sanitary,1
+P009,Hanbury Street,sanitary,drainage,1
+P009,Hanbury Street,sanitary,drains,1
+P009,Hanbury Street,sanitary,filth,1
+P009,Hanbury Street,disease,measles,1
+P009,Hanbury Street,governance,medical officer,1
+P009,Hanbury Street,housing,rooms,1
+P009,Hanbury Street,disease,scarlet fever,1
+P009,Hanbury Street,governance,summonses,1
+P009,Hanbury Street,disease,typhoid,1
+P010,Leman Street,sanitary,dirty,1
+P010,Leman Street,disease,measles,1
+P010,Leman Street,sanitary,nuisance,1
+P010,Leman Street,housing,rooms,1
+P016,London Hospital,disease,cholera,1
+P016,London Hospital,disease,consumption,1
+P016,London Hospital,sanitary,dirty,1
+P016,London Hospital,disease,influenza,1
+P016,London Hospital,governance,inspections,1
+P016,London Hospital,governance,inspector,1
+P016,London Hospital,governance,medical officer,1
+P016,London Hospital,sanitary,nuisance,1
+P016,London Hospital,housing,rooms,1
+P013,Mile End,disease,diphtheria,1
+P013,Mile End,housing,dwellings,1
+P013,Mile End,housing,rooms,1
+P013,Mile End,disease,scarlet fever,1
+P013,Mile End,disease,typhus,1
+P014,Mile End New Town,disease,diarrhoea,1
+P014,Mile End New Town,disease,measles,1
+P014,Mile End New Town,governance,medical officer,1
+P014,Mile End New Town,sanitary,refuse,1
+P014,Mile End New Town,disease,typhoid,1
+P022,Mile End Old Town,governance,inspection,1
+P022,Mile End Old Town,governance,notices,1
+P022,Mile End Old Town,disease,typhus,1
+P012,Spitalfields,sanitary,drainage,1
+P012,Spitalfields,governance,inspector,1
+P012,Spitalfields,sanitary,refuse,1
+P012,Spitalfields,disease,smallpox,1
+P012,Spitalfields,governance,summonses,1
+P012,Spitalfields,sanitary,water supply,1
+P020,Thrawl Street,governance,board,1
+P020,Thrawl Street,housing,common lodging house,1
+P020,Thrawl Street,sanitary,drain,1
+P020,Thrawl Street,housing,lodging house,1
+P006,Wentworth Street,governance,board,1
+P006,Wentworth Street,housing,dwellings,1
+P006,Wentworth Street,housing,lodging house,1
+P006,Wentworth Street,sanitary,nuisance,1
+P006,Wentworth Street,housing,rooms,1
+P002,Whitechapel High Street,sanitary,refuse,1
+P001,Whitechapel Road,governance,inspector,1
+P017,Whitechapel Workhouse,housing,rooms,1

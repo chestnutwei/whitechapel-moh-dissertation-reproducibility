@@ -1,0 +1,221 @@
+place_id,standard_name,type,report_id,report_year,mention_count,matched_variants
+P011,Aldgate,district/place,b19883651,1890,10,aldgate
+P003,Brick Lane,street,b19883651,1890,2,brick lane
+P004,Commercial Road,street,b19883651,1890,0,
+P018,Commercial Street,street,b19883651,1890,4,commercial street
+P008,Dorset Street,street,b19883651,1890,2,dorset street
+P021,Fashion Street,street,b19883651,1890,1,fashion street
+P007,Flower and Dean Street,street,b19883651,1890,1,flower and dean street
+P019,George Yard,street/place,b19883651,1890,7,george yard
+P009,Hanbury Street,street,b19883651,1890,4,hanbury street
+P010,Leman Street,street,b19883651,1890,3,leman street
+P016,London Hospital,institution,b19883651,1890,5,london hospital
+P013,Mile End,district/place,b19883651,1890,0,
+P014,Mile End New Town,district/place,b19883651,1890,10,mile end new town
+P022,Mile End Old Town,district/place,b19883651,1890,1,mile end old town
+P005,Osborne Street,street,b19883651,1890,0,
+P012,Spitalfields,district/place,b19883651,1890,9,spitalfields
+P015,St George's in the East,district/place,b19883651,1890,0,
+P020,Thrawl Street,street,b19883651,1890,2,thrawl street
+P006,Wentworth Street,street,b19883651,1890,2,wentworth street
+P002,Whitechapel High Street,street,b19883651,1890,0,
+P001,Whitechapel Road,street,b19883651,1890,3,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883651,1890,0,
+P011,Aldgate,district/place,b19883663,1891,12,aldgate
+P003,Brick Lane,street,b19883663,1891,2,brick lane
+P004,Commercial Road,street,b19883663,1891,1,commercial road
+P018,Commercial Street,street,b19883663,1891,2,commercial street
+P008,Dorset Street,street,b19883663,1891,2,dorset street
+P021,Fashion Street,street,b19883663,1891,1,fashion street
+P007,Flower and Dean Street,street,b19883663,1891,1,flower and dean street
+P019,George Yard,street/place,b19883663,1891,2,george yard
+P009,Hanbury Street,street,b19883663,1891,4,hanbury street
+P010,Leman Street,street,b19883663,1891,3,leman street
+P016,London Hospital,institution,b19883663,1891,2,london hospital
+P013,Mile End,district/place,b19883663,1891,1,mile end
+P014,Mile End New Town,district/place,b19883663,1891,15,mile end new town
+P022,Mile End Old Town,district/place,b19883663,1891,3,mile end old town
+P005,Osborne Street,street,b19883663,1891,0,
+P012,Spitalfields,district/place,b19883663,1891,15,spitalfields
+P015,St George's in the East,district/place,b19883663,1891,0,
+P020,Thrawl Street,street,b19883663,1891,2,thrawl street
+P006,Wentworth Street,street,b19883663,1891,3,wentworth street
+P002,Whitechapel High Street,street,b19883663,1891,1,whitechapel high street
+P001,Whitechapel Road,street,b19883663,1891,3,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883663,1891,0,
+P011,Aldgate,district/place,b19883675,1892,2,aldgate
+P003,Brick Lane,street,b19883675,1892,2,brick lane
+P004,Commercial Road,street,b19883675,1892,1,commercial road
+P018,Commercial Street,street,b19883675,1892,4,commercial street
+P008,Dorset Street,street,b19883675,1892,2,dorset street
+P021,Fashion Street,street,b19883675,1892,1,fashion street
+P007,Flower and Dean Street,street,b19883675,1892,1,flower and dean street
+P019,George Yard,street/place,b19883675,1892,1,george yard
+P009,Hanbury Street,street,b19883675,1892,4,hanbury street
+P010,Leman Street,street,b19883675,1892,3,leman street
+P016,London Hospital,institution,b19883675,1892,11,london hospital
+P013,Mile End,district/place,b19883675,1892,1,mile end
+P014,Mile End New Town,district/place,b19883675,1892,14,mile end new town
+P022,Mile End Old Town,district/place,b19883675,1892,1,mile end old town
+P005,Osborne Street,street,b19883675,1892,0,
+P012,Spitalfields,district/place,b19883675,1892,11,spitalfields
+P015,St George's in the East,district/place,b19883675,1892,0,
+P020,Thrawl Street,street,b19883675,1892,1,thrawl street
+P006,Wentworth Street,street,b19883675,1892,1,wentworth street
+P002,Whitechapel High Street,street,b19883675,1892,0,
+P001,Whitechapel Road,street,b19883675,1892,2,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883675,1892,1,whitechapel workhouse
+P011,Aldgate,district/place,b18018348,1893,26,aldgate
+P003,Brick Lane,street,b18018348,1893,5,brick lane
+P004,Commercial Road,street,b18018348,1893,2,commercial road
+P018,Commercial Street,street,b18018348,1893,7,commercial street
+P008,Dorset Street,street,b18018348,1893,5,dorset street
+P021,Fashion Street,street,b18018348,1893,5,fashion street
+P007,Flower and Dean Street,street,b18018348,1893,1,flower and dean street
+P019,George Yard,street/place,b18018348,1893,3,george yard
+P009,Hanbury Street,street,b18018348,1893,10,hanbury street
+P010,Leman Street,street,b18018348,1893,8,leman street
+P016,London Hospital,institution,b18018348,1893,15,london hospital
+P013,Mile End,district/place,b18018348,1893,2,mile end
+P014,Mile End New Town,district/place,b18018348,1893,27,mile end new town
+P022,Mile End Old Town,district/place,b18018348,1893,4,mile end old town
+P005,Osborne Street,street,b18018348,1893,0,
+P012,Spitalfields,district/place,b18018348,1893,25,spitalfields
+P015,St George's in the East,district/place,b18018348,1893,0,
+P020,Thrawl Street,street,b18018348,1893,3,thrawl street
+P006,Wentworth Street,street,b18018348,1893,11,wentworth street
+P002,Whitechapel High Street,street,b18018348,1893,1,whitechapel high street
+P001,Whitechapel Road,street,b18018348,1893,5,whitechapel road
+P017,Whitechapel Workhouse,institution,b18018348,1893,1,whitechapel workhouse
+P011,Aldgate,district/place,b1801835x,1894,0,
+P003,Brick Lane,street,b1801835x,1894,2,brick lane
+P004,Commercial Road,street,b1801835x,1894,2,commercial road
+P018,Commercial Street,street,b1801835x,1894,4,commercial street
+P008,Dorset Street,street,b1801835x,1894,2,dorset street
+P021,Fashion Street,street,b1801835x,1894,3,fashion street
+P007,Flower and Dean Street,street,b1801835x,1894,3,flower and dean street
+P019,George Yard,street/place,b1801835x,1894,2,george yard
+P009,Hanbury Street,street,b1801835x,1894,10,hanbury street
+P010,Leman Street,street,b1801835x,1894,3,leman street
+P016,London Hospital,institution,b1801835x,1894,14,london hospital
+P013,Mile End,district/place,b1801835x,1894,1,mile end
+P014,Mile End New Town,district/place,b1801835x,1894,14,mile end new town
+P022,Mile End Old Town,district/place,b1801835x,1894,1,mile end old town
+P005,Osborne Street,street,b1801835x,1894,0,
+P012,Spitalfields,district/place,b1801835x,1894,15,spitalfields
+P015,St George's in the East,district/place,b1801835x,1894,0,
+P020,Thrawl Street,street,b1801835x,1894,2,thrawl street
+P006,Wentworth Street,street,b1801835x,1894,16,wentworth street
+P002,Whitechapel High Street,street,b1801835x,1894,1,whitechapel high street
+P001,Whitechapel Road,street,b1801835x,1894,6,whitechapel road
+P017,Whitechapel Workhouse,institution,b1801835x,1894,0,
+P011,Aldgate,district/place,b19883687,1895,1,aldgate
+P003,Brick Lane,street,b19883687,1895,6,brick lane
+P004,Commercial Road,street,b19883687,1895,2,commercial road
+P018,Commercial Street,street,b19883687,1895,6,commercial street
+P008,Dorset Street,street,b19883687,1895,7,dorset street
+P021,Fashion Street,street,b19883687,1895,2,fashion street
+P007,Flower and Dean Street,street,b19883687,1895,7,flower and dean street
+P019,George Yard,street/place,b19883687,1895,2,george yard
+P009,Hanbury Street,street,b19883687,1895,13,hanbury street
+P010,Leman Street,street,b19883687,1895,4,leman street
+P016,London Hospital,institution,b19883687,1895,17,london hospital
+P013,Mile End,district/place,b19883687,1895,0,
+P014,Mile End New Town,district/place,b19883687,1895,11,mile end new town
+P022,Mile End Old Town,district/place,b19883687,1895,0,
+P005,Osborne Street,street,b19883687,1895,0,
+P012,Spitalfields,district/place,b19883687,1895,6,spitalfields
+P015,St George's in the East,district/place,b19883687,1895,0,
+P020,Thrawl Street,street,b19883687,1895,10,thrawl street
+P006,Wentworth Street,street,b19883687,1895,7,wentworth street
+P002,Whitechapel High Street,street,b19883687,1895,1,whitechapel high street
+P001,Whitechapel Road,street,b19883687,1895,15,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883687,1895,0,
+P011,Aldgate,district/place,b18038244,1896,1,aldgate
+P003,Brick Lane,street,b18038244,1896,3,brick lane
+P004,Commercial Road,street,b18038244,1896,2,commercial road
+P018,Commercial Street,street,b18038244,1896,6,commercial street
+P008,Dorset Street,street,b18038244,1896,8,dorset street
+P021,Fashion Street,street,b18038244,1896,2,fashion street
+P007,Flower and Dean Street,street,b18038244,1896,4,flower and dean street
+P019,George Yard,street/place,b18038244,1896,1,george yard
+P009,Hanbury Street,street,b18038244,1896,6,hanbury street
+P010,Leman Street,street,b18038244,1896,5,leman street
+P016,London Hospital,institution,b18038244,1896,12,london hospital
+P013,Mile End,district/place,b18038244,1896,3,mile end
+P014,Mile End New Town,district/place,b18038244,1896,11,mile end new town
+P022,Mile End Old Town,district/place,b18038244,1896,0,
+P005,Osborne Street,street,b18038244,1896,0,
+P012,Spitalfields,district/place,b18038244,1896,13,spitalfields
+P015,St George's in the East,district/place,b18038244,1896,0,
+P020,Thrawl Street,street,b18038244,1896,4,thrawl street
+P006,Wentworth Street,street,b18038244,1896,8,wentworth street
+P002,Whitechapel High Street,street,b18038244,1896,1,whitechapel high street
+P001,Whitechapel Road,street,b18038244,1896,6,whitechapel road
+P017,Whitechapel Workhouse,institution,b18038244,1896,0,
+P011,Aldgate,district/place,b19883699,1897,0,
+P003,Brick Lane,street,b19883699,1897,4,brick lane
+P004,Commercial Road,street,b19883699,1897,1,commercial road
+P018,Commercial Street,street,b19883699,1897,6,commercial street
+P008,Dorset Street,street,b19883699,1897,7,dorset street
+P021,Fashion Street,street,b19883699,1897,1,fashion street
+P007,Flower and Dean Street,street,b19883699,1897,3,flower and dean street
+P019,George Yard,street/place,b19883699,1897,1,george yard
+P009,Hanbury Street,street,b19883699,1897,6,hanbury street
+P010,Leman Street,street,b19883699,1897,6,leman street
+P016,London Hospital,institution,b19883699,1897,10,london hospital
+P013,Mile End,district/place,b19883699,1897,2,mile end
+P014,Mile End New Town,district/place,b19883699,1897,9,mile end new town
+P022,Mile End Old Town,district/place,b19883699,1897,3,mile end old town
+P005,Osborne Street,street,b19883699,1897,0,
+P012,Spitalfields,district/place,b19883699,1897,11,spitalfields
+P015,St George's in the East,district/place,b19883699,1897,0,
+P020,Thrawl Street,street,b19883699,1897,4,thrawl street
+P006,Wentworth Street,street,b19883699,1897,6,wentworth street
+P002,Whitechapel High Street,street,b19883699,1897,1,whitechapel high street
+P001,Whitechapel Road,street,b19883699,1897,7,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883699,1897,0,
+P011,Aldgate,district/place,b19883705,1898,7,aldgate
+P003,Brick Lane,street,b19883705,1898,2,brick lane
+P004,Commercial Road,street,b19883705,1898,1,commercial road
+P018,Commercial Street,street,b19883705,1898,4,commercial street
+P008,Dorset Street,street,b19883705,1898,2,dorset street
+P021,Fashion Street,street,b19883705,1898,1,fashion street
+P007,Flower and Dean Street,street,b19883705,1898,2,flower and dean street
+P019,George Yard,street/place,b19883705,1898,2,george yard
+P009,Hanbury Street,street,b19883705,1898,5,hanbury street
+P010,Leman Street,street,b19883705,1898,3,leman street
+P016,London Hospital,institution,b19883705,1898,10,london hospital
+P013,Mile End,district/place,b19883705,1898,1,mile end
+P014,Mile End New Town,district/place,b19883705,1898,13,mile end new town
+P022,Mile End Old Town,district/place,b19883705,1898,1,mile end old town
+P005,Osborne Street,street,b19883705,1898,0,
+P012,Spitalfields,district/place,b19883705,1898,13,spitalfields
+P015,St George's in the East,district/place,b19883705,1898,0,
+P020,Thrawl Street,street,b19883705,1898,1,thrawl street
+P006,Wentworth Street,street,b19883705,1898,3,wentworth street
+P002,Whitechapel High Street,street,b19883705,1898,0,
+P001,Whitechapel Road,street,b19883705,1898,6,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883705,1898,0,
+P011,Aldgate,district/place,b19883717,1899,3,aldgate
+P003,Brick Lane,street,b19883717,1899,6,brick lane
+P004,Commercial Road,street,b19883717,1899,1,commercial road
+P018,Commercial Street,street,b19883717,1899,4,commercial street
+P008,Dorset Street,street,b19883717,1899,2,dorset street
+P021,Fashion Street,street,b19883717,1899,5,fashion street
+P007,Flower and Dean Street,street,b19883717,1899,4,flower and dean street
+P019,George Yard,street/place,b19883717,1899,2,george yard
+P009,Hanbury Street,street,b19883717,1899,6,hanbury street
+P010,Leman Street,street,b19883717,1899,4,leman street
+P016,London Hospital,institution,b19883717,1899,11,london hospital
+P013,Mile End,district/place,b19883717,1899,0,
+P014,Mile End New Town,district/place,b19883717,1899,14,mile end new town
+P022,Mile End Old Town,district/place,b19883717,1899,1,mile end old town
+P005,Osborne Street,street,b19883717,1899,0,
+P012,Spitalfields,district/place,b19883717,1899,9,spitalfields
+P015,St George's in the East,district/place,b19883717,1899,0,
+P020,Thrawl Street,street,b19883717,1899,3,thrawl street
+P006,Wentworth Street,street,b19883717,1899,3,wentworth street
+P002,Whitechapel High Street,street,b19883717,1899,3,whitechapel high street
+P001,Whitechapel Road,street,b19883717,1899,7,whitechapel road
+P017,Whitechapel Workhouse,institution,b19883717,1899,0,

@@ -1,0 +1,24 @@
+passage_id,status,proposed_section,excel_report_year,csv_report_year,year_matches,exact_text_matches,normalised_text_matches,csv_source_file
+1890_0024,Core,"5.2 Housing, overcrowding and insanitary premises",1890,1890,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1890_b19883651_fulltext.txt
+1894_0020,Core,"5.2 Housing, overcrowding and insanitary premises",1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1897_0024,Core,"5.2 Housing, overcrowding and insanitary premises",1897,1897,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1897_b19883699_fulltext.txt
+1899_0038,Core,"5.2 Housing, overcrowding and insanitary premises",1899,1899,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1899_b19883717_fulltext.txt
+1890_0022,Supporting,"5.2 Housing, overcrowding and insanitary premises",1890,1890,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1890_b19883651_fulltext.txt
+1896_0029,Supporting,"5.2 Housing, overcrowding and insanitary premises",1896,1896,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1896_b18038244_fulltext.txt
+1899_0002,Supporting,"5.2 Housing, overcrowding and insanitary premises",1899,1899,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1899_b19883717_fulltext.txt
+1892_0020,Core,"5.3 Drainage, water supply and material sanitation",1892,1892,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1892_b19883675_fulltext.txt
+1894_0014,Core,"5.3 Drainage, water supply and material sanitation",1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1898_0008,Core,"5.3 Drainage, water supply and material sanitation",1898,1898,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1898_b19883705_fulltext.txt
+1898_0009,Core,"5.3 Drainage, water supply and material sanitation",1898,1898,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1898_b19883705_fulltext.txt
+1894_0054,Supporting,"5.3 Drainage, water supply and material sanitation",1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1894_0055,Core,"5.4 Workplaces, domestic space and unequal exposure",1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1895_0075,Core,"5.4 Workplaces, domestic space and unequal exposure",1895,1895,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1895_b19883687_fulltext.txt
+1897_0007,Supporting,"5.4 Workplaces, domestic space and unequal exposure",1897,1897,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1897_b19883699_fulltext.txt
+1892_0026,Core,5.5 Direct and indirect language of inequality,1892,1892,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1892_b19883675_fulltext.txt
+1894_0025,Core,5.5 Direct and indirect language of inequality,1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1894_0026,Core,5.5 Direct and indirect language of inequality,1894,1894,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1894_b1801835x_fulltext.txt
+1895_0010,Core,5.5 Direct and indirect language of inequality,1895,1895,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1895_b19883687_fulltext.txt
+1899_0003,Core,5.5 Direct and indirect language of inequality,1899,1899,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1899_b19883717_fulltext.txt
+1892_0017,Supporting,5.5 Direct and indirect language of inequality,1892,1892,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1892_b19883675_fulltext.txt
+1893_0023,Supporting,5.5 Direct and indirect language of inequality,1893,1893,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1893_b18018348_fulltext.txt
+1896_0021,Supporting,5.5 Direct and indirect language of inequality,1896,1896,TRUE,TRUE,TRUE,data/raw/moh/Whitechapel_1896_b18038244_fulltext.txt

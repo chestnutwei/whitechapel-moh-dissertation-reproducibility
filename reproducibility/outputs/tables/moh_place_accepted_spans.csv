@@ -1,0 +1,939 @@
+report_id,report_year,place_id,standard_name,place_type,surface_form,start,end
+b19883651,1890,P010,Leman Street,street,leman street,404,416
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,3173,3185
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,3186,3203
+b19883651,1890,P011,Aldgate,district/place,aldgate,3240,3247
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,3559,3571
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,3598,3615
+b19883651,1890,P011,Aldgate,district/place,aldgate,3815,3822
+b19883651,1890,P016,London Hospital,institution,london hospital,5605,5620
+b19883651,1890,P011,Aldgate,district/place,aldgate,5674,5681
+b19883651,1890,P016,London Hospital,institution,london hospital,5969,5984
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,10112,10124
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,10125,10142
+b19883651,1890,P011,Aldgate,district/place,aldgate,10179,10186
+b19883651,1890,P019,George Yard,street/place,george yard,11397,11408
+b19883651,1890,P019,George Yard,street/place,george yard,11482,11493
+b19883651,1890,P019,George Yard,street/place,george yard,11739,11750
+b19883651,1890,P019,George Yard,street/place,george yard,11799,11810
+b19883651,1890,P019,George Yard,street/place,george yard,11870,11881
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,12625,12637
+b19883651,1890,P003,Brick Lane,street,brick lane,13278,13288
+b19883651,1890,P018,Commercial Street,street,commercial street,13354,13371
+b19883651,1890,P008,Dorset Street,street,dorset street,13377,13390
+b19883651,1890,P007,Flower and Dean Street,street,flower and dean street,13397,13419
+b19883651,1890,P019,George Yard,street/place,george yard,13460,13471
+b19883651,1890,P009,Hanbury Street,street,hanbury street,13554,13568
+b19883651,1890,P010,Leman Street,street,leman street,13610,13622
+b19883651,1890,P020,Thrawl Street,street,thrawl street,13777,13790
+b19883651,1890,P006,Wentworth Street,street,wentworth street,13858,13874
+b19883651,1890,P001,Whitechapel Road,street,whitechapel road,13896,13912
+b19883651,1890,P016,London Hospital,institution,london hospital,14336,14351
+b19883651,1890,P018,Commercial Street,street,commercial street,35506,35523
+b19883651,1890,P001,Whitechapel Road,street,whitechapel road,36668,36684
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,36876,36893
+b19883651,1890,P009,Hanbury Street,street,hanbury street,36898,36912
+b19883651,1890,P009,Hanbury Street,street,hanbury street,37251,37265
+b19883651,1890,P018,Commercial Street,street,commercial street,37282,37299
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,37380,37397
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,37685,37697
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,37698,37715
+b19883651,1890,P011,Aldgate,district/place,aldgate,37751,37758
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,38094,38106
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,38107,38124
+b19883651,1890,P011,Aldgate,district/place,aldgate,38161,38168
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,38282,38294
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,38295,38312
+b19883651,1890,P011,Aldgate,district/place,aldgate,38348,38355
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,38640,38652
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,38653,38670
+b19883651,1890,P016,London Hospital,institution,london hospital,38712,38727
+b19883651,1890,P011,Aldgate,district/place,aldgate,38745,38752
+b19883651,1890,P022,Mile End Old Town,district/place,mile end old town,39230,39247
+b19883651,1890,P012,Spitalfields,district/place,spitalfields,39823,39835
+b19883651,1890,P014,Mile End New Town,district/place,mile end new town,39836,39853
+b19883651,1890,P011,Aldgate,district/place,aldgate,39889,39896
+b19883651,1890,P019,George Yard,street/place,george yard,50482,50493
+b19883651,1890,P011,Aldgate,district/place,aldgate,50966,50973
+b19883651,1890,P003,Brick Lane,street,brick lane,51098,51108
+b19883651,1890,P009,Hanbury Street,street,hanbury street,51226,51240
+b19883651,1890,P010,Leman Street,street,leman street,52118,52130
+b19883651,1890,P018,Commercial Street,street,commercial street,52669,52686
+b19883651,1890,P020,Thrawl Street,street,thrawl street,52708,52721
+b19883651,1890,P016,London Hospital,institution,london hospital,52744,52759
+b19883651,1890,P008,Dorset Street,street,dorset street,52941,52954
+b19883651,1890,P006,Wentworth Street,street,wentworth street,53349,53365
+b19883651,1890,P001,Whitechapel Road,street,whitechapel road,53464,53480
+b19883651,1890,P021,Fashion Street,street,fashion street,53487,53501
+b19883663,1891,P010,Leman Street,street,leman street,491,503
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,800,812
+b19883663,1891,P013,Mile End,district/place,mile end,813,821
+b19883663,1891,P011,Aldgate,district/place,aldgate,1013,1020
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,2169,2181
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,2242,2259
+b19883663,1891,P011,Aldgate,district/place,aldgate,2455,2462
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,2937,2949
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,2977,2994
+b19883663,1891,P011,Aldgate,district/place,aldgate,3046,3053
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,3989,4001
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,4002,4019
+b19883663,1891,P011,Aldgate,district/place,aldgate,4056,4063
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,4749,4761
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,4762,4779
+b19883663,1891,P011,Aldgate,district/place,aldgate,4816,4823
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,9166,9178
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,9195,9212
+b19883663,1891,P011,Aldgate,district/place,aldgate,9268,9275
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,9331,9343
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,12672,12684
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,12708,12725
+b19883663,1891,P011,Aldgate,district/place,aldgate,12798,12805
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,13234,13246
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,13271,13288
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,13856,13868
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,13894,13911
+b19883663,1891,P011,Aldgate,district/place,aldgate,13996,14003
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,14200,14212
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,14268,14285
+b19883663,1891,P003,Brick Lane,street,brick lane,15602,15612
+b19883663,1891,P018,Commercial Street,street,commercial street,15681,15698
+b19883663,1891,P008,Dorset Street,street,dorset street,15704,15717
+b19883663,1891,P007,Flower and Dean Street,street,flower and dean street,15724,15746
+b19883663,1891,P019,George Yard,street/place,george yard,15788,15799
+b19883663,1891,P009,Hanbury Street,street,hanbury street,15880,15894
+b19883663,1891,P010,Leman Street,street,leman street,15936,15948
+b19883663,1891,P020,Thrawl Street,street,thrawl street,16103,16116
+b19883663,1891,P006,Wentworth Street,street,wentworth street,16182,16198
+b19883663,1891,P001,Whitechapel Road,street,whitechapel road,16222,16238
+b19883663,1891,P016,London Hospital,institution,london hospital,16343,16358
+b19883663,1891,P002,Whitechapel High Street,street,whitechapel high street,28353,28376
+b19883663,1891,P001,Whitechapel Road,street,whitechapel road,52168,52184
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,52376,52393
+b19883663,1891,P009,Hanbury Street,street,hanbury street,52398,52412
+b19883663,1891,P009,Hanbury Street,street,hanbury street,52750,52764
+b19883663,1891,P018,Commercial Street,street,commercial street,52781,52798
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,52879,52896
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,53206,53218
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,53219,53236
+b19883663,1891,P011,Aldgate,district/place,aldgate,53272,53279
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,53561,53573
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,53574,53591
+b19883663,1891,P011,Aldgate,district/place,aldgate,53627,53634
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,53919,53931
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,53932,53949
+b19883663,1891,P016,London Hospital,institution,london hospital,53991,54006
+b19883663,1891,P011,Aldgate,district/place,aldgate,54024,54031
+b19883663,1891,P022,Mile End Old Town,district/place,mile end old town,54456,54473
+b19883663,1891,P012,Spitalfields,district/place,spitalfields,55319,55331
+b19883663,1891,P014,Mile End New Town,district/place,mile end new town,55332,55349
+b19883663,1891,P011,Aldgate,district/place,aldgate,55385,55392
+b19883663,1891,P009,Hanbury Street,street,hanbury street,65766,65780
+b19883663,1891,P003,Brick Lane,street,brick lane,65933,65943
+b19883663,1891,P006,Wentworth Street,street,wentworth street,66467,66483
+b19883663,1891,P010,Leman Street,street,leman street,66565,66577
+b19883663,1891,P020,Thrawl Street,street,thrawl street,66765,66778
+b19883663,1891,P004,Commercial Road,street,commercial road,66832,66847
+b19883663,1891,P008,Dorset Street,street,dorset street,67496,67509
+b19883663,1891,P006,Wentworth Street,street,wentworth street,67639,67655
+b19883663,1891,P021,Fashion Street,street,fashion street,67702,67716
+b19883663,1891,P001,Whitechapel Road,street,whitechapel road,67800,67816
+b19883663,1891,P019,George Yard,street/place,george yard,68145,68156
+b19883663,1891,P022,Mile End Old Town,district/place,mile end old town,71779,71796
+b19883663,1891,P022,Mile End Old Town,district/place,mile end old town,72311,72328
+b19883675,1892,P010,Leman Street,street,leman street,554,566
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,2908,2925
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,3176,3188
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,3203,3220
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,3403,3415
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,3416,3433
+b19883675,1892,P011,Aldgate,district/place,aldgate,4038,4045
+b19883675,1892,P016,London Hospital,institution,london hospital,4347,4362
+b19883675,1892,P016,London Hospital,institution,london hospital,7359,7374
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,13373,13385
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,13415,13432
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,24022,24034
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,24088,24105
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,24482,24494
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,24520,24537
+b19883675,1892,P003,Brick Lane,street,brick lane,26250,26260
+b19883675,1892,P018,Commercial Street,street,commercial street,26327,26344
+b19883675,1892,P008,Dorset Street,street,dorset street,26350,26363
+b19883675,1892,P007,Flower and Dean Street,street,flower and dean street,26370,26392
+b19883675,1892,P019,George Yard,street/place,george yard,26431,26442
+b19883675,1892,P009,Hanbury Street,street,hanbury street,26525,26539
+b19883675,1892,P010,Leman Street,street,leman street,26582,26594
+b19883675,1892,P020,Thrawl Street,street,thrawl street,26751,26764
+b19883675,1892,P006,Wentworth Street,street,wentworth street,26828,26844
+b19883675,1892,P001,Whitechapel Road,street,whitechapel road,26867,26883
+b19883675,1892,P016,London Hospital,institution,london hospital,27187,27202
+b19883675,1892,P016,London Hospital,institution,london hospital,32821,32836
+b19883675,1892,P016,London Hospital,institution,london hospital,34446,34461
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,41680,41692
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,41843,41860
+b19883675,1892,P016,London Hospital,institution,london hospital,42394,42409
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,43834,43846
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,44019,44036
+b19883675,1892,P016,London Hospital,institution,london hospital,44279,44294
+b19883675,1892,P016,London Hospital,institution,london hospital,44606,44621
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,45175,45192
+b19883675,1892,P009,Hanbury Street,street,hanbury street,45197,45211
+b19883675,1892,P009,Hanbury Street,street,hanbury street,45475,45489
+b19883675,1892,P018,Commercial Street,street,commercial street,45494,45511
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,45617,45634
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,45852,45864
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,45865,45882
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,46195,46207
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,46208,46225
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,46539,46551
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,46552,46569
+b19883675,1892,P016,London Hospital,institution,london hospital,46611,46626
+b19883675,1892,P013,Mile End,district/place,mile end,47164,47172
+b19883675,1892,P017,Whitechapel Workhouse,institution,whitechapel workhouse,47704,47725
+b19883675,1892,P012,Spitalfields,district/place,spitalfields,48002,48014
+b19883675,1892,P014,Mile End New Town,district/place,mile end new town,48015,48032
+b19883675,1892,P022,Mile End Old Town,district/place,mile end old town,53077,53094
+b19883675,1892,P021,Fashion Street,street,fashion street,59398,59412
+b19883675,1892,P003,Brick Lane,street,brick lane,59949,59959
+b19883675,1892,P009,Hanbury Street,street,hanbury street,60706,60720
+b19883675,1892,P018,Commercial Street,street,commercial street,61051,61068
+b19883675,1892,P004,Commercial Road,street,commercial road,61104,61119
+b19883675,1892,P008,Dorset Street,street,dorset street,61329,61342
+b19883675,1892,P010,Leman Street,street,leman street,61506,61518
+b19883675,1892,P016,London Hospital,institution,london hospital,61695,61710
+b19883675,1892,P018,Commercial Street,street,commercial street,63629,63646
+b19883675,1892,P001,Whitechapel Road,street,whitechapel road,63843,63859
+b19883675,1892,P011,Aldgate,district/place,aldgate,64002,64009
+b19883675,1892,P016,London Hospital,institution,london hospital,64328,64343
+b18018348,1893,P010,Leman Street,street,leman street,562,574
+b18018348,1893,P013,Mile End,district/place,mile end,1062,1070
+b18018348,1893,P011,Aldgate,district/place,aldgate,1737,1744
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,2133,2150
+b18018348,1893,P011,Aldgate,district/place,aldgate,2343,2350
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,2456,2468
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,3533,3550
+b18018348,1893,P022,Mile End Old Town,district/place,mile end old town,3551,3568
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,3713,3725
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,5313,5325
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,5369,5386
+b18018348,1893,P011,Aldgate,district/place,aldgate,5512,5519
+b18018348,1893,P011,Aldgate,district/place,aldgate,6083,6090
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,6123,6135
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,6199,6216
+b18018348,1893,P011,Aldgate,district/place,aldgate,9186,9193
+b18018348,1893,P022,Mile End Old Town,district/place,mile end old town,10167,10184
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,10654,10671
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,10672,10689
+b18018348,1893,P017,Whitechapel Workhouse,institution,whitechapel workhouse,10764,10785
+b18018348,1893,P016,London Hospital,institution,london hospital,10850,10865
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,11960,11972
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,12166,12178
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,12247,12264
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,12324,12336
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,12394,12411
+b18018348,1893,P011,Aldgate,district/place,aldgate,12876,12883
+b18018348,1893,P011,Aldgate,district/place,aldgate,14019,14026
+b18018348,1893,P022,Mile End Old Town,district/place,mile end old town,14411,14428
+b18018348,1893,P022,Mile End Old Town,district/place,mile end old town,19189,19206
+b18018348,1893,P010,Leman Street,street,leman street,20264,20276
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,21193,21210
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,21460,21472
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,21487,21504
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,21687,21699
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,21700,21717
+b18018348,1893,P016,London Hospital,institution,london hospital,22347,22362
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,29088,29100
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,29128,29145
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,30032,30044
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,30068,30085
+b18018348,1893,P003,Brick Lane,street,brick lane,33617,33627
+b18018348,1893,P018,Commercial Street,street,commercial street,33696,33713
+b18018348,1893,P008,Dorset Street,street,dorset street,33719,33732
+b18018348,1893,P007,Flower and Dean Street,street,flower and dean street,33739,33761
+b18018348,1893,P019,George Yard,street/place,george yard,33800,33811
+b18018348,1893,P009,Hanbury Street,street,hanbury street,33893,33907
+b18018348,1893,P010,Leman Street,street,leman street,33949,33961
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,34079,34096
+b18018348,1893,P020,Thrawl Street,street,thrawl street,34121,34134
+b18018348,1893,P006,Wentworth Street,street,wentworth street,34200,34216
+b18018348,1893,P001,Whitechapel Road,street,whitechapel road,34239,34255
+b18018348,1893,P016,London Hospital,institution,london hospital,34360,34375
+b18018348,1893,P010,Leman Street,street,leman street,35488,35500
+b18018348,1893,P018,Commercial Street,street,commercial street,35552,35569
+b18018348,1893,P001,Whitechapel Road,street,whitechapel road,35673,35689
+b18018348,1893,P016,London Hospital,institution,london hospital,36255,36270
+b18018348,1893,P016,London Hospital,institution,london hospital,37911,37926
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,45838,45850
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,46542,46559
+b18018348,1893,P016,London Hospital,institution,london hospital,49316,49331
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,53463,53475
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,53635,53652
+b18018348,1893,P016,London Hospital,institution,london hospital,54010,54025
+b18018348,1893,P016,London Hospital,institution,london hospital,54157,54172
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,54615,54627
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,54628,54645
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,54947,54959
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,54960,54977
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,55281,55293
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,55294,55311
+b18018348,1893,P016,London Hospital,institution,london hospital,55353,55368
+b18018348,1893,P016,London Hospital,institution,london hospital,55918,55933
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,56870,56882
+b18018348,1893,P013,Mile End,district/place,mile end,56883,56891
+b18018348,1893,P021,Fashion Street,street,fashion street,67269,67283
+b18018348,1893,P003,Brick Lane,street,brick lane,67481,67491
+b18018348,1893,P009,Hanbury Street,street,hanbury street,68651,68665
+b18018348,1893,P018,Commercial Street,street,commercial street,68822,68839
+b18018348,1893,P004,Commercial Road,street,commercial road,68869,68884
+b18018348,1893,P008,Dorset Street,street,dorset street,69289,69302
+b18018348,1893,P010,Leman Street,street,leman street,69389,69401
+b18018348,1893,P016,London Hospital,institution,london hospital,70002,70017
+b18018348,1893,P020,Thrawl Street,street,thrawl street,71043,71056
+b18018348,1893,P006,Wentworth Street,street,wentworth street,71593,71609
+b18018348,1893,P001,Whitechapel Road,street,whitechapel road,71807,71823
+b18018348,1893,P016,London Hospital,institution,london hospital,72273,72288
+b18018348,1893,P006,Wentworth Street,street,wentworth street,77444,77460
+b18018348,1893,P001,Whitechapel Road,street,whitechapel road,77540,77556
+b18018348,1893,P010,Leman Street,street,leman street,77560,77572
+b18018348,1893,P010,Leman Street,street,leman street,77654,77666
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,77667,77679
+b18018348,1893,P006,Wentworth Street,street,wentworth street,77773,77789
+b18018348,1893,P003,Brick Lane,street,brick lane,77825,77835
+b18018348,1893,P003,Brick Lane,street,brick lane,77848,77858
+b18018348,1893,P009,Hanbury Street,street,hanbury street,78092,78106
+b18018348,1893,P018,Commercial Street,street,commercial street,78154,78171
+b18018348,1893,P008,Dorset Street,street,dorset street,78207,78220
+b18018348,1893,P021,Fashion Street,street,fashion street,78366,78380
+b18018348,1893,P009,Hanbury Street,street,hanbury street,78689,78703
+b18018348,1893,P009,Hanbury Street,street,hanbury street,79043,79057
+b18018348,1893,P006,Wentworth Street,street,wentworth street,79184,79200
+b18018348,1893,P018,Commercial Street,street,commercial street,79437,79454
+b18018348,1893,P009,Hanbury Street,street,hanbury street,79482,79496
+b18018348,1893,P006,Wentworth Street,street,wentworth street,79602,79618
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,79760,79777
+b18018348,1893,P011,Aldgate,district/place,aldgate,79781,79788
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,80116,80133
+b18018348,1893,P009,Hanbury Street,street,hanbury street,80420,80434
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,80508,80525
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,81410,81422
+b18018348,1893,P006,Wentworth Street,street,wentworth street,146541,146557
+b18018348,1893,P003,Brick Lane,street,brick lane,147132,147142
+b18018348,1893,P011,Aldgate,district/place,aldgate,147333,147340
+b18018348,1893,P011,Aldgate,district/place,aldgate,147776,147783
+b18018348,1893,P004,Commercial Road,street,commercial road,148207,148222
+b18018348,1893,P018,Commercial Street,street,commercial street,148256,148273
+b18018348,1893,P006,Wentworth Street,street,wentworth street,148355,148371
+b18018348,1893,P008,Dorset Street,street,dorset street,148652,148665
+b18018348,1893,P021,Fashion Street,street,fashion street,149249,149263
+b18018348,1893,P019,George Yard,street/place,george yard,149551,149562
+b18018348,1893,P019,George Yard,street/place,george yard,149667,149678
+b18018348,1893,P009,Hanbury Street,street,hanbury street,150249,150263
+b18018348,1893,P011,Aldgate,district/place,aldgate,150920,150927
+b18018348,1893,P010,Leman Street,street,leman street,151080,151092
+b18018348,1893,P011,Aldgate,district/place,aldgate,151286,151293
+b18018348,1893,P011,Aldgate,district/place,aldgate,151422,151429
+b18018348,1893,P009,Hanbury Street,street,hanbury street,151677,151691
+b18018348,1893,P008,Dorset Street,street,dorset street,151950,151963
+b18018348,1893,P009,Hanbury Street,street,hanbury street,151978,151992
+b18018348,1893,P006,Wentworth Street,street,wentworth street,152023,152039
+b18018348,1893,P021,Fashion Street,street,fashion street,152070,152084
+b18018348,1893,P011,Aldgate,district/place,aldgate,152235,152242
+b18018348,1893,P011,Aldgate,district/place,aldgate,152368,152375
+b18018348,1893,P006,Wentworth Street,street,wentworth street,152484,152500
+b18018348,1893,P011,Aldgate,district/place,aldgate,153159,153166
+b18018348,1893,P011,Aldgate,district/place,aldgate,153404,153411
+b18018348,1893,P011,Aldgate,district/place,aldgate,153581,153588
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,153831,153843
+b18018348,1893,P020,Thrawl Street,street,thrawl street,154330,154343
+b18018348,1893,P016,London Hospital,institution,london hospital,154430,154445
+b18018348,1893,P021,Fashion Street,street,fashion street,154521,154535
+b18018348,1893,P011,Aldgate,district/place,aldgate,154618,154625
+b18018348,1893,P011,Aldgate,district/place,aldgate,154785,154792
+b18018348,1893,P006,Wentworth Street,street,wentworth street,154924,154940
+b18018348,1893,P002,Whitechapel High Street,street,whitechapel high street,155081,155104
+b18018348,1893,P001,Whitechapel Road,street,whitechapel road,155105,155121
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,155653,155665
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,155735,155752
+b18018348,1893,P011,Aldgate,district/place,aldgate,155861,155868
+b18018348,1893,P011,Aldgate,district/place,aldgate,155953,155960
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,156523,156535
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,156576,156593
+b18018348,1893,P011,Aldgate,district/place,aldgate,156752,156759
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,157159,157171
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,157212,157229
+b18018348,1893,P011,Aldgate,district/place,aldgate,157393,157400
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,157699,157711
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,157723,157740
+b18018348,1893,P016,London Hospital,institution,london hospital,157806,157821
+b18018348,1893,P011,Aldgate,district/place,aldgate,157889,157896
+b18018348,1893,P018,Commercial Street,street,commercial street,158015,158032
+b18018348,1893,P012,Spitalfields,district/place,spitalfields,158292,158304
+b18018348,1893,P014,Mile End New Town,district/place,mile end new town,158345,158362
+b18018348,1893,P011,Aldgate,district/place,aldgate,158519,158526
+b18018348,1893,P016,London Hospital,institution,london hospital,165705,165720
+b1801835x,1894,P004,Commercial Road,street,commercial road,597,612
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,1310,1322
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,3792,3809
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,4119,4131
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,4151,4168
+b1801835x,1894,P013,Mile End,district/place,mile end,4311,4319
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,4352,4364
+b1801835x,1894,P016,London Hospital,institution,london hospital,4788,4803
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,5417,5429
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,5470,5487
+b1801835x,1894,P016,London Hospital,institution,london hospital,11284,11299
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,13815,13827
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,13853,13870
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,14284,14301
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,14582,14594
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,14642,14659
+b1801835x,1894,P016,London Hospital,institution,london hospital,14827,14842
+b1801835x,1894,P016,London Hospital,institution,london hospital,15225,15240
+b1801835x,1894,P003,Brick Lane,street,brick lane,17408,17418
+b1801835x,1894,P018,Commercial Street,street,commercial street,17440,17457
+b1801835x,1894,P008,Dorset Street,street,dorset street,17462,17475
+b1801835x,1894,P007,Flower and Dean Street,street,flower and dean street,17482,17504
+b1801835x,1894,P019,George Yard,street/place,george yard,17524,17535
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,17614,17628
+b1801835x,1894,P010,Leman Street,street,leman street,17670,17682
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,17823,17840
+b1801835x,1894,P020,Thrawl Street,street,thrawl street,17865,17878
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,17942,17958
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,17964,17980
+b1801835x,1894,P016,London Hospital,institution,london hospital,18082,18097
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,19324,19340
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,19355,19369
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,19451,19467
+b1801835x,1894,P010,Leman Street,street,leman street,19489,19501
+b1801835x,1894,P018,Commercial Street,street,commercial street,19554,19571
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,19676,19692
+b1801835x,1894,P016,London Hospital,institution,london hospital,20486,20501
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,20620,20634
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,20658,20674
+b1801835x,1894,P007,Flower and Dean Street,street,flower and dean street,20871,20893
+b1801835x,1894,P016,London Hospital,institution,london hospital,23829,23844
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,26577,26591
+b1801835x,1894,P022,Mile End Old Town,district/place,mile end old town,28990,29007
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,29332,29344
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,33249,33261
+b1801835x,1894,P016,London Hospital,institution,london hospital,38775,38790
+b1801835x,1894,P016,London Hospital,institution,london hospital,42465,42480
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,44530,44542
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,45212,45229
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,47260,47272
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,47435,47452
+b1801835x,1894,P016,London Hospital,institution,london hospital,47703,47718
+b1801835x,1894,P016,London Hospital,institution,london hospital,48014,48029
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,48457,48469
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,48470,48487
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,48809,48821
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,48822,48839
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,49168,49180
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,49181,49198
+b1801835x,1894,P016,London Hospital,institution,london hospital,49240,49255
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,50819,50831
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,50832,50849
+b1801835x,1894,P007,Flower and Dean Street,street,flower and dean street,63174,63196
+b1801835x,1894,P003,Brick Lane,street,brick lane,63458,63468
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,63938,63952
+b1801835x,1894,P018,Commercial Street,street,commercial street,64382,64399
+b1801835x,1894,P004,Commercial Road,street,commercial road,64420,64435
+b1801835x,1894,P010,Leman Street,street,leman street,64479,64491
+b1801835x,1894,P016,London Hospital,institution,london hospital,64669,64684
+b1801835x,1894,P008,Dorset Street,street,dorset street,64811,64824
+b1801835x,1894,P021,Fashion Street,street,fashion street,65162,65176
+b1801835x,1894,P021,Fashion Street,street,fashion street,65179,65193
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,65799,65813
+b1801835x,1894,P019,George Yard,street/place,george yard,65857,65868
+b1801835x,1894,P012,Spitalfields,district/place,spitalfields,66017,66029
+b1801835x,1894,P020,Thrawl Street,street,thrawl street,66225,66238
+b1801835x,1894,P018,Commercial Street,street,commercial street,66326,66343
+b1801835x,1894,P014,Mile End New Town,district/place,mile end new town,66577,66594
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,66597,66613
+b1801835x,1894,P002,Whitechapel High Street,street,whitechapel high street,66728,66751
+b1801835x,1894,P001,Whitechapel Road,street,whitechapel road,66771,66787
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,66910,66926
+b1801835x,1894,P016,London Hospital,institution,london hospital,67117,67132
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,76354,76370
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,76507,76523
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,76656,76672
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,76806,76822
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,76958,76974
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,77151,77167
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,77811,77827
+b1801835x,1894,P021,Fashion Street,street,fashion street,77918,77932
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,78993,79007
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,80403,80419
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,80689,80705
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,80813,80829
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,80910,80926
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,82128,82142
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,82420,82436
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,82575,82589
+b1801835x,1894,P006,Wentworth Street,street,wentworth street,84167,84183
+b1801835x,1894,P009,Hanbury Street,street,hanbury street,84718,84732
+b19883687,1895,P004,Commercial Road,street,commercial road,596,611
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,2980,2992
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,2993,3010
+b19883687,1895,P016,London Hospital,institution,london hospital,3524,3539
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,4651,4663
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,4705,4722
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,16163,16179
+b19883687,1895,P018,Commercial Street,street,commercial street,16235,16252
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,17124,17140
+b19883687,1895,P009,Hanbury Street,street,hanbury street,17610,17624
+b19883687,1895,P020,Thrawl Street,street,thrawl street,17649,17662
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,17975,17991
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,18058,18074
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,18132,18148
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,18421,18437
+b19883687,1895,P016,London Hospital,institution,london hospital,18465,18480
+b19883687,1895,P006,Wentworth Street,street,wentworth street,19167,19183
+b19883687,1895,P009,Hanbury Street,street,hanbury street,19688,19702
+b19883687,1895,P016,London Hospital,institution,london hospital,21304,21319
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,21404,21420
+b19883687,1895,P003,Brick Lane,street,brick lane,21472,21482
+b19883687,1895,P016,London Hospital,institution,london hospital,21956,21971
+b19883687,1895,P006,Wentworth Street,street,wentworth street,22031,22047
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,22326,22342
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,22455,22471
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,22553,22569
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,23502,23518
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,24003,24019
+b19883687,1895,P020,Thrawl Street,street,thrawl street,24053,24066
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,24108,24124
+b19883687,1895,P020,Thrawl Street,street,thrawl street,24141,24154
+b19883687,1895,P016,London Hospital,institution,london hospital,24155,24170
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,25396,25412
+b19883687,1895,P016,London Hospital,institution,london hospital,25416,25431
+b19883687,1895,P020,Thrawl Street,street,thrawl street,25553,25566
+b19883687,1895,P016,London Hospital,institution,london hospital,25592,25607
+b19883687,1895,P003,Brick Lane,street,brick lane,25692,25702
+b19883687,1895,P016,London Hospital,institution,london hospital,26047,26062
+b19883687,1895,P020,Thrawl Street,street,thrawl street,28886,28899
+b19883687,1895,P003,Brick Lane,street,brick lane,28953,28963
+b19883687,1895,P016,London Hospital,institution,london hospital,29053,29068
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,29302,29324
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,29706,29728
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,38859,38871
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,38918,38935
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,39193,39210
+b19883687,1895,P003,Brick Lane,street,brick lane,42723,42733
+b19883687,1895,P018,Commercial Street,street,commercial street,42754,42771
+b19883687,1895,P008,Dorset Street,street,dorset street,42777,42790
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,42797,42819
+b19883687,1895,P019,George Yard,street/place,george yard,42842,42853
+b19883687,1895,P009,Hanbury Street,street,hanbury street,42930,42944
+b19883687,1895,P010,Leman Street,street,leman street,42984,42996
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,43118,43135
+b19883687,1895,P020,Thrawl Street,street,thrawl street,43138,43151
+b19883687,1895,P006,Wentworth Street,street,wentworth street,43201,43217
+b19883687,1895,P016,London Hospital,institution,london hospital,43344,43359
+b19883687,1895,P009,Hanbury Street,street,hanbury street,47707,47721
+b19883687,1895,P018,Commercial Street,street,commercial street,47907,47924
+b19883687,1895,P003,Brick Lane,street,brick lane,48208,48218
+b19883687,1895,P010,Leman Street,street,leman street,48225,48237
+b19883687,1895,P018,Commercial Street,street,commercial street,48244,48261
+b19883687,1895,P010,Leman Street,street,leman street,48267,48279
+b19883687,1895,P018,Commercial Street,street,commercial street,48286,48303
+b19883687,1895,P008,Dorset Street,street,dorset street,48332,48345
+b19883687,1895,P008,Dorset Street,street,dorset street,48373,48386
+b19883687,1895,P008,Dorset Street,street,dorset street,48413,48426
+b19883687,1895,P008,Dorset Street,street,dorset street,48449,48462
+b19883687,1895,P008,Dorset Street,street,dorset street,48487,48500
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,48531,48553
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,48577,48599
+b19883687,1895,P020,Thrawl Street,street,thrawl street,48605,48618
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,48625,48647
+b19883687,1895,P020,Thrawl Street,street,thrawl street,48654,48667
+b19883687,1895,P006,Wentworth Street,street,wentworth street,48910,48926
+b19883687,1895,P009,Hanbury Street,street,hanbury street,48933,48947
+b19883687,1895,P006,Wentworth Street,street,wentworth street,48954,48970
+b19883687,1895,P009,Hanbury Street,street,hanbury street,49662,49676
+b19883687,1895,P016,London Hospital,institution,london hospital,53920,53935
+b19883687,1895,P016,London Hospital,institution,london hospital,63833,63848
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,64647,64659
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,65397,65414
+b19883687,1895,P016,London Hospital,institution,london hospital,68253,68268
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,72315,72332
+b19883687,1895,P016,London Hospital,institution,london hospital,73092,73107
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,73558,73570
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,73571,73588
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,73958,73975
+b19883687,1895,P012,Spitalfields,district/place,spitalfields,74311,74323
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,74324,74341
+b19883687,1895,P016,London Hospital,institution,london hospital,74383,74398
+b19883687,1895,P014,Mile End New Town,district/place,mile end new town,76107,76124
+b19883687,1895,P009,Hanbury Street,street,hanbury street,91392,91406
+b19883687,1895,P021,Fashion Street,street,fashion street,95268,95282
+b19883687,1895,P003,Brick Lane,street,brick lane,95473,95483
+b19883687,1895,P007,Flower and Dean Street,street,flower and dean street,95534,95556
+b19883687,1895,P019,George Yard,street/place,george yard,95649,95660
+b19883687,1895,P009,Hanbury Street,street,hanbury street,96447,96461
+b19883687,1895,P018,Commercial Street,street,commercial street,96709,96726
+b19883687,1895,P004,Commercial Road,street,commercial road,96752,96767
+b19883687,1895,P010,Leman Street,street,leman street,97078,97090
+b19883687,1895,P008,Dorset Street,street,dorset street,97095,97108
+b19883687,1895,P016,London Hospital,institution,london hospital,97649,97664
+b19883687,1895,P021,Fashion Street,street,fashion street,98279,98293
+b19883687,1895,P001,Whitechapel Road,street,whitechapel road,98342,98358
+b19883687,1895,P009,Hanbury Street,street,hanbury street,98498,98512
+b19883687,1895,P020,Thrawl Street,street,thrawl street,98848,98861
+b19883687,1895,P002,Whitechapel High Street,street,whitechapel high street,99421,99444
+b19883687,1895,P011,Aldgate,district/place,aldgate,99562,99569
+b19883687,1895,P016,London Hospital,institution,london hospital,99912,99927
+b19883687,1895,P009,Hanbury Street,street,hanbury street,100468,100482
+b19883687,1895,P020,Thrawl Street,street,thrawl street,100867,100880
+b19883687,1895,P009,Hanbury Street,street,hanbury street,101485,101499
+b19883687,1895,P009,Hanbury Street,street,hanbury street,101635,101649
+b19883687,1895,P006,Wentworth Street,street,wentworth street,102742,102758
+b19883687,1895,P009,Hanbury Street,street,hanbury street,103545,103559
+b19883687,1895,P006,Wentworth Street,street,wentworth street,105801,105817
+b18038244,1896,P004,Commercial Road,street,commercial road,597,612
+b18038244,1896,P013,Mile End,district/place,mile end,2294,2302
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,2329,2341
+b18038244,1896,P016,London Hospital,institution,london hospital,2988,3003
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,3970,3982
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,4023,4040
+b18038244,1896,P016,London Hospital,institution,london hospital,9613,9628
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,30331,30343
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,30372,30389
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,31066,31078
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,31125,31142
+b18038244,1896,P016,London Hospital,institution,london hospital,31769,31784
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,32155,32167
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,32217,32234
+b18038244,1896,P003,Brick Lane,street,brick lane,33776,33786
+b18038244,1896,P018,Commercial Street,street,commercial street,33815,33832
+b18038244,1896,P008,Dorset Street,street,dorset street,33860,33873
+b18038244,1896,P008,Dorset Street,street,dorset street,33900,33913
+b18038244,1896,P008,Dorset Street,street,dorset street,33939,33952
+b18038244,1896,P008,Dorset Street,street,dorset street,33977,33990
+b18038244,1896,P008,Dorset Street,street,dorset street,34021,34034
+b18038244,1896,P020,Thrawl Street,street,thrawl street,34041,34054
+b18038244,1896,P020,Thrawl Street,street,thrawl street,34092,34105
+b18038244,1896,P007,Flower and Dean Street,street,flower and dean street,34112,34134
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,34315,34331
+b18038244,1896,P009,Hanbury Street,street,hanbury street,34337,34351
+b18038244,1896,P006,Wentworth Street,street,wentworth street,34357,34373
+b18038244,1896,P006,Wentworth Street,street,wentworth street,34399,34415
+b18038244,1896,P010,Leman Street,street,leman street,34423,34435
+b18038244,1896,P010,Leman Street,street,leman street,34442,34454
+b18038244,1896,P003,Brick Lane,street,brick lane,34591,34601
+b18038244,1896,P018,Commercial Street,street,commercial street,34624,34641
+b18038244,1896,P008,Dorset Street,street,dorset street,34647,34660
+b18038244,1896,P007,Flower and Dean Street,street,flower and dean street,34667,34689
+b18038244,1896,P019,George Yard,street/place,george yard,34712,34723
+b18038244,1896,P009,Hanbury Street,street,hanbury street,34808,34822
+b18038244,1896,P010,Leman Street,street,leman street,34864,34876
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,35000,35017
+b18038244,1896,P020,Thrawl Street,street,thrawl street,35020,35033
+b18038244,1896,P006,Wentworth Street,street,wentworth street,35086,35102
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,35108,35124
+b18038244,1896,P016,London Hospital,institution,london hospital,35229,35244
+b18038244,1896,P016,London Hospital,institution,london hospital,38586,38601
+b18038244,1896,P013,Mile End,district/place,mile end,38818,38826
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,39840,39856
+b18038244,1896,P009,Hanbury Street,street,hanbury street,39871,39885
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,39967,39983
+b18038244,1896,P010,Leman Street,street,leman street,40004,40016
+b18038244,1896,P018,Commercial Street,street,commercial street,40069,40086
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,40192,40208
+b18038244,1896,P016,London Hospital,institution,london hospital,41968,41983
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,42792,42804
+b18038244,1896,P013,Mile End,district/place,mile end,43542,43550
+b18038244,1896,P016,London Hospital,institution,london hospital,46628,46643
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,51162,51174
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,51291,51308
+b18038244,1896,P016,London Hospital,institution,london hospital,51733,51748
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,52009,52021
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,52022,52039
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,52464,52476
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,52477,52494
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,52828,52840
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,52841,52858
+b18038244,1896,P016,London Hospital,institution,london hospital,52900,52915
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,53273,53285
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,53286,53303
+b18038244,1896,P016,London Hospital,institution,london hospital,54026,54041
+b18038244,1896,P014,Mile End New Town,district/place,mile end new town,56501,56518
+b18038244,1896,P009,Hanbury Street,street,hanbury street,74075,74089
+b18038244,1896,P021,Fashion Street,street,fashion street,78130,78144
+b18038244,1896,P007,Flower and Dean Street,street,flower and dean street,78353,78375
+b18038244,1896,P003,Brick Lane,street,brick lane,78422,78432
+b18038244,1896,P020,Thrawl Street,street,thrawl street,79061,79074
+b18038244,1896,P009,Hanbury Street,street,hanbury street,79151,79165
+b18038244,1896,P018,Commercial Street,street,commercial street,79480,79497
+b18038244,1896,P004,Commercial Road,street,commercial road,79543,79558
+b18038244,1896,P010,Leman Street,street,leman street,79859,79871
+b18038244,1896,P008,Dorset Street,street,dorset street,79919,79932
+b18038244,1896,P016,London Hospital,institution,london hospital,80096,80111
+b18038244,1896,P007,Flower and Dean Street,street,flower and dean street,80835,80857
+b18038244,1896,P008,Dorset Street,street,dorset street,81010,81023
+b18038244,1896,P021,Fashion Street,street,fashion street,81058,81072
+b18038244,1896,P006,Wentworth Street,street,wentworth street,82090,82106
+b18038244,1896,P018,Commercial Street,street,commercial street,82207,82224
+b18038244,1896,P002,Whitechapel High Street,street,whitechapel high street,82287,82310
+b18038244,1896,P001,Whitechapel Road,street,whitechapel road,82345,82361
+b18038244,1896,P011,Aldgate,district/place,aldgate,82527,82534
+b18038244,1896,P016,London Hospital,institution,london hospital,82734,82749
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,83585,83597
+b18038244,1896,P012,Spitalfields,district/place,spitalfields,83714,83726
+b18038244,1896,P006,Wentworth Street,street,wentworth street,83754,83770
+b18038244,1896,P018,Commercial Street,street,commercial street,84446,84463
+b18038244,1896,P006,Wentworth Street,street,wentworth street,86435,86451
+b18038244,1896,P009,Hanbury Street,street,hanbury street,88917,88931
+b18038244,1896,P006,Wentworth Street,street,wentworth street,89280,89296
+b18038244,1896,P006,Wentworth Street,street,wentworth street,89366,89382
+b19883699,1897,P004,Commercial Road,street,commercial road,607,622
+b19883699,1897,P013,Mile End,district/place,mile end,11286,11294
+b19883699,1897,P016,London Hospital,institution,london hospital,12138,12153
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,13018,13030
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,13071,13088
+b19883699,1897,P022,Mile End Old Town,district/place,mile end old town,15290,15307
+b19883699,1897,P022,Mile End Old Town,district/place,mile end old town,17728,17745
+b19883699,1897,P006,Wentworth Street,street,wentworth street,27892,27908
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,30133,30145
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,30174,30191
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,31100,31112
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,31160,31177
+b19883699,1897,P016,London Hospital,institution,london hospital,31946,31961
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,32394,32406
+b19883699,1897,P003,Brick Lane,street,brick lane,33473,33483
+b19883699,1897,P010,Leman Street,street,leman street,33490,33502
+b19883699,1897,P018,Commercial Street,street,commercial street,33509,33526
+b19883699,1897,P010,Leman Street,street,leman street,33534,33546
+b19883699,1897,P008,Dorset Street,street,dorset street,33552,33565
+b19883699,1897,P008,Dorset Street,street,dorset street,33593,33606
+b19883699,1897,P008,Dorset Street,street,dorset street,33632,33645
+b19883699,1897,P008,Dorset Street,street,dorset street,33671,33684
+b19883699,1897,P008,Dorset Street,street,dorset street,33715,33728
+b19883699,1897,P020,Thrawl Street,street,thrawl street,33735,33748
+b19883699,1897,P007,Flower and Dean Street,street,flower and dean street,33812,33834
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,33887,33903
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,33967,33983
+b19883699,1897,P006,Wentworth Street,street,wentworth street,34010,34026
+b19883699,1897,P009,Hanbury Street,street,hanbury street,34034,34048
+b19883699,1897,P003,Brick Lane,street,brick lane,34204,34214
+b19883699,1897,P018,Commercial Street,street,commercial street,34269,34286
+b19883699,1897,P008,Dorset Street,street,dorset street,34306,34319
+b19883699,1897,P007,Flower and Dean Street,street,flower and dean street,34377,34399
+b19883699,1897,P019,George Yard,street/place,george yard,34446,34457
+b19883699,1897,P009,Hanbury Street,street,hanbury street,34592,34606
+b19883699,1897,P010,Leman Street,street,leman street,34681,34693
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,34898,34915
+b19883699,1897,P020,Thrawl Street,street,thrawl street,34925,34938
+b19883699,1897,P006,Wentworth Street,street,wentworth street,35027,35043
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,35055,35071
+b19883699,1897,P016,London Hospital,institution,london hospital,35209,35224
+b19883699,1897,P016,London Hospital,institution,london hospital,38001,38016
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,39246,39262
+b19883699,1897,P009,Hanbury Street,street,hanbury street,39277,39291
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,39374,39390
+b19883699,1897,P010,Leman Street,street,leman street,39411,39423
+b19883699,1897,P018,Commercial Street,street,commercial street,39476,39493
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,39599,39615
+b19883699,1897,P016,London Hospital,institution,london hospital,40450,40465
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,41313,41325
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,42060,42077
+b19883699,1897,P016,London Hospital,institution,london hospital,45165,45180
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,49729,49741
+b19883699,1897,P013,Mile End,district/place,mile end,49878,49886
+b19883699,1897,P016,London Hospital,institution,london hospital,50369,50384
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,50793,50805
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,50806,50823
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,51424,51436
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,51437,51454
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,51805,51817
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,51818,51835
+b19883699,1897,P016,London Hospital,institution,london hospital,51877,51892
+b19883699,1897,P022,Mile End Old Town,district/place,mile end old town,52453,52470
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,54033,54045
+b19883699,1897,P014,Mile End New Town,district/place,mile end new town,54046,54063
+b19883699,1897,P007,Flower and Dean Street,street,flower and dean street,64287,64309
+b19883699,1897,P003,Brick Lane,street,brick lane,64668,64678
+b19883699,1897,P009,Hanbury Street,street,hanbury street,65231,65245
+b19883699,1897,P018,Commercial Street,street,commercial street,65549,65566
+b19883699,1897,P010,Leman Street,street,leman street,65845,65857
+b19883699,1897,P008,Dorset Street,street,dorset street,66025,66038
+b19883699,1897,P016,London Hospital,institution,london hospital,66202,66217
+b19883699,1897,P021,Fashion Street,street,fashion street,66398,66412
+b19883699,1897,P012,Spitalfields,district/place,spitalfields,67452,67464
+b19883699,1897,P020,Thrawl Street,street,thrawl street,67674,67687
+b19883699,1897,P018,Commercial Street,street,commercial street,67777,67794
+b19883699,1897,P009,Hanbury Street,street,hanbury street,68050,68064
+b19883699,1897,P006,Wentworth Street,street,wentworth street,68069,68085
+b19883699,1897,P002,Whitechapel High Street,street,whitechapel high street,68185,68208
+b19883699,1897,P001,Whitechapel Road,street,whitechapel road,68231,68247
+b19883699,1897,P016,London Hospital,institution,london hospital,68711,68726
+b19883699,1897,P009,Hanbury Street,street,hanbury street,74505,74519
+b19883699,1897,P018,Commercial Street,street,commercial street,83386,83403
+b19883699,1897,P010,Leman Street,street,leman street,83498,83510
+b19883699,1897,P020,Thrawl Street,street,thrawl street,84733,84746
+b19883699,1897,P006,Wentworth Street,street,wentworth street,85293,85309
+b19883699,1897,P003,Brick Lane,street,brick lane,85401,85411
+b19883699,1897,P006,Wentworth Street,street,wentworth street,85806,85822
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,594,610
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,6113,6125
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,6126,6143
+b19883705,1898,P011,Aldgate,district/place,aldgate,6184,6191
+b19883705,1898,P011,Aldgate,district/place,aldgate,6289,6296
+b19883705,1898,P011,Aldgate,district/place,aldgate,6469,6476
+b19883705,1898,P016,London Hospital,institution,london hospital,6525,6540
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,6567,6584
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,13754,13766
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,13767,13784
+b19883705,1898,P016,London Hospital,institution,london hospital,14840,14855
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,15866,15878
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,15919,15936
+b19883705,1898,P022,Mile End Old Town,district/place,mile end old town,18166,18183
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,21018,21030
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,21059,21076
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,21911,21923
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,21940,21957
+b19883705,1898,P003,Brick Lane,street,brick lane,23488,23498
+b19883705,1898,P018,Commercial Street,street,commercial street,23551,23568
+b19883705,1898,P008,Dorset Street,street,dorset street,23588,23601
+b19883705,1898,P007,Flower and Dean Street,street,flower and dean street,23657,23679
+b19883705,1898,P019,George Yard,street/place,george yard,23726,23737
+b19883705,1898,P009,Hanbury Street,street,hanbury street,23864,23878
+b19883705,1898,P010,Leman Street,street,leman street,23951,23963
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,24164,24181
+b19883705,1898,P020,Thrawl Street,street,thrawl street,24189,24202
+b19883705,1898,P006,Wentworth Street,street,wentworth street,24289,24305
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,24317,24333
+b19883705,1898,P016,London Hospital,institution,london hospital,24466,24481
+b19883705,1898,P016,London Hospital,institution,london hospital,28817,28832
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,30343,30359
+b19883705,1898,P009,Hanbury Street,street,hanbury street,30374,30388
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,30471,30487
+b19883705,1898,P010,Leman Street,street,leman street,30506,30518
+b19883705,1898,P018,Commercial Street,street,commercial street,30568,30585
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,30690,30706
+b19883705,1898,P016,London Hospital,institution,london hospital,31586,31601
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,32451,32463
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,33099,33116
+b19883705,1898,P016,London Hospital,institution,london hospital,35941,35956
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,39980,39992
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,40128,40145
+b19883705,1898,P016,London Hospital,institution,london hospital,40707,40722
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,41094,41106
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,41107,41124
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,41713,41725
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,41726,41743
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,42094,42106
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,42107,42124
+b19883705,1898,P016,London Hospital,institution,london hospital,42166,42181
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,44022,44034
+b19883705,1898,P014,Mile End New Town,district/place,mile end new town,44038,44055
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,44625,44637
+b19883705,1898,P013,Mile End,district/place,mile end,44638,44646
+b19883705,1898,P019,George Yard,street/place,george yard,56736,56747
+b19883705,1898,P003,Brick Lane,street,brick lane,57201,57211
+b19883705,1898,P009,Hanbury Street,street,hanbury street,57381,57395
+b19883705,1898,P011,Aldgate,district/place,aldgate,57772,57779
+b19883705,1898,P010,Leman Street,street,leman street,57960,57972
+b19883705,1898,P018,Commercial Street,street,commercial street,58070,58087
+b19883705,1898,P004,Commercial Road,street,commercial road,58121,58136
+b19883705,1898,P016,London Hospital,institution,london hospital,58139,58154
+b19883705,1898,P008,Dorset Street,street,dorset street,58377,58390
+b19883705,1898,P021,Fashion Street,street,fashion street,58784,58798
+b19883705,1898,P007,Flower and Dean Street,street,flower and dean street,59015,59037
+b19883705,1898,P012,Spitalfields,district/place,spitalfields,59583,59595
+b19883705,1898,P018,Commercial Street,street,commercial street,59689,59706
+b19883705,1898,P011,Aldgate,district/place,aldgate,60013,60020
+b19883705,1898,P006,Wentworth Street,street,wentworth street,60065,60081
+b19883705,1898,P001,Whitechapel Road,street,whitechapel road,60264,60280
+b19883705,1898,P016,London Hospital,institution,london hospital,60708,60723
+b19883705,1898,P009,Hanbury Street,street,hanbury street,66561,66575
+b19883705,1898,P011,Aldgate,district/place,aldgate,69145,69152
+b19883705,1898,P011,Aldgate,district/place,aldgate,70227,70234
+b19883705,1898,P006,Wentworth Street,street,wentworth street,71446,71462
+b19883705,1898,P009,Hanbury Street,street,hanbury street,72761,72775
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,10101,10113
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,10114,10131
+b19883717,1899,P016,London Hospital,institution,london hospital,11144,11159
+b19883717,1899,P022,Mile End Old Town,district/place,mile end old town,14264,14281
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,21160,21177
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,21178,21190
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,22142,22154
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,22172,22189
+b19883717,1899,P016,London Hospital,institution,london hospital,22472,22487
+b19883717,1899,P003,Brick Lane,street,brick lane,23962,23972
+b19883717,1899,P018,Commercial Street,street,commercial street,24025,24042
+b19883717,1899,P008,Dorset Street,street,dorset street,24062,24075
+b19883717,1899,P007,Flower and Dean Street,street,flower and dean street,24132,24154
+b19883717,1899,P019,George Yard,street/place,george yard,24200,24211
+b19883717,1899,P009,Hanbury Street,street,hanbury street,24342,24356
+b19883717,1899,P010,Leman Street,street,leman street,24427,24439
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,24642,24659
+b19883717,1899,P020,Thrawl Street,street,thrawl street,24667,24680
+b19883717,1899,P006,Wentworth Street,street,wentworth street,24768,24784
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,24796,24812
+b19883717,1899,P016,London Hospital,institution,london hospital,24945,24960
+b19883717,1899,P016,London Hospital,institution,london hospital,27324,27339
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,28592,28608
+b19883717,1899,P009,Hanbury Street,street,hanbury street,28623,28637
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,28720,28736
+b19883717,1899,P010,Leman Street,street,leman street,28757,28769
+b19883717,1899,P018,Commercial Street,street,commercial street,28821,28838
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,28945,28961
+b19883717,1899,P007,Flower and Dean Street,street,flower and dean street,44624,44646
+b19883717,1899,P020,Thrawl Street,street,thrawl street,44647,44660
+b19883717,1899,P010,Leman Street,street,leman street,47167,47179
+b19883717,1899,P007,Flower and Dean Street,street,flower and dean street,47451,47473
+b19883717,1899,P011,Aldgate,district/place,aldgate,49176,49183
+b19883717,1899,P003,Brick Lane,street,brick lane,49197,49207
+b19883717,1899,P003,Brick Lane,street,brick lane,49662,49672
+b19883717,1899,P016,London Hospital,institution,london hospital,52092,52107
+b19883717,1899,P006,Wentworth Street,street,wentworth street,52397,52413
+b19883717,1899,P021,Fashion Street,street,fashion street,52648,52662
+b19883717,1899,P021,Fashion Street,street,fashion street,52667,52681
+b19883717,1899,P003,Brick Lane,street,brick lane,52686,52696
+b19883717,1899,P021,Fashion Street,street,fashion street,52856,52870
+b19883717,1899,P003,Brick Lane,street,brick lane,52876,52886
+b19883717,1899,P002,Whitechapel High Street,street,whitechapel high street,53051,53074
+b19883717,1899,P002,Whitechapel High Street,street,whitechapel high street,53164,53187
+b19883717,1899,P016,London Hospital,institution,london hospital,53560,53575
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,53910,53927
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,54569,54581
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,55092,55109
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,56560,56577
+b19883717,1899,P016,London Hospital,institution,london hospital,57204,57219
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,58855,58872
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,61545,61557
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,61709,61726
+b19883717,1899,P016,London Hospital,institution,london hospital,62117,62132
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,62581,62593
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,62594,62611
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,63032,63049
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,63242,63254
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,63255,63272
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,63586,63598
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,63599,63616
+b19883717,1899,P016,London Hospital,institution,london hospital,63631,63646
+b19883717,1899,P012,Spitalfields,district/place,spitalfields,65485,65497
+b19883717,1899,P014,Mile End New Town,district/place,mile end new town,65498,65515
+b19883717,1899,P019,George Yard,street/place,george yard,75150,75161
+b19883717,1899,P003,Brick Lane,street,brick lane,75603,75613
+b19883717,1899,P009,Hanbury Street,street,hanbury street,75787,75801
+b19883717,1899,P018,Commercial Street,street,commercial street,76407,76424
+b19883717,1899,P011,Aldgate,district/place,aldgate,76445,76452
+b19883717,1899,P004,Commercial Road,street,commercial road,76455,76470
+b19883717,1899,P010,Leman Street,street,leman street,76633,76645
+b19883717,1899,P008,Dorset Street,street,dorset street,76691,76704
+b19883717,1899,P016,London Hospital,institution,london hospital,76827,76842
+b19883717,1899,P021,Fashion Street,street,fashion street,77113,77127
+b19883717,1899,P007,Flower and Dean Street,street,flower and dean street,77284,77306
+b19883717,1899,P020,Thrawl Street,street,thrawl street,78221,78234
+b19883717,1899,P011,Aldgate,district/place,aldgate,78575,78582
+b19883717,1899,P006,Wentworth Street,street,wentworth street,78634,78650
+b19883717,1899,P002,Whitechapel High Street,street,whitechapel high street,78823,78846
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,78870,78886
+b19883717,1899,P016,London Hospital,institution,london hospital,79277,79292
+b19883717,1899,P009,Hanbury Street,street,hanbury street,86340,86354
+b19883717,1899,P021,Fashion Street,street,fashion street,88661,88675
+b19883717,1899,P009,Hanbury Street,street,hanbury street,88840,88854
+b19883717,1899,P009,Hanbury Street,street,hanbury street,88987,89001
+b19883717,1899,P018,Commercial Street,street,commercial street,90707,90724
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,90853,90869
+b19883717,1899,P001,Whitechapel Road,street,whitechapel road,91063,91079

@@ -1,0 +1,551 @@
+report_year,category,term,raw_count,narrative_word_count,frequency_per_10000_words
+1890,disease,cholera,0,3338,0.0
+1890,disease,consumption,0,3338,0.0
+1890,disease,diarrhoea,1,3338,2.995805871779509
+1890,disease,diphtheria,1,3338,2.995805871779509
+1890,disease,fever,0,3338,0.0
+1890,disease,influenza,0,3338,0.0
+1890,disease,isolation,1,3338,2.995805871779509
+1890,disease,measles,1,3338,2.995805871779509
+1890,disease,notification,2,3338,5.991611743559018
+1890,disease,scarlet fever,1,3338,2.995805871779509
+1890,disease,smallpox,2,3338,5.991611743559018
+1890,disease,typhoid,0,3338,0.0
+1890,disease,typhus,0,3338,0.0
+1890,governance,board,3,3338,8.987417615338526
+1890,governance,inspection,6,3338,17.97483523067705
+1890,governance,inspections,0,3338,0.0
+1890,governance,inspector,0,3338,0.0
+1890,governance,local government board,1,3338,2.995805871779509
+1890,governance,medical officer,7,3338,20.97064110245656
+1890,governance,notices,0,3338,0.0
+1890,governance,sanitary authority,0,3338,0.0
+1890,governance,summonses,0,3338,0.0
+1890,governance,vestry,0,3338,0.0
+1890,housing,common lodging house,0,3338,0.0
+1890,housing,dwellings,4,3338,11.983223487118035
+1890,housing,houses,10,3338,29.958058717795087
+1890,housing,lodging house,3,3338,8.987417615338526
+1890,housing,model dwellings,0,3338,0.0
+1890,housing,overcrowded,0,3338,0.0
+1890,housing,overcrowding,0,3338,0.0
+1890,housing,rooms,5,3338,14.979029358897543
+1890,housing,tenement,0,3338,0.0
+1890,inequality,destitute,0,3338,0.0
+1890,inequality,infirmary,0,3338,0.0
+1890,inequality,lodgers,0,3338,0.0
+1890,inequality,poor,1,3338,2.995805871779509
+1890,inequality,poorer,0,3338,0.0
+1890,inequality,poorest,0,3338,0.0
+1890,inequality,poverty,0,3338,0.0
+1890,inequality,working class,0,3338,0.0
+1890,inequality,working classes,5,3338,14.979029358897543
+1890,sanitary,dirty,0,3338,0.0
+1890,sanitary,drain,7,3338,20.97064110245656
+1890,sanitary,drainage,3,3338,8.987417615338526
+1890,sanitary,drains,3,3338,8.987417615338526
+1890,sanitary,filth,1,3338,2.995805871779509
+1890,sanitary,nuisance,1,3338,2.995805871779509
+1890,sanitary,nuisances,3,3338,8.987417615338526
+1890,sanitary,refuse,0,3338,0.0
+1890,sanitary,sanitary,8,3338,23.96644697423607
+1890,sanitary,sanitation,1,3338,2.995805871779509
+1890,sanitary,sewage,0,3338,0.0
+1890,sanitary,sewer,1,3338,2.995805871779509
+1890,sanitary,sewers,0,3338,0.0
+1890,sanitary,water supply,1,3338,2.995805871779509
+1891,disease,cholera,0,5535,0.0
+1891,disease,consumption,0,5535,0.0
+1891,disease,diarrhoea,0,5535,0.0
+1891,disease,diphtheria,0,5535,0.0
+1891,disease,fever,0,5535,0.0
+1891,disease,influenza,0,5535,0.0
+1891,disease,isolation,0,5535,0.0
+1891,disease,measles,0,5535,0.0
+1891,disease,notification,3,5535,5.420054200542006
+1891,disease,scarlet fever,0,5535,0.0
+1891,disease,smallpox,0,5535,0.0
+1891,disease,typhoid,0,5535,0.0
+1891,disease,typhus,0,5535,0.0
+1891,governance,board,10,5535,18.066847335140018
+1891,governance,inspection,1,5535,1.806684733514002
+1891,governance,inspections,0,5535,0.0
+1891,governance,inspector,1,5535,1.806684733514002
+1891,governance,local government board,1,5535,1.806684733514002
+1891,governance,medical officer,4,5535,7.226738934056008
+1891,governance,notices,1,5535,1.806684733514002
+1891,governance,sanitary authority,50,5535,90.33423667570008
+1891,governance,summonses,0,5535,0.0
+1891,governance,vestry,0,5535,0.0
+1891,housing,common lodging house,1,5535,1.806684733514002
+1891,housing,dwellings,0,5535,0.0
+1891,housing,houses,4,5535,7.226738934056008
+1891,housing,lodging house,0,5535,0.0
+1891,housing,model dwellings,0,5535,0.0
+1891,housing,overcrowded,0,5535,0.0
+1891,housing,overcrowding,4,5535,7.226738934056008
+1891,housing,rooms,1,5535,1.806684733514002
+1891,housing,tenement,0,5535,0.0
+1891,inequality,destitute,0,5535,0.0
+1891,inequality,infirmary,1,5535,1.806684733514002
+1891,inequality,lodgers,2,5535,3.613369467028004
+1891,inequality,poor,1,5535,1.806684733514002
+1891,inequality,poorer,0,5535,0.0
+1891,inequality,poorest,0,5535,0.0
+1891,inequality,poverty,0,5535,0.0
+1891,inequality,working class,0,5535,0.0
+1891,inequality,working classes,1,5535,1.806684733514002
+1891,sanitary,dirty,0,5535,0.0
+1891,sanitary,drain,4,5535,7.226738934056008
+1891,sanitary,drainage,2,5535,3.613369467028004
+1891,sanitary,drains,0,5535,0.0
+1891,sanitary,filth,1,5535,1.806684733514002
+1891,sanitary,nuisance,14,5535,25.293586269196023
+1891,sanitary,nuisances,7,5535,12.646793134598012
+1891,sanitary,refuse,13,5535,23.486901535682026
+1891,sanitary,sanitary,10,5535,18.066847335140018
+1891,sanitary,sanitation,0,5535,0.0
+1891,sanitary,sewage,0,5535,0.0
+1891,sanitary,sewer,1,5535,1.806684733514002
+1891,sanitary,sewers,0,5535,0.0
+1891,sanitary,water supply,4,5535,7.226738934056008
+1892,disease,cholera,6,4262,14.077897700610043
+1892,disease,consumption,0,4262,0.0
+1892,disease,diarrhoea,4,4262,9.385265133740027
+1892,disease,diphtheria,4,4262,9.385265133740027
+1892,disease,fever,1,4262,2.346316283435007
+1892,disease,influenza,0,4262,0.0
+1892,disease,isolation,0,4262,0.0
+1892,disease,measles,0,4262,0.0
+1892,disease,notification,0,4262,0.0
+1892,disease,scarlet fever,5,4262,11.731581417175034
+1892,disease,smallpox,1,4262,2.346316283435007
+1892,disease,typhoid,0,4262,0.0
+1892,disease,typhus,2,4262,4.692632566870014
+1892,governance,board,17,4262,39.88737681839512
+1892,governance,inspection,2,4262,4.692632566870014
+1892,governance,inspections,0,4262,0.0
+1892,governance,inspector,3,4262,7.0389488503050215
+1892,governance,local government board,9,4262,21.11684655091506
+1892,governance,medical officer,2,4262,4.692632566870014
+1892,governance,notices,0,4262,0.0
+1892,governance,sanitary authority,3,4262,7.0389488503050215
+1892,governance,summonses,0,4262,0.0
+1892,governance,vestry,0,4262,0.0
+1892,housing,common lodging house,0,4262,0.0
+1892,housing,dwellings,0,4262,0.0
+1892,housing,houses,12,4262,28.155795401220086
+1892,housing,lodging house,3,4262,7.0389488503050215
+1892,housing,model dwellings,2,4262,4.692632566870014
+1892,housing,overcrowded,0,4262,0.0
+1892,housing,overcrowding,1,4262,2.346316283435007
+1892,housing,rooms,1,4262,2.346316283435007
+1892,housing,tenement,0,4262,0.0
+1892,inequality,destitute,1,4262,2.346316283435007
+1892,inequality,infirmary,1,4262,2.346316283435007
+1892,inequality,lodgers,1,4262,2.346316283435007
+1892,inequality,poor,2,4262,4.692632566870014
+1892,inequality,poorer,0,4262,0.0
+1892,inequality,poorest,1,4262,2.346316283435007
+1892,inequality,poverty,0,4262,0.0
+1892,inequality,working class,0,4262,0.0
+1892,inequality,working classes,1,4262,2.346316283435007
+1892,sanitary,dirty,0,4262,0.0
+1892,sanitary,drain,0,4262,0.0
+1892,sanitary,drainage,2,4262,4.692632566870014
+1892,sanitary,drains,1,4262,2.346316283435007
+1892,sanitary,filth,0,4262,0.0
+1892,sanitary,nuisance,0,4262,0.0
+1892,sanitary,nuisances,2,4262,4.692632566870014
+1892,sanitary,refuse,1,4262,2.346316283435007
+1892,sanitary,sanitary,14,4262,32.8484279680901
+1892,sanitary,sanitation,0,4262,0.0
+1892,sanitary,sewage,0,4262,0.0
+1892,sanitary,sewer,0,4262,0.0
+1892,sanitary,sewers,0,4262,0.0
+1892,sanitary,water supply,2,4262,4.692632566870014
+1893,disease,cholera,2,11969,1.6709833737154316
+1893,disease,consumption,0,11969,0.0
+1893,disease,diarrhoea,0,11969,0.0
+1893,disease,diphtheria,3,11969,2.506475060573147
+1893,disease,fever,0,11969,0.0
+1893,disease,influenza,1,11969,0.8354916868577158
+1893,disease,isolation,0,11969,0.0
+1893,disease,measles,0,11969,0.0
+1893,disease,notification,0,11969,0.0
+1893,disease,scarlet fever,2,11969,1.6709833737154316
+1893,disease,smallpox,0,11969,0.0
+1893,disease,typhoid,0,11969,0.0
+1893,disease,typhus,0,11969,0.0
+1893,governance,board,24,11969,20.051800484585176
+1893,governance,inspection,7,11969,5.848441808004011
+1893,governance,inspections,1,11969,0.8354916868577158
+1893,governance,inspector,3,11969,2.506475060573147
+1893,governance,local government board,5,11969,4.177458434288579
+1893,governance,medical officer,5,11969,4.177458434288579
+1893,governance,notices,0,11969,0.0
+1893,governance,sanitary authority,36,11969,30.077700726877765
+1893,governance,summonses,2,11969,1.6709833737154316
+1893,governance,vestry,0,11969,0.0
+1893,housing,common lodging house,2,11969,1.6709833737154316
+1893,housing,dwellings,0,11969,0.0
+1893,housing,houses,16,11969,13.367866989723453
+1893,housing,lodging house,24,11969,20.051800484585176
+1893,housing,model dwellings,3,11969,2.506475060573147
+1893,housing,overcrowded,0,11969,0.0
+1893,housing,overcrowding,0,11969,0.0
+1893,housing,rooms,6,11969,5.012950121146294
+1893,housing,tenement,0,11969,0.0
+1893,inequality,destitute,0,11969,0.0
+1893,inequality,infirmary,0,11969,0.0
+1893,inequality,lodgers,9,11969,7.519425181719441
+1893,inequality,poor,1,11969,0.8354916868577158
+1893,inequality,poorer,0,11969,0.0
+1893,inequality,poorest,0,11969,0.0
+1893,inequality,poverty,0,11969,0.0
+1893,inequality,working class,0,11969,0.0
+1893,inequality,working classes,3,11969,2.506475060573147
+1893,sanitary,dirty,0,11969,0.0
+1893,sanitary,drain,13,11969,10.861391929150306
+1893,sanitary,drainage,7,11969,5.848441808004011
+1893,sanitary,drains,1,11969,0.8354916868577158
+1893,sanitary,filth,26,11969,21.722783858300613
+1893,sanitary,nuisance,6,11969,5.012950121146294
+1893,sanitary,nuisances,0,11969,0.0
+1893,sanitary,refuse,43,11969,35.92614253488178
+1893,sanitary,sanitary,11,11969,9.190408555434875
+1893,sanitary,sanitation,0,11969,0.0
+1893,sanitary,sewage,0,11969,0.0
+1893,sanitary,sewer,1,11969,0.8354916868577158
+1893,sanitary,sewers,0,11969,0.0
+1893,sanitary,water supply,4,11969,3.341966747430863
+1894,disease,cholera,1,4674,2.139495079161318
+1894,disease,consumption,0,4674,0.0
+1894,disease,diarrhoea,0,4674,0.0
+1894,disease,diphtheria,3,4674,6.418485237483953
+1894,disease,fever,0,4674,0.0
+1894,disease,influenza,0,4674,0.0
+1894,disease,isolation,1,4674,2.139495079161318
+1894,disease,measles,1,4674,2.139495079161318
+1894,disease,notification,0,4674,0.0
+1894,disease,scarlet fever,2,4674,4.278990158322636
+1894,disease,smallpox,2,4674,4.278990158322636
+1894,disease,typhoid,0,4674,0.0
+1894,disease,typhus,0,4674,0.0
+1894,governance,board,18,4674,38.510911424903725
+1894,governance,inspection,0,4674,0.0
+1894,governance,inspections,1,4674,2.139495079161318
+1894,governance,inspector,3,4674,6.418485237483953
+1894,governance,local government board,1,4674,2.139495079161318
+1894,governance,medical officer,9,4674,19.255455712451862
+1894,governance,notices,1,4674,2.139495079161318
+1894,governance,sanitary authority,1,4674,2.139495079161318
+1894,governance,summonses,4,4674,8.557980316645272
+1894,governance,vestry,0,4674,0.0
+1894,housing,common lodging house,1,4674,2.139495079161318
+1894,housing,dwellings,3,4674,6.418485237483953
+1894,housing,houses,12,4674,25.67394094993581
+1894,housing,lodging house,0,4674,0.0
+1894,housing,model dwellings,3,4674,6.418485237483953
+1894,housing,overcrowded,2,4674,4.278990158322636
+1894,housing,overcrowding,0,4674,0.0
+1894,housing,rooms,2,4674,4.278990158322636
+1894,housing,tenement,1,4674,2.139495079161318
+1894,inequality,destitute,0,4674,0.0
+1894,inequality,infirmary,1,4674,2.139495079161318
+1894,inequality,lodgers,0,4674,0.0
+1894,inequality,poor,0,4674,0.0
+1894,inequality,poorer,0,4674,0.0
+1894,inequality,poorest,0,4674,0.0
+1894,inequality,poverty,1,4674,2.139495079161318
+1894,inequality,working class,1,4674,2.139495079161318
+1894,inequality,working classes,5,4674,10.69747539580659
+1894,sanitary,dirty,12,4674,25.67394094993581
+1894,sanitary,drain,4,4674,8.557980316645272
+1894,sanitary,drainage,3,4674,6.418485237483953
+1894,sanitary,drains,1,4674,2.139495079161318
+1894,sanitary,filth,1,4674,2.139495079161318
+1894,sanitary,nuisance,5,4674,10.69747539580659
+1894,sanitary,nuisances,1,4674,2.139495079161318
+1894,sanitary,refuse,3,4674,6.418485237483953
+1894,sanitary,sanitary,20,4674,42.78990158322636
+1894,sanitary,sanitation,0,4674,0.0
+1894,sanitary,sewage,0,4674,0.0
+1894,sanitary,sewer,0,4674,0.0
+1894,sanitary,sewers,0,4674,0.0
+1894,sanitary,water supply,5,4674,10.69747539580659
+1895,disease,cholera,0,5269,0.0
+1895,disease,consumption,0,5269,0.0
+1895,disease,diarrhoea,0,5269,0.0
+1895,disease,diphtheria,1,5269,1.8978933383943821
+1895,disease,fever,0,5269,0.0
+1895,disease,influenza,0,5269,0.0
+1895,disease,isolation,3,5269,5.693680015183147
+1895,disease,measles,0,5269,0.0
+1895,disease,notification,0,5269,0.0
+1895,disease,scarlet fever,5,5269,9.489466691971911
+1895,disease,smallpox,21,5269,39.85576010628203
+1895,disease,typhoid,0,5269,0.0
+1895,disease,typhus,0,5269,0.0
+1895,governance,board,16,5269,30.366293414310114
+1895,governance,inspection,2,5269,3.7957866767887642
+1895,governance,inspections,0,5269,0.0
+1895,governance,inspector,9,5269,17.08104004554944
+1895,governance,local government board,7,5269,13.285253368760674
+1895,governance,medical officer,5,5269,9.489466691971911
+1895,governance,notices,0,5269,0.0
+1895,governance,sanitary authority,5,5269,9.489466691971911
+1895,governance,summonses,2,5269,3.7957866767887642
+1895,governance,vestry,2,5269,3.7957866767887642
+1895,housing,common lodging house,4,5269,7.5915733535775285
+1895,housing,dwellings,0,5269,0.0
+1895,housing,houses,5,5269,9.489466691971911
+1895,housing,lodging house,2,5269,3.7957866767887642
+1895,housing,model dwellings,0,5269,0.0
+1895,housing,overcrowded,4,5269,7.5915733535775285
+1895,housing,overcrowding,2,5269,3.7957866767887642
+1895,housing,rooms,0,5269,0.0
+1895,housing,tenement,0,5269,0.0
+1895,inequality,destitute,0,5269,0.0
+1895,inequality,infirmary,2,5269,3.7957866767887642
+1895,inequality,lodgers,1,5269,1.8978933383943821
+1895,inequality,poor,0,5269,0.0
+1895,inequality,poorer,0,5269,0.0
+1895,inequality,poorest,0,5269,0.0
+1895,inequality,poverty,0,5269,0.0
+1895,inequality,working class,0,5269,0.0
+1895,inequality,working classes,0,5269,0.0
+1895,sanitary,dirty,3,5269,5.693680015183147
+1895,sanitary,drain,2,5269,3.7957866767887642
+1895,sanitary,drainage,5,5269,9.489466691971911
+1895,sanitary,drains,1,5269,1.8978933383943821
+1895,sanitary,filth,0,5269,0.0
+1895,sanitary,nuisance,7,5269,13.285253368760674
+1895,sanitary,nuisances,0,5269,0.0
+1895,sanitary,refuse,2,5269,3.7957866767887642
+1895,sanitary,sanitary,12,5269,22.774720060732587
+1895,sanitary,sanitation,0,5269,0.0
+1895,sanitary,sewage,0,5269,0.0
+1895,sanitary,sewer,1,5269,1.8978933383943821
+1895,sanitary,sewers,1,5269,1.8978933383943821
+1895,sanitary,water supply,3,5269,5.693680015183147
+1896,disease,cholera,0,4213,0.0
+1896,disease,consumption,0,4213,0.0
+1896,disease,diarrhoea,1,4213,2.373605506764776
+1896,disease,diphtheria,1,4213,2.373605506764776
+1896,disease,fever,2,4213,4.747211013529552
+1896,disease,influenza,1,4213,2.373605506764776
+1896,disease,isolation,0,4213,0.0
+1896,disease,measles,2,4213,4.747211013529552
+1896,disease,notification,2,4213,4.747211013529552
+1896,disease,scarlet fever,2,4213,4.747211013529552
+1896,disease,smallpox,13,4213,30.856871587942084
+1896,disease,typhoid,1,4213,2.373605506764776
+1896,disease,typhus,0,4213,0.0
+1896,governance,board,6,4213,14.241633040588653
+1896,governance,inspection,1,4213,2.373605506764776
+1896,governance,inspections,0,4213,0.0
+1896,governance,inspector,2,4213,4.747211013529552
+1896,governance,local government board,0,4213,0.0
+1896,governance,medical officer,0,4213,0.0
+1896,governance,notices,0,4213,0.0
+1896,governance,sanitary authority,0,4213,0.0
+1896,governance,summonses,2,4213,4.747211013529552
+1896,governance,vestry,1,4213,2.373605506764776
+1896,housing,common lodging house,2,4213,4.747211013529552
+1896,housing,dwellings,2,4213,4.747211013529552
+1896,housing,houses,5,4213,11.868027533823877
+1896,housing,lodging house,0,4213,0.0
+1896,housing,model dwellings,4,4213,9.494422027059104
+1896,housing,overcrowded,0,4213,0.0
+1896,housing,overcrowding,0,4213,0.0
+1896,housing,rooms,3,4213,7.120816520294326
+1896,housing,tenement,0,4213,0.0
+1896,inequality,destitute,0,4213,0.0
+1896,inequality,infirmary,2,4213,4.747211013529552
+1896,inequality,lodgers,0,4213,0.0
+1896,inequality,poor,1,4213,2.373605506764776
+1896,inequality,poorer,0,4213,0.0
+1896,inequality,poorest,0,4213,0.0
+1896,inequality,poverty,0,4213,0.0
+1896,inequality,working class,0,4213,0.0
+1896,inequality,working classes,0,4213,0.0
+1896,sanitary,dirty,5,4213,11.868027533823877
+1896,sanitary,drain,0,4213,0.0
+1896,sanitary,drainage,3,4213,7.120816520294326
+1896,sanitary,drains,0,4213,0.0
+1896,sanitary,filth,0,4213,0.0
+1896,sanitary,nuisance,2,4213,4.747211013529552
+1896,sanitary,nuisances,3,4213,7.120816520294326
+1896,sanitary,refuse,1,4213,2.373605506764776
+1896,sanitary,sanitary,9,4213,21.362449560882983
+1896,sanitary,sanitation,0,4213,0.0
+1896,sanitary,sewage,0,4213,0.0
+1896,sanitary,sewer,0,4213,0.0
+1896,sanitary,sewers,0,4213,0.0
+1896,sanitary,water supply,3,4213,7.120816520294326
+1897,disease,cholera,0,4247,0.0
+1897,disease,consumption,2,4247,4.709206498704968
+1897,disease,diarrhoea,0,4247,0.0
+1897,disease,diphtheria,3,4247,7.0638097480574515
+1897,disease,fever,1,4247,2.354603249352484
+1897,disease,influenza,0,4247,0.0
+1897,disease,isolation,0,4247,0.0
+1897,disease,measles,0,4247,0.0
+1897,disease,notification,4,4247,9.418412997409936
+1897,disease,scarlet fever,2,4247,4.709206498704968
+1897,disease,smallpox,2,4247,4.709206498704968
+1897,disease,typhoid,0,4247,0.0
+1897,disease,typhus,0,4247,0.0
+1897,governance,board,15,4247,35.319048740287265
+1897,governance,inspection,1,4247,2.354603249352484
+1897,governance,inspections,0,4247,0.0
+1897,governance,inspector,2,4247,4.709206498704968
+1897,governance,local government board,2,4247,4.709206498704968
+1897,governance,medical officer,6,4247,14.127619496114903
+1897,governance,notices,1,4247,2.354603249352484
+1897,governance,sanitary authority,0,4247,0.0
+1897,governance,summonses,0,4247,0.0
+1897,governance,vestry,0,4247,0.0
+1897,housing,common lodging house,0,4247,0.0
+1897,housing,dwellings,5,4247,11.77301624676242
+1897,housing,houses,7,4247,16.48222274546739
+1897,housing,lodging house,0,4247,0.0
+1897,housing,model dwellings,2,4247,4.709206498704968
+1897,housing,overcrowded,0,4247,0.0
+1897,housing,overcrowding,3,4247,7.0638097480574515
+1897,housing,rooms,9,4247,21.191429244172355
+1897,housing,tenement,0,4247,0.0
+1897,inequality,destitute,0,4247,0.0
+1897,inequality,infirmary,0,4247,0.0
+1897,inequality,lodgers,0,4247,0.0
+1897,inequality,poor,0,4247,0.0
+1897,inequality,poorer,0,4247,0.0
+1897,inequality,poorest,0,4247,0.0
+1897,inequality,poverty,0,4247,0.0
+1897,inequality,working class,1,4247,2.354603249352484
+1897,inequality,working classes,3,4247,7.0638097480574515
+1897,sanitary,dirty,5,4247,11.77301624676242
+1897,sanitary,drain,3,4247,7.0638097480574515
+1897,sanitary,drainage,3,4247,7.0638097480574515
+1897,sanitary,drains,2,4247,4.709206498704968
+1897,sanitary,filth,0,4247,0.0
+1897,sanitary,nuisance,2,4247,4.709206498704968
+1897,sanitary,nuisances,0,4247,0.0
+1897,sanitary,refuse,2,4247,4.709206498704968
+1897,sanitary,sanitary,9,4247,21.191429244172355
+1897,sanitary,sanitation,2,4247,4.709206498704968
+1897,sanitary,sewage,0,4247,0.0
+1897,sanitary,sewer,0,4247,0.0
+1897,sanitary,sewers,0,4247,0.0
+1897,sanitary,water supply,6,4247,14.127619496114903
+1898,disease,cholera,0,2578,0.0
+1898,disease,consumption,0,2578,0.0
+1898,disease,diarrhoea,0,2578,0.0
+1898,disease,diphtheria,0,2578,0.0
+1898,disease,fever,0,2578,0.0
+1898,disease,influenza,0,2578,0.0
+1898,disease,isolation,1,2578,3.878975950349108
+1898,disease,measles,0,2578,0.0
+1898,disease,notification,2,2578,7.757951900698216
+1898,disease,scarlet fever,0,2578,0.0
+1898,disease,smallpox,2,2578,7.757951900698216
+1898,disease,typhoid,0,2578,0.0
+1898,disease,typhus,0,2578,0.0
+1898,governance,board,10,2578,38.78975950349108
+1898,governance,inspection,1,2578,3.878975950349108
+1898,governance,inspections,1,2578,3.878975950349108
+1898,governance,inspector,1,2578,3.878975950349108
+1898,governance,local government board,1,2578,3.878975950349108
+1898,governance,medical officer,6,2578,23.273855702094647
+1898,governance,notices,1,2578,3.878975950349108
+1898,governance,sanitary authority,0,2578,0.0
+1898,governance,summonses,0,2578,0.0
+1898,governance,vestry,0,2578,0.0
+1898,housing,common lodging house,0,2578,0.0
+1898,housing,dwellings,0,2578,0.0
+1898,housing,houses,4,2578,15.515903801396432
+1898,housing,lodging house,0,2578,0.0
+1898,housing,model dwellings,2,2578,7.757951900698216
+1898,housing,overcrowded,2,2578,7.757951900698216
+1898,housing,overcrowding,2,2578,7.757951900698216
+1898,housing,rooms,0,2578,0.0
+1898,housing,tenement,0,2578,0.0
+1898,inequality,destitute,0,2578,0.0
+1898,inequality,infirmary,0,2578,0.0
+1898,inequality,lodgers,0,2578,0.0
+1898,inequality,poor,1,2578,3.878975950349108
+1898,inequality,poorer,1,2578,3.878975950349108
+1898,inequality,poorest,1,2578,3.878975950349108
+1898,inequality,poverty,0,2578,0.0
+1898,inequality,working class,0,2578,0.0
+1898,inequality,working classes,0,2578,0.0
+1898,sanitary,dirty,1,2578,3.878975950349108
+1898,sanitary,drain,2,2578,7.757951900698216
+1898,sanitary,drainage,0,2578,0.0
+1898,sanitary,drains,1,2578,3.878975950349108
+1898,sanitary,filth,0,2578,0.0
+1898,sanitary,nuisance,2,2578,7.757951900698216
+1898,sanitary,nuisances,3,2578,11.636927851047323
+1898,sanitary,refuse,1,2578,3.878975950349108
+1898,sanitary,sanitary,2,2578,7.757951900698216
+1898,sanitary,sanitation,0,2578,0.0
+1898,sanitary,sewage,0,2578,0.0
+1898,sanitary,sewer,0,2578,0.0
+1898,sanitary,sewers,0,2578,0.0
+1898,sanitary,water supply,3,2578,11.636927851047323
+1899,disease,cholera,0,5343,0.0
+1899,disease,consumption,0,5343,0.0
+1899,disease,diarrhoea,0,5343,0.0
+1899,disease,diphtheria,0,5343,0.0
+1899,disease,fever,3,5343,5.614823133071309
+1899,disease,influenza,1,5343,1.8716077110237697
+1899,disease,isolation,0,5343,0.0
+1899,disease,measles,0,5343,0.0
+1899,disease,notification,0,5343,0.0
+1899,disease,scarlet fever,0,5343,0.0
+1899,disease,smallpox,2,5343,3.7432154220475393
+1899,disease,typhoid,0,5343,0.0
+1899,disease,typhus,0,5343,0.0
+1899,governance,board,35,5343,65.50626988583193
+1899,governance,inspection,2,5343,3.7432154220475393
+1899,governance,inspections,0,5343,0.0
+1899,governance,inspector,4,5343,7.486430844095079
+1899,governance,local government board,6,5343,11.229646266142618
+1899,governance,medical officer,6,5343,11.229646266142618
+1899,governance,notices,1,5343,1.8716077110237697
+1899,governance,sanitary authority,0,5343,0.0
+1899,governance,summonses,2,5343,3.7432154220475393
+1899,governance,vestry,0,5343,0.0
+1899,housing,common lodging house,5,5343,9.358038555118847
+1899,housing,dwellings,9,5343,16.844469399213924
+1899,housing,houses,13,5343,24.330900243309003
+1899,housing,lodging house,1,5343,1.8716077110237697
+1899,housing,model dwellings,1,5343,1.8716077110237697
+1899,housing,overcrowded,1,5343,1.8716077110237697
+1899,housing,overcrowding,1,5343,1.8716077110237697
+1899,housing,rooms,2,5343,3.7432154220475393
+1899,housing,tenement,1,5343,1.8716077110237697
+1899,inequality,destitute,0,5343,0.0
+1899,inequality,infirmary,1,5343,1.8716077110237697
+1899,inequality,lodgers,0,5343,0.0
+1899,inequality,poor,0,5343,0.0
+1899,inequality,poorer,1,5343,1.8716077110237697
+1899,inequality,poorest,0,5343,0.0
+1899,inequality,poverty,0,5343,0.0
+1899,inequality,working class,0,5343,0.0
+1899,inequality,working classes,3,5343,5.614823133071309
+1899,sanitary,dirty,4,5343,7.486430844095079
+1899,sanitary,drain,2,5343,3.7432154220475393
+1899,sanitary,drainage,1,5343,1.8716077110237697
+1899,sanitary,drains,0,5343,0.0
+1899,sanitary,filth,0,5343,0.0
+1899,sanitary,nuisance,0,5343,0.0
+1899,sanitary,nuisances,0,5343,0.0
+1899,sanitary,refuse,1,5343,1.8716077110237697
+1899,sanitary,sanitary,4,5343,7.486430844095079
+1899,sanitary,sanitation,0,5343,0.0
+1899,sanitary,sewage,0,5343,0.0
+1899,sanitary,sewer,0,5343,0.0
+1899,sanitary,sewers,0,5343,0.0
+1899,sanitary,water supply,3,5343,5.614823133071309

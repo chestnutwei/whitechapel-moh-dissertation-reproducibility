@@ -1,0 +1,46 @@
+{
+  "narrative_passages_total": 275,
+  "excluded_front_matter_passages": 6,
+  "topic_model_passages": 269,
+  "topic_model_original_word_count": 50303,
+  "vectorizer": {
+    "weighting": "TF-IDF",
+    "stop_words": "scikit-learn English stop-word list",
+    "min_df": 2,
+    "max_df": 0.9,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 4000,
+    "sublinear_tf": true
+  },
+  "model": "NMF",
+  "primary_solution": {
+    "k": 7,
+    "initialisation": "nndsvda",
+    "random_state": 0,
+    "solver": "cd",
+    "beta_loss": "frobenius",
+    "max_iter": 1500,
+    "tol": 1e-05,
+    "reconstruction_error": 15.292839652141847,
+    "iterations": 63
+  },
+  "initialisation_for_sensitivity_test": "random",
+  "k_values": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "seeds": [
+    1,
+    21,
+    42,
+    84,
+    100
+  ],
+  "feature_count": 4000
+}

@@ -1,0 +1,4 @@
+passage_id,likely_narrative,likely_table_context,review_status,reason,review_date
+1891_0058,True,False,retain_boundary_case,"Short concluding prose passage on infectious-disease decline and disinfection; retained after manual review despite falling below the automatic narrative threshold.",2026-08-06
+1893_0086,True,False,retain_boundary_case,"Administrative prose introducing lodging-house bye-laws; retained as substantive governance material despite header-like formatting.",2026-08-06
+1897_0060,True,False,retain_boundary_case,"List-form enforcement record containing actionable cases and outcomes; retained as a documented corpus boundary case and not treated as independent evidence of spatial concentration.",2026-08-06

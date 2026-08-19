@@ -1,0 +1,14 @@
+﻿output,current_value_or_hash,v5_baseline_value_or_hash,changed,audit_class,status,reason
+corpus,aeb34d5c6ed6cee5b90e66c682b4dd4bf4b0597d7e2cf39d0bdf5faf8ac5915c,aeb34d5c6ed6cee5b90e66c682b4dd4bf4b0597d7e2cf39d0bdf5faf8ac5915c,false,DIAGNOSTIC,BYTE_MATCH,Byte identity is recorded but is not a cross-platform substantive invariant.
+keyword_summary,d5511fcc24558238c31cd6d270906b66bea6025954d5ea40901851c3f08a0a14,d5511fcc24558238c31cd6d270906b66bea6025954d5ea40901851c3f08a0a14,false,DIAGNOSTIC,BYTE_MATCH,Byte identity is recorded but is not a cross-platform substantive invariant.
+primary_nmf_topics,1ec4da1a5ee3feaf2084f6c45233eef704f9b2468e8d5c4f31ee51b522b53d75,1ec4da1a5ee3feaf2084f6c45233eef704f9b2468e8d5c4f31ee51b522b53d75,false,DIAGNOSTIC,BYTE_MATCH,Byte identity is recorded but is not a cross-platform substantive invariant.
+Mile End,11,11,false,HARD,PASS,Standalone count after longest-first matching.
+Mile End New Town,138,138,false,HARD,PASS,Verified long-form count.
+Mile End Old Town,15,15,false,HARD,PASS,Verified long-form count.
+Whitechapel Road,60,59,true,HARD,PASS,P2 removes the reversed legacy form that suppressed a cross-index Whitechapel Road match.
+Whitechapel High Street,9,0,true,HARD,PASS,Correct source-attested P002 standard form.
+High Street Whitechapel legacy form,0,1,true,HARD,PASS,The erroneous reversed form is not retained as a variant.
+excluded nested spans,153,154,true,HARD,PASS,Expected one-row P2 reduction in cross-index exclusion.
+raw spatial candidates,38,37,true,HARD,PASS,P2 adds only source candidate 1891_0023.
+Figure 6 validation,12=9+2+1,12=9+2+1,false,HARD,PASS,Pair-level manual classifications are frozen.
+Figure 7 retained review,32 records / 16 places / 15 points + 1 out-of-sheet,31 records / 15 places / 14 points + 1 out-of-sheet,true,HARD,PASS,P2 added one source-verified Whitechapel High Street record and one representative in-sheet street point.

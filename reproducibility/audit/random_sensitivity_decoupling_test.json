@@ -1,0 +1,9 @@
+{
+  "test": "missing random seed-42 component matrix",
+  "return_code": 0,
+  "figure_4_sha256_before": "268a0cc11c21300c592361aee504502e5184641d15fe015faf64d47a87f5660b",
+  "figure_4_sha256_after": "268a0cc11c21300c592361aee504502e5184641d15fe015faf64d47a87f5660b",
+  "figure_4_unchanged": true,
+  "stdout": "Wrote deterministic-primary Figure 4, independent Figure 6, and non-blocking random-start diagnostics.\n",
+  "result": "PASS"
+}

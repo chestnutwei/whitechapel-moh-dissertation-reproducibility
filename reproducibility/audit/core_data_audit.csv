@@ -1,0 +1,25 @@
+﻿metric,rerun_value,paper_or_expected_value,match,audit_class,source,notes
+reports,10,10,true,HARD,outputs/tables/moh_quality_check.csv,Recomputed after the clean analytical run.
+cleaned_words,121057,121057,true,HARD,outputs/tables/moh_quality_check.csv,Recomputed after the clean analytical run.
+passages,657,657,true,HARD,outputs/tables/moh_narrative_passages.csv,Recomputed after the clean analytical run.
+narrative_passages,275,275,true,HARD,outputs/tables/moh_narrative_passages.csv,Recomputed after the clean analytical run.
+table_context_passages,382,382,true,HARD,outputs/tables/moh_narrative_passages.csv,Recomputed after the clean analytical run.
+narrative_words,51428,51428,true,HARD,outputs/tables/moh_narrative_passages.csv,Recomputed after the clean analytical run.
+dictionary_entries,55,55,true,HARD,outputs/tables/moh_narrative_keyword_summary.csv,Recomputed after the clean analytical run.
+candidate_records,804,804,true,HARD,outputs/tables/moh_close_reading_candidates.csv,Recomputed after the clean analytical run.
+distinct_candidate_passages,250,250,true,HARD,outputs/tables/moh_close_reading_candidates.csv,Recomputed after the clean analytical run.
+topic_model_passages,269,269,true,HARD,outputs/tables/technical/topic_model_input.csv,Recomputed after the clean analytical run.
+topic_model_words,50303,50303,true,HARD,outputs/tables/technical/topic_model_input.csv,Recomputed after the clean analytical run.
+workplace_proceedings,24,24,true,HARD,outputs/tables/technical/workplace_address_extraction.csv,Recomputed after the clean analytical run.
+unique_workplace_addresses,23,23,true,HARD,outputs/tables/technical/workplace_address_extraction.csv,Recomputed after the clean analytical run.
+workshop_records,20,20,true,HARD,outputs/tables/technical/workplace_address_extraction.csv,Recomputed after the clean analytical run.
+bakehouse_records,4,4,true,HARD,outputs/tables/technical/workplace_address_extraction.csv,Recomputed after the clean analytical run.
+raw_spatial_records,38,38,true,HARD,analysis/chapter3/spatial_review_log.csv,Recomputed after the clean analytical run.
+source_valid_spatial_records,32,32,true,HARD,analysis/chapter3/spatial_review_log.csv,Recomputed after the clean analytical run.
+retained_named_places,16,16,true,HARD,analysis/chapter3/spatial_review_log.csv,Recomputed after the clean analytical run.
+in_sheet_mapped_places,15,15,true,HARD,maps/coordinates/place_map_points_verified.csv,Recomputed after the clean analytical run.
+out_of_sheet_references,1,1,true,HARD,maps/coordinates/out_of_sheet_place_references.csv,Recomputed after the clean analytical run.
+place_disease_pairs,12,12,true,HARD,outputs/tables/technical/spatial_disease_validation.csv,Recomputed after the clean analytical run.
+false_structural_adjacency,9,9,true,HARD,outputs/tables/technical/spatial_disease_validation.csv,Recomputed after the clean analytical run.
+direct_place_institution_disease,2,2,true,HARD,outputs/tables/technical/spatial_disease_validation.csv,Recomputed after the clean analytical run.
+management_context_only,1,1,true,HARD,outputs/tables/technical/spatial_disease_validation.csv,Recomputed after the clean analytical run.

@@ -1,0 +1,11 @@
+metric,macos_arm64,linux_x86_64,comparison,status,notes
+primary_initialisation,nndsvda,nndsvda,exact,PASS,
+primary_component_ids,"[3, 4, 1, 2, 6]","[3, 4, 1, 2, 6]",True,PASS,
+interpretive_labels,"Address-specific enforcement proceedings | Sanitary authority, statutory penalties and legal powers | Housing reform and metropolitan governance | Sanitary construction regulations | Penalty and by-law clauses","Address-specific enforcement proceedings | Sanitary authority, statutory penalties and legal powers | Housing reform and metropolitan governance | Sanitary construction regulations | Penalty and by-law clauses",True,PASS,
+primary_top12_term_overlap_by_component,12;12;12;11;11;12;11,12;12;12;11;11;12;11,min=11/12,PASS_WITH_TOLERANCE,All seven primary components retain 11–12 of 12 top terms; the same five semantic assignments pass exactly.
+primary_H_max_abs_difference,,,0.38898372893258304,INFO,Floating-point weights are not claimed byte-identical across architectures/backends.
+primary_W_max_abs_difference,,,0.012849866322664077,INFO,
+figure_4_source_max_abs_difference,,,0.0032950205449217007,INFO,
+random_k7_pairwise_mean_cosine,0.9428638166679684,0.8242092162948008,0.11865460037316755,INFO,Random-start diagnostic differs by numerical environment.
+random_k7_worst_pair_min_cosine,0.1159460958802282,0.0475860906753361,0.0683600052048921,INFO,
+random_primary_recovery_status_counts,"{'recovered': 24, 'weakly_recovered': 1}","{'recovered': 21, 'weakly_recovered': 3, 'unstable': 1}",different,INFO,"Random-start local optima differ, but are non-blocking diagnostics."

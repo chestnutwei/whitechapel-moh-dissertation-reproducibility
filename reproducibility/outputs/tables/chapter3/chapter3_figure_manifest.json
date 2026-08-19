@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    "outputs/tables/moh_close_reading_candidates.csv",
+    "outputs/tables/moh_narrative_keyword_counts.csv"
+  ],
+  "outputs": [
+    "outputs/figures/figure_02_theme_distribution.png",
+    "outputs/figures/figure_03_by_year_heatmap.png",
+    "outputs/tables/chapter3/fig2_theme_distribution_data.csv",
+    "outputs/tables/chapter3/fig3_by_year_heatmap_data.csv"
+  ],
+  "candidate_records": 804,
+  "unique_candidate_passages": 250,
+  "category_counts": {
+    "governance": 264,
+    "sanitary": 249,
+    "housing": 158,
+    "disease": 86,
+    "inequality": 47
+  },
+  "figure3_unit": "non-overlapping canonical keyword hits per 10,000 narrative words; inequality uses direct socioeconomic entries only",
+  "figure3_inequality_scope": "direct_only; lodgers and infirmary excluded after sensitivity check"
+}

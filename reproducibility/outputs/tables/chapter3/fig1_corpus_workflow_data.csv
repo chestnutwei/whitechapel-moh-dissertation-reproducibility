@@ -1,0 +1,6 @@
+metric,value,figure_use
+Reports,10,bar
+Total passages,657,bar
+Narrative passages,275,bar
+Table-context passages,382,bar
+Narrative subset words,51428,subtitle

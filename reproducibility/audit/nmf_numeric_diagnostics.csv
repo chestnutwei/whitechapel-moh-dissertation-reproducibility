@@ -1,0 +1,4 @@
+﻿check,value,audit_class,status,notes
+primary_topics_csv_sha256,1ec4da1a5ee3feaf2084f6c45233eef704f9b2468e8d5c4f31ee51b522b53d75,DIAGNOSTIC,RECORDED,Raw CSV SHA is provenance only.
+primary_components_npy_sha256,202ad63b9806e4eac5db43c4862775528d7db8ff3a095805d8da21397ce485e5,DIAGNOSTIC,RECORDED,BLAS/architecture float bytes are not a substantive gate.
+random_start_sensitivity,"{""recovered"": 24, ""weakly_recovered"": 1}",DIAGNOSTIC,RECORDED,Random-start recovery is always diagnostic only.

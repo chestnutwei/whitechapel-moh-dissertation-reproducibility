@@ -1,0 +1,118 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://iiif.quartexcollections.com/lse/iiif/f0cc6f49-385d-4969-bea8-2fb47a814a3d/manifest",
+  "label": "UKLSE_DL1_CB01_004_001_0031",
+  "metadata": [
+    {
+      "label": "Type",
+      "value": [
+        "Map"
+      ]
+    },
+    {
+      "label": "Resource type general",
+      "value": [
+        "Other"
+      ]
+    },
+    {
+      "label": "Collecting area",
+      "value": [
+        "Politics, economics and social science collections"
+      ]
+    },
+    {
+      "label": "Rights",
+      "value": [
+        "Out of Copyright"
+      ]
+    },
+    {
+      "label": "Series title",
+      "value": [
+        "BOOTH/E/2 - Maps Descriptive of London Poverty: hand coloured"
+      ]
+    },
+    {
+      "label": "Title",
+      "value": "Hand Coloured Map Descriptive of London Poverty 1898-1899 Sheet 63 - Spitalfields, Whitechapel, Mile End New Town, St George's in the East"
+    },
+    {
+      "label": "Date",
+      "value": "1894-1898"
+    },
+    {
+      "label": "Date range",
+      "value": "D:00 M:00 Y:1894 - D:00 M:00 Y:1898"
+    },
+    {
+      "label": "Source",
+      "value": "<a href=\"https://archives.lse.ac.uk/records/BOOTH/E/2/31\">BOOTH/E/2/31</a>"
+    },
+    {
+      "label": "Collection",
+      "value": [
+        "Charles Booth Archive"
+      ]
+    },
+    {
+      "label": "Copyright and reuse",
+      "value": "<a href=\"https://digital.library.lse.ac.uk/about#terms\">Out of Copyright</a>"
+    }
+  ],
+  "description": "Hand Coloured Map Descriptive of London Poverty 1898-1899 Sheet 63 - Spitalfields, Whitechapel, Mile End New Town, St George's in the East",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.quartexcollections.com/lse/iiif/f0cc6f49-385d-4969-bea8-2fb47a814a3d/canvas/_1",
+          "@type": "sc:Canvas",
+          "label": "UKLSE_DL1_CB01_004_001_0031_0001",
+          "height": 6746,
+          "width": 10059,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.quartexcollections.com/lse/iiif/44eddd7b-6300-42ad-8dda-4ca2dd07782b/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.quartexcollections.com/lse/iiif/44eddd7b-6300-42ad-8dda-4ca2dd07782b",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "tiles": [
+                    {
+                      "width": 2048,
+                      "scaleFactors": [
+                        1,
+                        2,
+                        4,
+                        8
+                      ]
+                    }
+                  ]
+                },
+                "height": 6746,
+                "width": 10059
+              },
+              "on": "https://iiif.quartexcollections.com/lse/iiif/f0cc6f49-385d-4969-bea8-2fb47a814a3d/canvas/_1",
+              "metadata": []
+            }
+          ],
+          "thumbnail": {
+            "@id": "https://iiif.quartexcollections.com/lse/iiif/44eddd7b-6300-42ad-8dda-4ca2dd07782b/full/500,500/0/default.jpg",
+            "@type": "dctypes:Image",
+            "height": 500,
+            "width": 500
+          }
+        }
+      ]
+    }
+  ],
+  "thumbnail": "https://iiif.quartexcollections.com/lse/iiif/44eddd7b-6300-42ad-8dda-4ca2dd07782b/full/300,300/0/default.jpg",
+  "logo": "https://iiif.quartexcollections.com/lse/iiif/logo"
+}

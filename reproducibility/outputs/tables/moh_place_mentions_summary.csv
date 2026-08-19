@@ -1,0 +1,23 @@
+place_id,standard_name,type,total_mentions,years_mentioned
+P014,Mile End New Town,district/place,138,10
+P012,Spitalfields,district/place,127,10
+P016,London Hospital,institution,107,10
+P009,Hanbury Street,street,68,10
+P011,Aldgate,district/place,62,8
+P006,Wentworth Street,street,60,10
+P001,Whitechapel Road,street,60,10
+P018,Commercial Street,street,47,10
+P010,Leman Street,street,42,10
+P008,Dorset Street,street,39,10
+P003,Brick Lane,street,34,10
+P020,Thrawl Street,street,32,10
+P007,Flower and Dean Street,street,27,10
+P019,George Yard,street/place,23,10
+P021,Fashion Street,street,22,10
+P022,Mile End Old Town,district/place,15,8
+P004,Commercial Road,street,13,9
+P013,Mile End,district/place,11,7
+P002,Whitechapel High Street,street,9,7
+P017,Whitechapel Workhouse,institution,2,2
+P005,Osborne Street,street,0,0
+P015,St George's in the East,district/place,0,0

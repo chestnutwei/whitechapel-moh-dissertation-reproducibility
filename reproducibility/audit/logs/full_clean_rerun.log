@@ -1,0 +1,215 @@
+Whitechapel full rerun
+started_utc=2026-08-19T00:30:48.501533+00:00
+python=3.12.13 (main, Aug  7 2026, 02:15:23) [Clang 22.1.3 ]
+
+[SUCCESS] 01_corpus_preparation (scripts/01_moh_quality_check.py)
+Wrote 10 quality rows.
+Wrote 10 corpus rows.
+
+[SUCCESS] 02_dictionary_keyword_retrieval (scripts/02_moh_keyword_counts.py)
+Wrote 420 by-year keyword rows.
+Wrote 42 summary keyword rows.
+
+[SUCCESS] 03_place_retrieval (scripts/03_moh_place_matching.py)
+Wrote 220 place-by-year rows.
+Wrote 22 place summary rows.
+Accepted spans: 938; excluded overlapping spans: 153.
+Matcher unit tests: 4 PASS; gazetteer nested pairs: 2 PASS.
+
+[SUCCESS] 04_place_term_cooccurrence (scripts/04_moh_place_term_cooccurrence.py)
+Wrote 557 co-occurrence rows.
+Wrote 219 top pair rows.
+
+[SUCCESS] 05_basic_diagnostic_figures (scripts/05_moh_basic_figures.py)
+Matplotlib is building the font cache; this may take a moment.
+Wrote basic MOH pilot figures.
+
+[SUCCESS] 06_cooccurrence_contexts (scripts/06_moh_cooccurrence_contexts.py)
+Wrote 150 context snippets for 30 top pairs.
+
+[SUCCESS] 07_narrative_filtering (scripts/07_moh_narrative_extraction.py)
+Manual classification overrides applied: 3
+Wrote 657 passages.
+Likely narrative passages: 275
+Likely table-context passages: 382
+
+[SUCCESS] 08_narrative_keyword_retrieval (scripts/08_moh_narrative_keyword_analysis.py)
+Wrote 550 narrative keyword rows.
+Wrote 55 canonical dictionary summary rows.
+Narrative passages counted: 275
+Narrative words counted: 51428
+
+[SUCCESS] 09_close_reading_candidates (scripts/09_moh_close_reading_candidates.py)
+Wrote 804 close-reading candidate records to <REPRODUCIBILITY_ROOT>/outputs/tables/moh_close_reading_candidates.csv.
+Distinct candidate passages: 250
+category
+governance    264
+sanitary      249
+housing       158
+disease        86
+inequality     47
+
+[SUCCESS] 10_spatial_reference_candidates (scripts/10_moh_spatial_reference_candidates.py)
+Wrote 38 spatial candidate rows.
+
+[SUCCESS] 11_figure_1 (scripts/00_corpus_workflow_figure.py)
+Wrote Figure 1 from 10 reports and 657 passages.
+
+[SUCCESS] 12_figures_2_and_3 (scripts/11_moh_chapter3_figures.py)
+{
+  "inputs": [
+    "outputs/tables/moh_close_reading_candidates.csv",
+    "outputs/tables/moh_narrative_keyword_counts.csv"
+  ],
+  "outputs": [
+    "outputs/figures/figure_02_theme_distribution.png",
+    "outputs/figures/figure_03_by_year_heatmap.png",
+    "outputs/tables/chapter3/fig2_theme_distribution_data.csv",
+    "outputs/tables/chapter3/fig3_by_year_heatmap_data.csv"
+  ],
+  "candidate_records": 804,
+  "unique_candidate_passages": 250,
+  "category_counts": {
+    "governance": 264,
+    "sanitary": 249,
+    "housing": 158,
+    "disease": 86,
+    "inequality": 47
+  },
+  "figure3_unit": "non-overlapping canonical keyword hits per 10,000 narrative words; inequality uses direct socioeconomic entries only",
+  "figure3_inequality_scope": "direct_only; lodgers and infirmary excluded after sensitivity check"
+}
+
+[SUCCESS] 13_dictionary_appendix (scripts/12_moh_keyword_dictionary_appendix.py)
+Wrote <REPRODUCIBILITY_ROOT>/outputs/appendices/Appendix_A_Controlled_Keyword_Dictionary.docx
+Canonical dictionary entries: 55
+
+[SUCCESS] 14_nmf_primary_and_seed_sensitivity (scripts/13_moh_topic_model_sensitivity.py)
+{
+  "narrative_passages_total": 275,
+  "excluded_front_matter_passages": 6,
+  "topic_model_passages": 269,
+  "topic_model_original_word_count": 50303,
+  "vectorizer": {
+    "weighting": "TF-IDF",
+    "stop_words": "scikit-learn English stop-word list",
+    "min_df": 2,
+    "max_df": 0.9,
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 4000,
+    "sublinear_tf": true
+  },
+  "model": "NMF",
+  "primary_solution": {
+    "k": 7,
+    "initialisation": "nndsvda",
+    "random_state": 0,
+    "solver": "cd",
+    "beta_loss": "frobenius",
+    "max_iter": 1500,
+    "tol": 1e-05,
+    "reconstruction_error": 15.292839652141847,
+    "iterations": 63
+  },
+  "initialisation_for_sensitivity_test": "random",
+  "k_values": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "seeds": [
+    1,
+    21,
+    42,
+    84,
+    100
+  ],
+  "feature_count": 4000
+}
+
+Stability summary:
+  k  pairwise_mean_cosine  pairwise_median_cosine  worst_pair_min_cosine  pairwise_mean_top12_jaccard  worst_pair_min_top12_jaccard
+ 4              0.828879                0.774118               0.311257                     0.625995                      0.043478
+ 5              0.782036                0.975891               0.048819                     0.615070                      0.000000
+ 6              0.921615                1.000000               0.051644                     0.846938                      0.000000
+ 7              0.942864                1.000000               0.115946                     0.874079                      0.000000
+ 8              0.910747                0.995234               0.104395                     0.785367                      0.000000
+
+[SUCCESS] 15_lda_sensitivity (scripts/14_moh_lda_sensitivity.py)
+ k  pairwise_mean_cosine  pairwise_median_cosine  worst_pair_min_cosine  pairwise_mean_top12_jaccard  worst_pair_min_top12_jaccard
+ 4              0.800302                0.794298               0.486438                     0.452813                      0.090909
+ 5              0.738630                0.794306               0.119567                     0.442095                      0.043478
+ 6              0.712390                0.760111               0.057274                     0.391070                      0.000000
+ 7              0.680980                0.756119               0.042437                     0.379037                      0.000000
+ 8              0.634626                0.746946               0.055770                     0.340040                      0.000000
+
+[SUCCESS] 16_lexical_normalisation_audit (scripts/15_moh_lexical_normalisation_audit.py)
+     canonical_entry   category          surface_form            surface_type  raw_occurrences  distinct_passages  included_in_alias_layer                                                                                                                           note
+            smallpox    disease              smallpox               canonical                0                  0                     True                                                                                                                            NaN
+            smallpox    disease             small-pox source_verified_variant               45                 21                     True                                                                                                                            NaN
+       lodging house    housing         lodging house               canonical                2                  1                     True                                                                                                                            NaN
+       lodging house    housing         lodging-house source_verified_variant               27                 13                     True                                                                                                                            NaN
+       lodging house    housing          lodginghouse source_verified_variant                1                  1                     True                                                                                                                            NaN
+       lodging house    housing        lodging houses source_verified_variant                5                  4                     True                                                                                                                            NaN
+       lodging house    housing        lodging-houses source_verified_variant               11                  8                     True                                                                                                                            NaN
+       lodging house    housing         lodginghouses source_verified_variant                2                  2                     True                                                                                                                            NaN
+common lodging house    housing  common lodging house               canonical                2                  1                     True                                                                                                                            NaN
+common lodging house    housing  common lodging-house source_verified_variant                1                  1                     True                                                                                                                            NaN
+common lodging house    housing   common lodginghouse source_verified_variant                1                  1                     True                                                                                                                            NaN
+common lodging house    housing common lodging houses source_verified_variant                1                  1                     True                                                                                                                            NaN
+common lodging house    housing common lodging-houses source_verified_variant                9                  8                     True                                                                                                                            NaN
+common lodging house    housing  common lodginghouses source_verified_variant                1                  1                     True                                                                                                                            NaN
+        water supply   sanitary          water supply               canonical               32                 25                     True                                                                                                                            NaN
+        water supply   sanitary          water-supply source_verified_variant                2                  1                     True                                                                                                                            NaN
+       working class inequality         working class               canonical                1                  1                     True                                                                                                                            NaN
+       working class inequality         working-class source_verified_variant                1                  1                     True                                                                                                                            NaN
+       lodging house    housing          LodingHouses               OCR_error                1                  1                    False OCR-induced misreading of LodgingHouses; documented during source verification and not added to lexical-normalisation aliases.
+
+[SUCCESS] 17_spatial_disease_validation (scripts/16_moh_spatial_disease_validation.py)
+Source-valid spatial passage records: 32
+Distinct source-valid places: 16
+Raw place-disease candidate pairs: 12
+               validation_status  place_passage_pairs
+      false_structural_adjacency                    9
+direct_place_institution_disease                    2
+         management_context_only                    1
+
+[SUCCESS] 18_primary_nmf_figure_4_and_spatial_figure_6 (scripts/17_moh_technical_figures.py)
+Wrote deterministic-primary Figure 4, independent Figure 6, and non-blocking random-start diagnostics.
+
+[SUCCESS] 19_inequality_sensitivity (scripts/18_moh_inequality_marker_sensitivity.py)
+      scope  candidate_records  distinct_passages  raw_hits
+        all                 47                 41        57
+direct_only                 33                 29        36
+
+[SUCCESS] 20_workplace_address_extraction (scripts/19_moh_workplace_address_extraction.py)
+ year  enforcement_records  unique_addresses  workshop_records  bakehouse_records
+ 1894                   11                11                10                  1
+ 1895                   12                11                 9                  3
+ 1896                    1                 1                 1                  0
+Total                   24                23                20                  4
+
+Violation flags:
+ventilation: 14
+sanitary_conveniences_or_closet: 13
+overcrowding: 4
+cleanliness_or_dilapidation: 7
+sleeping_use: 2
+unfit_for_use: 4
+female_accommodation: 4
+infectious_disease: 1
+insufficient_light: 1
+
+[SUCCESS] 21_figures_5_and_7_maps (scripts/20_whitechapel_maps.py)
+{
+  "figure_5_addresses": 23,
+  "figure_7_places": 16,
+  "figure_6_pairs": 12,
+  "maps_directory": "<REPRODUCIBILITY_ROOT>/outputs/figures",
+  "audit": "<REPRODUCIBILITY_ROOT>/audit/rerun/map_inputs_and_outputs_audit.json"
+}

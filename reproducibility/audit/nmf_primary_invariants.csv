@@ -1,0 +1,6 @@
+﻿check,observed,expected,audit_class,status,notes
+deterministic_primary_configuration,k=7; init=nndsvda,k=7; init=nndsvda,HARD,PASS,Cross-platform floating-point weights may still vary.
+primary_component_matrix,"(7, 4000)","(7, 4000)",HARD,PASS,"Existence, dimensionality and finiteness are substantive gates; raw bytes are not."
+primary_component_assignment,3/4/1/2/6,3/4/1/2/6,HARD,PASS,Global one-to-one deterministic assignment.
+interpretive_labels,"Address-specific enforcement proceedings | Sanitary authority, statutory penalties and legal powers | Housing reform and metropolitan governance | Sanitary construction regulations | Penalty and by-law clauses","Address-specific enforcement proceedings | Sanitary authority, statutory penalties and legal powers | Housing reform and metropolitan governance | Sanitary construction regulations | Penalty and by-law clauses",HARD,PASS,Frozen interpretation order.
+figure_4_primary_source,deterministic primary inputs,deterministic primary inputs only,HARD,PASS,Random-start diagnostics are outside fig4().

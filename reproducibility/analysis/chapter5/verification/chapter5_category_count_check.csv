@@ -1,0 +1,6 @@
+category,expected_records,actual_records,matches_expected
+governance,264,264,TRUE
+sanitary,248,248,TRUE
+housing,133,133,TRUE
+disease,65,65,TRUE
+inequality,49,49,TRUE

@@ -1,0 +1,25 @@
+passage_id,year,address,workplace_type,violation_summary,outcome,ventilation,sanitary_conveniences_or_closet,overcrowding,cleanliness_or_dilapidation,sleeping_use,unfit_for_use,female_accommodation,infectious_disease,insufficient_light
+1894_0055,1894,178 Hanbury Street,Workshop,closet in workshop stopped and filthy,Work done; summons withdrawn,False,True,False,True,False,False,False,False,False
+1894_0055,1894,58 White Lion Street,Workshop,overcrowded,Abatement and prohibition orders; fine and costs,False,False,True,False,False,False,False,False,False
+1894_0055,1894,20 White's Row,Bakehouse,not properly ventilated; filthy; used as sleeping apartment,Closed forthwith; fine and costs,True,False,False,True,True,False,False,False,False
+1894_0055,1894,29 Old Montague Street,Workshop,insufficient sanitary conveniences; no separate female accommodation; poor ventilation; defective/dirty W.C.,Work done; summons withdrawn; costs,True,True,False,True,False,False,True,False,False
+1894_0055,1894,126 Old Montague Street,Workshop,dirty walls/ceiling; poor ventilation,Work done; summons withdrawn; costs,True,False,False,True,False,False,False,False,False
+1894_0055,1894,7 Ely Place,Workshop,overcrowded,Fine and costs,False,False,True,False,False,False,False,False,False
+1894_0055,1894,9 Shepherd Street,Workshop,insufficient sanitary conveniences; no separate female accommodation,Work done,False,True,False,False,False,False,True,False,False
+1894_0057,1894,5 Cox Square,Workshops,insufficient sanitary conveniences; no separate female accommodation; poor ventilation; building/closet/drain defects,Order to abate within 7 days,True,True,False,False,False,False,True,False,False
+1894_0057,1894,7 Cox Square,Workshop,poor ventilation; dirty/dilapidated workshop/staircase; closet/drain defects,Order to abate within 7 days,True,True,False,True,False,False,False,False,False
+1894_0059,1894,12 Duncan Street,Workshop,dirty/dilapidated walls/ceiling; insufficient sanitary conveniences; no separate female accommodation,Work done; summons withdrawn,False,True,False,True,False,False,True,False,False
+1894_0059,1894,"1 New Buildings, Tenter Street",Workshop,child with scarlet fever exposed in workshop,Dismissed on technical objection,False,False,False,False,False,False,False,True,False
+1895_0073,1895,27 Old Montague Street,Bakehouse,unfit for use,Summons dismissed; required works later carried out,False,False,False,False,False,True,False,False,False
+1895_0073,1895,148 Old Montague Street,Bakehouse,unfit for use,Order to put in proper sanitary condition; later disused,False,False,False,False,False,True,False,False,False
+1895_0074,1895,27 Old Montague Street,Bakehouse,used as sleeping apartment; no ceiling; defective floor; poor ventilation,Work done; summons withdrawn,True,False,False,False,True,False,False,False,False
+1895_0074,1895,3 Spelman Street,Workshop,insufficient sanitary conveniences; poor ventilation,Order to carry out necessary works within 14 days,True,True,False,False,False,False,False,False,False
+1895_0075,1895,141 Hanbury Street,Workshop,insufficient sanitary conveniences; overcrowded; poor ventilation,Order to carry out necessary works within 14 days,True,True,True,False,False,False,False,False,False
+1895_0075,1895,62 Chicksand Street,Workshop,insufficient sanitary conveniences; poor ventilation,Order to close within 14 days,True,True,False,False,False,False,False,False,False
+1895_0075,1895,22 Heneage Street,Workshop,poor ventilation; insufficient light,Order to close within 14 days,True,False,False,False,False,False,False,False,True
+1895_0075,1895,20 Corbett's Court,Workshops,overcrowded; poor ventilation; insufficient sanitary conveniences,Order to close within 14 days,True,True,True,False,False,False,False,False,False
+1895_0076,1895,39 Pelham Street,Workshop,poor ventilation; insufficient sanitary conveniences,Order to close forthwith,True,True,False,False,False,False,False,False,False
+1895_0076,1895,2 Fisher's Alley (South),Workshop,first-floor room used as workshop totally unfit for such use,Order to close forthwith,False,False,False,False,False,True,False,False,False
+1895_0076,1895,2 Fisher's Alley (North),Workshop,first-floor back room used as workshop totally unfit for such use,Order to close forthwith,False,False,False,False,False,True,False,False,False
+1895_0076,1895,43 Buxton Street,Workshops,poor ventilation; insufficient sanitary conveniences,Order to close forthwith,True,True,False,False,False,False,False,False,False
+1896_0059,1896,6 Fieldgate Street,Workshop,poor ventilation; dirty; no proper sanitary conveniences,Outcome outside retained passage context,True,True,False,True,False,False,False,False,False

@@ -1,0 +1,358 @@
+{
+  "started_utc": "2026-08-19T00:30:48.501533+00:00",
+  "python": "3.12.13 (main, Aug  7 2026, 02:15:23) [Clang 22.1.3 ]",
+  "platform": "macOS-15.3.2-arm64-arm-64bit",
+  "clean_start": true,
+  "stages": [
+    {
+      "stage": "01_corpus_preparation",
+      "script": "scripts/01_moh_quality_check.py",
+      "started_utc": "2026-08-19T00:30:48.509713+00:00",
+      "finished_utc": "2026-08-19T00:30:54.319622+00:00",
+      "duration_seconds": 5.81,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_corpus_clean.csv",
+        "outputs/tables/moh_quality_check.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "02_dictionary_keyword_retrieval",
+      "script": "scripts/02_moh_keyword_counts.py",
+      "started_utc": "2026-08-19T00:30:54.320312+00:00",
+      "finished_utc": "2026-08-19T00:30:54.936779+00:00",
+      "duration_seconds": 0.616,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_keyword_counts_by_year.csv",
+        "outputs/tables/moh_keyword_counts_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "03_place_retrieval",
+      "script": "scripts/03_moh_place_matching.py",
+      "started_utc": "2026-08-19T00:30:54.937455+00:00",
+      "finished_utc": "2026-08-19T00:30:55.378626+00:00",
+      "duration_seconds": 0.441,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_place_accepted_spans.csv",
+        "outputs/tables/moh_place_excluded_nested_spans.csv",
+        "outputs/tables/moh_place_mentions_by_year.csv",
+        "outputs/tables/moh_place_mentions_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "04_place_term_cooccurrence",
+      "script": "scripts/04_moh_place_term_cooccurrence.py",
+      "started_utc": "2026-08-19T00:30:55.379470+00:00",
+      "finished_utc": "2026-08-19T00:30:56.229172+00:00",
+      "duration_seconds": 0.85,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_place_term_cooccurrence.csv",
+        "outputs/tables/moh_top_place_term_pairs.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "05_basic_diagnostic_figures",
+      "script": "scripts/05_moh_basic_figures.py",
+      "started_utc": "2026-08-19T00:30:56.230003+00:00",
+      "finished_utc": "2026-08-19T00:31:07.545617+00:00",
+      "duration_seconds": 11.316,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/figures/moh_keyword_categories_by_year.png",
+        "outputs/figures/moh_place_term_heatmap.png",
+        "outputs/figures/moh_top_keywords.png",
+        "outputs/figures/moh_top_place_mentions.png",
+        "outputs/figures/moh_word_counts_by_year.png"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "06_cooccurrence_contexts",
+      "script": "scripts/06_moh_cooccurrence_contexts.py",
+      "started_utc": "2026-08-19T00:31:07.546707+00:00",
+      "finished_utc": "2026-08-19T00:31:07.968280+00:00",
+      "duration_seconds": 0.422,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_top_place_term_pairs_contexts.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "07_narrative_filtering",
+      "script": "scripts/07_moh_narrative_extraction.py",
+      "started_utc": "2026-08-19T00:31:07.969398+00:00",
+      "finished_utc": "2026-08-19T00:31:08.694449+00:00",
+      "duration_seconds": 0.725,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_narrative_passages.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "08_narrative_keyword_retrieval",
+      "script": "scripts/08_moh_narrative_keyword_analysis.py",
+      "started_utc": "2026-08-19T00:31:08.695542+00:00",
+      "finished_utc": "2026-08-19T00:31:09.166982+00:00",
+      "duration_seconds": 0.471,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_narrative_keyword_counts.csv",
+        "outputs/tables/moh_narrative_keyword_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "09_close_reading_candidates",
+      "script": "scripts/09_moh_close_reading_candidates.py",
+      "started_utc": "2026-08-19T00:31:09.168212+00:00",
+      "finished_utc": "2026-08-19T00:31:09.610571+00:00",
+      "duration_seconds": 0.442,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_close_reading_candidates.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "10_spatial_reference_candidates",
+      "script": "scripts/10_moh_spatial_reference_candidates.py",
+      "started_utc": "2026-08-19T00:31:09.611886+00:00",
+      "finished_utc": "2026-08-19T00:31:09.893608+00:00",
+      "duration_seconds": 0.282,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/moh_spatial_reference_candidates.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "11_figure_1",
+      "script": "scripts/00_corpus_workflow_figure.py",
+      "started_utc": "2026-08-19T00:31:09.894857+00:00",
+      "finished_utc": "2026-08-19T00:31:10.296449+00:00",
+      "duration_seconds": 0.402,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/figures/figure_01_corpus_workflow.png",
+        "outputs/tables/chapter3/fig1_corpus_workflow_data.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "12_figures_2_and_3",
+      "script": "scripts/11_moh_chapter3_figures.py",
+      "started_utc": "2026-08-19T00:31:10.297800+00:00",
+      "finished_utc": "2026-08-19T00:31:11.355516+00:00",
+      "duration_seconds": 1.058,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/figures/figure_02_theme_distribution.png",
+        "outputs/figures/figure_03_by_year_heatmap.png",
+        "outputs/tables/chapter3/chapter3_figure_manifest.json",
+        "outputs/tables/chapter3/fig2_theme_distribution_data.csv",
+        "outputs/tables/chapter3/fig3_by_year_heatmap_data.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "13_dictionary_appendix",
+      "script": "scripts/12_moh_keyword_dictionary_appendix.py",
+      "started_utc": "2026-08-19T00:31:11.357023+00:00",
+      "finished_utc": "2026-08-19T00:31:11.875212+00:00",
+      "duration_seconds": 0.518,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/appendices/Appendix_A_Controlled_Keyword_Dictionary.docx"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "14_nmf_primary_and_seed_sensitivity",
+      "script": "scripts/13_moh_topic_model_sensitivity.py",
+      "started_utc": "2026-08-19T00:31:11.876713+00:00",
+      "finished_utc": "2026-08-19T00:31:26.717641+00:00",
+      "duration_seconds": 14.841,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/audit/nmf_component_assignment.csv",
+        "outputs/tables/technical/nmf_component_assignment.csv",
+        "outputs/tables/technical/nmf_document_topics_k4_seed42.csv",
+        "outputs/tables/technical/nmf_document_topics_k5_seed42.csv",
+        "outputs/tables/technical/nmf_document_topics_k6_seed42.csv",
+        "outputs/tables/technical/nmf_document_topics_k7_seed42.csv",
+        "outputs/tables/technical/nmf_document_topics_k8_seed42.csv",
+        "outputs/tables/technical/nmf_pairwise_stability_k4.csv",
+        "outputs/tables/technical/nmf_pairwise_stability_k5.csv",
+        "outputs/tables/technical/nmf_pairwise_stability_k6.csv",
+        "outputs/tables/technical/nmf_pairwise_stability_k7.csv",
+        "outputs/tables/technical/nmf_pairwise_stability_k8.csv",
+        "outputs/tables/technical/nmf_primary_components_k7.npy",
+        "outputs/tables/technical/nmf_primary_document_topics_k7.csv",
+        "outputs/tables/technical/nmf_primary_topics_k7.csv",
+        "outputs/tables/technical/nmf_random_components_k7_seed1.npy",
+        "outputs/tables/technical/nmf_random_components_k7_seed100.npy",
+        "outputs/tables/technical/nmf_random_components_k7_seed21.npy",
+        "outputs/tables/technical/nmf_random_components_k7_seed42.npy",
+        "outputs/tables/technical/nmf_random_components_k7_seed84.npy",
+        "outputs/tables/technical/nmf_random_topics_k7_seed1.csv",
+        "outputs/tables/technical/nmf_random_topics_k7_seed100.csv",
+        "outputs/tables/technical/nmf_random_topics_k7_seed21.csv",
+        "outputs/tables/technical/nmf_random_topics_k7_seed42.csv",
+        "outputs/tables/technical/nmf_random_topics_k7_seed84.csv",
+        "outputs/tables/technical/nmf_stability_summary.csv",
+        "outputs/tables/technical/nmf_topic_stability_k4.csv",
+        "outputs/tables/technical/nmf_topic_stability_k5.csv",
+        "outputs/tables/technical/nmf_topic_stability_k6.csv",
+        "outputs/tables/technical/nmf_topic_stability_k7.csv",
+        "outputs/tables/technical/nmf_topic_stability_k8.csv",
+        "outputs/tables/technical/nmf_topics_k4_seed42.csv",
+        "outputs/tables/technical/nmf_topics_k5_seed42.csv",
+        "outputs/tables/technical/nmf_topics_k6_seed42.csv",
+        "outputs/tables/technical/nmf_topics_k7_seed42.csv",
+        "outputs/tables/technical/nmf_topics_k8_seed42.csv",
+        "outputs/tables/technical/topic_model_input.csv",
+        "outputs/tables/technical/topic_model_manifest.json"
+      ],
+      "warnings_or_errors": [
+        "    \"reconstruction_error\": 15.292839652141847,"
+      ]
+    },
+    {
+      "stage": "15_lda_sensitivity",
+      "script": "scripts/14_moh_lda_sensitivity.py",
+      "started_utc": "2026-08-19T00:31:26.720500+00:00",
+      "finished_utc": "2026-08-19T00:31:38.952376+00:00",
+      "duration_seconds": 12.232,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/technical/lda_pairwise_stability_k4.csv",
+        "outputs/tables/technical/lda_pairwise_stability_k5.csv",
+        "outputs/tables/technical/lda_pairwise_stability_k6.csv",
+        "outputs/tables/technical/lda_pairwise_stability_k7.csv",
+        "outputs/tables/technical/lda_pairwise_stability_k8.csv",
+        "outputs/tables/technical/lda_stability_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "16_lexical_normalisation_audit",
+      "script": "scripts/15_moh_lexical_normalisation_audit.py",
+      "started_utc": "2026-08-19T00:31:38.955417+00:00",
+      "finished_utc": "2026-08-19T00:31:39.215638+00:00",
+      "duration_seconds": 0.26,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/technical/lexical_normalisation_audit.csv"
+      ],
+      "warnings_or_errors": [
+        "       lodging house    housing          LodingHouses               OCR_error                1                  1                    False OCR-induced misreading of LodgingHouses; documented during source verification and not added to lexical-normalisation aliases."
+      ]
+    },
+    {
+      "stage": "17_spatial_disease_validation",
+      "script": "scripts/16_moh_spatial_disease_validation.py",
+      "started_utc": "2026-08-19T00:31:39.218705+00:00",
+      "finished_utc": "2026-08-19T00:31:39.431126+00:00",
+      "duration_seconds": 0.212,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/technical/spatial_disease_candidate_pairs.csv",
+        "outputs/tables/technical/spatial_disease_validation.csv",
+        "outputs/tables/technical/spatial_disease_validation_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "18_primary_nmf_figure_4_and_spatial_figure_6",
+      "script": "scripts/17_moh_technical_figures.py",
+      "started_utc": "2026-08-19T00:31:39.434083+00:00",
+      "finished_utc": "2026-08-19T00:31:40.063051+00:00",
+      "duration_seconds": 0.629,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/audit/nmf_component_assignment.csv",
+        "outputs/audit/nmf_random_sensitivity_by_primary_component.csv",
+        "outputs/figures/figure_04_nmf_primary_topics_by_year.png",
+        "outputs/figures/figure_06_spatial_disease_validation.png",
+        "outputs/tables/technical/nmf_component_assignment.csv",
+        "outputs/tables/technical/nmf_primary_topics_by_year.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "19_inequality_sensitivity",
+      "script": "scripts/18_moh_inequality_marker_sensitivity.py",
+      "started_utc": "2026-08-19T00:31:40.066249+00:00",
+      "finished_utc": "2026-08-19T00:31:40.243168+00:00",
+      "duration_seconds": 0.177,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/technical/inequality_marker_sensitivity_by_year.csv",
+        "outputs/tables/technical/inequality_marker_sensitivity_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "20_workplace_address_extraction",
+      "script": "scripts/19_moh_workplace_address_extraction.py",
+      "started_utc": "2026-08-19T00:31:40.246412+00:00",
+      "finished_utc": "2026-08-19T00:31:40.427466+00:00",
+      "duration_seconds": 0.181,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "outputs/tables/technical/workplace_address_extraction.csv",
+        "outputs/tables/technical/workplace_address_summary.csv"
+      ],
+      "warnings_or_errors": []
+    },
+    {
+      "stage": "21_figures_5_and_7_maps",
+      "script": "scripts/20_whitechapel_maps.py",
+      "started_utc": "2026-08-19T00:31:40.430852+00:00",
+      "finished_utc": "2026-08-19T00:31:46.162842+00:00",
+      "duration_seconds": 5.732,
+      "status": "success",
+      "return_code": 0,
+      "output_files": [
+        "audit/rerun/map_inputs_and_outputs_audit.json",
+        "outputs/figures/figure_05_workplace_enforcement_map.pdf",
+        "outputs/figures/figure_05_workplace_enforcement_map.png",
+        "outputs/figures/figure_07_source_validated_places_map.pdf",
+        "outputs/figures/figure_07_source_validated_places_map.png"
+      ],
+      "warnings_or_errors": []
+    }
+  ],
+  "completed_utc": "2026-08-19T00:31:46.169744+00:00",
+  "overall_status": "success"
+}

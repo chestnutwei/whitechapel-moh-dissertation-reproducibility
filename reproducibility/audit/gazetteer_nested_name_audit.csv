@@ -1,0 +1,3 @@
+short_form,long_form,overlap_type,handling_rule,test_status,short_standard_name,long_standard_name
+mile end,mile end new town,short_form_prefix_of_long_form,longest-match-first; reject any overlapping shorter span,PASS,Mile End,Mile End New Town
+mile end,mile end old town,short_form_prefix_of_long_form,longest-match-first; reject any overlapping shorter span,PASS,Mile End,Mile End Old Town

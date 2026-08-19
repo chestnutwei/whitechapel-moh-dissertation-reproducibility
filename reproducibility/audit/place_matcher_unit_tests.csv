@@ -1,0 +1,5 @@
+test_number,text,expected,actual,status
+1,Mile End New Town,Mile End New Town=1; Mile End Old Town=0; Mile End=0,Mile End New Town=1; Mile End Old Town=0; Mile End=0,PASS
+2,Mile End Old Town,Mile End New Town=0; Mile End Old Town=1; Mile End=0,Mile End New Town=0; Mile End Old Town=1; Mile End=0,PASS
+3,Mile End,Mile End New Town=0; Mile End Old Town=0; Mile End=1,Mile End New Town=0; Mile End Old Town=0; Mile End=1,PASS
+4,Mile End New Town and Mile End Old Town,Mile End New Town=1; Mile End Old Town=1; Mile End=0,Mile End New Town=1; Mile End Old Town=1; Mile End=0,PASS

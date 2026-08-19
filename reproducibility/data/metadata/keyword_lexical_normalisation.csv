@@ -1,0 +1,15 @@
+canonical_entry,category,source_verified_surface_variant,normalisation_type,include_in_alias_layer,notes
+smallpox,disease,small-pox,hyphenation,True,Source-text variant; canonical unhyphenated form does not occur in the final narrative corpus.
+lodging house,housing,lodging-house,hyphenation,True,Source-text variant.
+lodging house,housing,lodginghouse,spacing,True,Source-text variant.
+lodging house,housing,lodging houses,number,True,Source-text plural form mapped to the canonical accommodation concept.
+lodging house,housing,lodging-houses,number_and_hyphenation,True,Source-text plural form; moved from inequality to the housing canonical concept.
+lodging house,housing,lodginghouses,number_and_spacing,True,Source-text plural form mapped to the canonical accommodation concept.
+common lodging house,housing,common lodging-house,hyphenation,True,Source-text variant.
+common lodging house,housing,common lodginghouse,spacing,True,Source-text variant.
+common lodging house,housing,common lodginghouses,number_and_spacing,True,Source-text plural form mapped to the canonical accommodation concept.
+common lodging house,housing,common lodging houses,number,True,Source-text plural form mapped to the canonical accommodation concept.
+common lodging house,housing,common lodging-houses,number_and_hyphenation,True,Source-text plural form mapped to the canonical accommodation concept.
+water supply,sanitary,water-supply,hyphenation,True,Source-text variant.
+working class,inequality,working-class,hyphenation,True,Source-text variant.
+lodging house,housing,LodingHouses,OCR_error,False,OCR-induced misreading of LodgingHouses; documented but deliberately excluded from the lexical-normalisation aliases.
