@@ -1,10 +1,12 @@
-# Public Repository Readiness Report — Citation-Fix Candidate
+# Public Repository Readiness Report — Five-Meeting Final Candidate
 
 Audit date: 19 August 2026
 
 ## Final verdict
 
-Repository published at https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility; Release v1.0.0 issued 19 August 2026. Dissertation Word/PDF administrative QA pending.
+Repository published at https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility;
+Release v1.0.0 issued 19 August 2026. Dissertation Word/PDF administrative QA
+and the five-meeting supervision-log check are complete.
 
 Frozen release:
 https://github.com/chestnutwei/whitechapel-moh-dissertation-reproducibility/releases/tag/v1.0.0
@@ -16,6 +18,26 @@ SHA-256:
 `83145cf726f34cd3baa5842cd9dd945a28b169b2b9289e3a866f5ccc0c41c4bd`
 
 The repository and frozen v1.0.0 release are public. No dissertation Word or PDF file is included in the public repository or release asset. All frozen analytical results remain unchanged.
+
+## Dissertation administrative QA
+
+- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_FIVE_MEETINGS.docx`
+- Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL_FIVE_MEETINGS.pdf`
+- Microsoft Word body word count: **11,434 — PASS**
+- Abstract word count: **219 — PASS**
+- PDF pages / page size: **57 / A4 — PASS**
+- Word/PDF visual render: **57 / 57 pages PASS**
+- Contents, chapter, figure, table and appendix pagination: **PASS**
+- Private dissertation, signature, audio or supervision files in public package: **0**
+
+The final administrative revision added the 17 August 2026 supervision meeting
+to Appendix B.1 and changed its introduction from four documented meetings to
+five. The supervision dates are 3 June, 8 July, 24 July, 7 August and 17 August
+2026. The dissertation body, frozen analytical data and results, citations,
+quotations, page references, source identifiers, bibliography, legislation,
+controlled dictionary, NMF specification, figures, tables, captions and
+numbering were otherwise preserved.
+
 ## Citation compliance correction
 
 - §3.3 RANGE CITATION REMOVED: **PASS**
@@ -24,7 +46,7 @@ The repository and frozen v1.0.0 release are public. No dissertation Word or PDF
 - LEGISLATION: **2 / 2 PASS**
 - TOTAL BIDIRECTIONAL COVERAGE: **28 / 28 PASS**
 - Previous series-coverage status remaining: **0**
-- MICROSOFT WORD COUNT: **WORD COUNT REQUIRES MICROSOFT WORD RECALCULATION**
+- MICROSOFT WORD COUNT: **11,434 — PASS**
 - GITHUB UPLOAD: **PUBLISHED — REPOSITORY AND v1.0.0 RELEASE AVAILABLE**
 
 The synthetic range citation in §3.3 was replaced by the explicit annual list
@@ -90,11 +112,15 @@ release does not contain the environment, bytecode or test caches.
 - LEGISLATION: **2 / 2 PASS**
 - TOTAL SOURCE COVERAGE: **28 / 28 PASS**
 - B18: **PASS**
-- Passage traceability: **11 / 11 supported**
+- Passage traceability: **12 / 12 supported**
+- Dissertation-output cross-check: **65 / 65 PASS**
+- Cross-check mismatches: **0**
 
-The dissertation-output cross-check remains current and does not record the
-changed citation status, so it was preserved after inspection. Quotation-audit
-content also remains current.
+Passage `1890_0032` is explicitly traced and cross-checked as a structural or
+list-adjacency example, not as a disease-location claim. The dissertation's
+statement that four of the 24 workplace proceedings recorded separate female
+accommodation is cross-checked against the four frozen source records: 29 Old
+Montague Street, 9 Shepherd Street, 5 Cox Square and 12 Duncan Street.
 
 ## Audit bundle and README paths
 
@@ -103,6 +129,13 @@ content also remains current.
 - BROKEN README PATHS: **0**
 - Obsolete audit filename references: **0**
 - GITHUB PRIVATE FILE SCAN: **PASS**
+- Repository/public analytical files: **173**
+- Companion audit-bundle files: **9**
+- Total public file members: **182**
+- Transfer archive: `Whitechapel_GitHub_Upload_FINAL_FIVE_MEETINGS_CLEAN.zip`
+- Transfer archive CRC / integrity: **PASS**
+- Final public regression check: **PASS**
+- Final audit update pushed to `main`: **19 AUGUST 2026**
 
 The repository README identifies all nine companion forensic files under
 `audit_bundle/`. These files are outside the clean analytical ZIP, so the
