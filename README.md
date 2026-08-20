@@ -11,6 +11,8 @@ spatial analysis. It does **not** contain the dissertation, declaration,
 student number, supervisor correspondence, private examiner notes or signed
 submission material.
 
+> **Repository scope:** This repository provides code, data, frozen analytical outputs, source/provenance checks and reproducibility documentation only. All interpretation of the analysis and results, methodological discussion, and conclusions is contained in the submitted dissertation. Reproduction instructions and parameter records here are technical documentation and are not intended as independent analytical interpretation.
+
 ## Quick start
 
 ```bash
