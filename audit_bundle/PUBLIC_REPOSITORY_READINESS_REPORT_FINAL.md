@@ -1,4 +1,4 @@
-# Public Repository Readiness Report — Polished Final Candidate
+# Public Repository Readiness Report — Final Submission
 
 Audit date: 20 August 2026
 
@@ -26,25 +26,32 @@ The repository and frozen v1.0.0 release are public. No dissertation Word or PDF
 - Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL.pdf`
 - Final private PDF SHA-256: `c3d339db1a002bece2506dec94e7d21b744f1b290da89c417182a026f4a7db8a`
 - Microsoft Word body word count: **11,423 — PASS**
-- Abstract word count: **224 — PASS**
+- Microsoft Word abstract word count: **224 — PASS**
 - PDF pages / page size: **58 / A4 — PASS**
 - Word/PDF visual render: **58 / 58 pages PASS**
 - PDF Producer: **macOS 版本15.3.2（版号24D81） Quartz PDFContext — RECORDED**
-- Embedded PDF fonts: **Times New Roman and Calibri — PASS**
+- Embedded PDF fonts: Times New Roman and Calibri — PASS.
 - Tagged PDF: **No — RECORDED**
-- PDF link annotations: **2; both target the repository URL — PASS**
-- PDF bookmarks: **0 — RECORDED**
+- PDF repository hyperlink: PASS — 2 link annotations resolve to the repository URL.
+- PDF navigation bookmarks: not present; non-blocking.
 - PDF non-link annotations: **0 — PASS**
 - Contents, chapter, figure, table and appendix pagination: **PASS**
+- Figure 3 page: **24 — PASS**
+- Figure 5 page: **31 — PASS**
+- Figure 7 page: **34 — PASS**
+- Appendix B.2 page: **58 — PASS**
 - Figure 7 image and complete caption kept together on page 34: **PASS**
 - Appendix B.2 heading and complete audit-trail table kept together on page 58: **PASS**
+- List of Figures shortened presentation titles for Figures 3 and 5: **PASS**
 - Close-reading selection: **23 passages; 15 core; 8 supporting — PASS**
 - Private dissertation, signature, audio or supervision files in public package: **0**
 
-The final submission version differs from FINAL_POLISHED only through
-presentation-level changes, including repository hyperlink activation and
-shortened List of Figures entries. No analytical outputs, datasets, scripts,
-figures or frozen results were changed.
+The Microsoft Word abstract count was obtained by selecting only the Abstract
+body and excluding the “Abstract” heading. Ordinary whitespace tokenisation gives
+approximately 221 because en-dash compounds such as 1890–1899 and place–disease
+are segmented differently. The abstract remains below the CASA 300-word maximum.
+
+The FINAL submission version incorporates presentation-level changes made after FINAL_POLISHED, including activation of the repository hyperlink and shortened List of Figures entries for Figures 3 and 5. The dissertation body, analytical outputs, datasets, scripts, figures, tables, frozen results and substantive claims were not changed.
 
 The final private dissertation incorporates the source-checked model-dwellings
 interpretation in Section 1.1, saved NMF/LDA sensitivity disclosures in Section
