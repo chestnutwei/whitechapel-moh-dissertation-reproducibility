@@ -21,20 +21,30 @@ The repository and frozen v1.0.0 release are public. No dissertation Word or PDF
 
 ## Dissertation administrative QA
 
-- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL_SUBMISSION_v2.docx`
+- Final private DOCX: `JiangJie_CASA0010_Dissertation_FINAL.docx`
 - Final private DOCX SHA-256: `c6037301b26c32915a8aba5ac0c4d5bca44d5ca645837fe8218c8eac7f17f270`
-- Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL_POLISHED.pdf`
-- Final private PDF SHA-256: `0118734904e887cecc18ec3fbd6bab5f1e6efd48c4c7884e68c82874000af12e`
+- Final private PDF: `JiangJie_CASA0010_Dissertation_FINAL.pdf`
+- Final private PDF SHA-256: `c3d339db1a002bece2506dec94e7d21b744f1b290da89c417182a026f4a7db8a`
 - Microsoft Word body word count: **11,423 — PASS**
-- Abstract word count: **221 — PASS**
+- Abstract word count: **224 — PASS**
 - PDF pages / page size: **58 / A4 — PASS**
 - Word/PDF visual render: **58 / 58 pages PASS**
-- Native Word PDF fonts: **Times New Roman / Calibri embedded — PASS**
+- PDF Producer: **macOS 版本15.3.2（版号24D81） Quartz PDFContext — RECORDED**
+- Embedded PDF fonts: **Times New Roman and Calibri — PASS**
+- Tagged PDF: **No — RECORDED**
+- PDF link annotations: **2; both target the repository URL — PASS**
+- PDF bookmarks: **0 — RECORDED**
+- PDF non-link annotations: **0 — PASS**
 - Contents, chapter, figure, table and appendix pagination: **PASS**
 - Figure 7 image and complete caption kept together on page 34: **PASS**
 - Appendix B.2 heading and complete audit-trail table kept together on page 58: **PASS**
 - Close-reading selection: **23 passages; 15 core; 8 supporting — PASS**
 - Private dissertation, signature, audio or supervision files in public package: **0**
+
+The final submission version differs from FINAL_POLISHED only through
+presentation-level changes, including repository hyperlink activation and
+shortened List of Figures entries. No analytical outputs, datasets, scripts,
+figures or frozen results were changed.
 
 The final private dissertation incorporates the source-checked model-dwellings
 interpretation in Section 1.1, saved NMF/LDA sensitivity disclosures in Section
@@ -91,6 +101,7 @@ figure, passage, claim or audit decision consumes this top-30 context file.
 - CANONICAL PYTHON 3.12.13 RUN: **PASS**
 - PUBLIC TEST: **PASS**
 - Analytical stages: **21 / 21 PASS**
+- Hash verification: **164 / 164 files; 0 mismatches — PASS**
 - Second Python 3.12.x patch environment: **NOT AVAILABLE**
 
 The normal documented workflow was used with a local `.venv`: first
